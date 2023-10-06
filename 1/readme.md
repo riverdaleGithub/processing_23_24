@@ -14,7 +14,7 @@ To familiarize students with the Processing environment and its basic functions,
 <summary>1. Installation</summary>
 
 
-  Download and install the Processing software from <a href="[https://processing.org/reference](https://processing.org/reference)">Processing Reference</a>
+  Download and install the Processing software from <a href="https://processing.org/reference">Processing Reference</a>
 
 
   Open the Processing IDE and familiarize yourself with the interface.
@@ -99,7 +99,7 @@ Create a human face expressing some type of emotion. This may be an emoji, a pic
 <summary>Step Three</summary>
 
 3. Use Documentation to pick one new function to use in your assignment:
-   [Processing Documentation](https://processing.org/reference)
+   <a href="https://processing.org/reference)"> Processing Documentation </a>
 
 </details>
 
