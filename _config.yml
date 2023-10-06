@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Hello Processing
 description: First dive into processing!
 remote_theme: pages-themes/minimal@v0.2.0
