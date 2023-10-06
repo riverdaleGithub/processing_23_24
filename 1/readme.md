@@ -13,7 +13,8 @@ To familiarize students with the Processing environment and its basic functions,
 <details>
 <summary>1. Installation</summary>
 
-  Download and install the Processing software from [Processing Documentation](https://processing.org/reference)
+  Download and install the Processing software from [Processing Documentation]({% (https://processing.org/reference) %})
+
   Open the Processing IDE and familiarize yourself with the interface.
 </details>
 <br>
@@ -77,7 +78,7 @@ Create a human face expressing some type of emotion. This may be an emoji, a pic
 <summary>Step One</summary>
 
 1. Set the canvas size, background color, and shape color:
-   ![coords](../imgs/j1/coords.png)
+   ![coords](https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/coords.png?raw=true)
 
 </details>
 
@@ -86,7 +87,7 @@ Create a human face expressing some type of emotion. This may be an emoji, a pic
 <summary>Step Two</summary>
 
 2. Use geometry to create the face:
-   ![coords](../imgs/j1/geometry.png)
+   ![coords](https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/geometry.png?raw=true)
 
 </details>
 <br>
