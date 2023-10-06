@@ -27,5 +27,7 @@ Your understanding of the topics covered will be assessed through:
 
 ## Conclusion
 
-Get ready to embark on a creative coding journey with Processing in Java. By the end of this course, you'll be able to create interactive visual projects and animations. Let's get started!
+Get ready to embark on a creative coding journey with Processing in Java. By the end of this course, you'll be able to create interactive visual projects and animations. Let's get started by checking out the first assignment!
+
+<a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Hello Processing </a>
 
