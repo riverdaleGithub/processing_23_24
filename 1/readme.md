@@ -13,7 +13,11 @@ To familiarize students with the Processing environment and its basic functions,
 <details>
 <summary>1. Installation</summary>
 
-  Download and install the Processing software from [Processing Documentation]({% (https://processing.org/reference) %})
+<a href="[https://processing.org/reference](https://processing.org/reference)">Processing Reference</a>
+
+
+  Download and install the Processing software from <a href="[https://processing.org/reference](https://processing.org/reference)">Processing Reference</a>
+
 
   Open the Processing IDE and familiarize yourself with the interface.
 </details>
