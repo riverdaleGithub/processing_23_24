@@ -28,20 +28,22 @@ Before looking at the answer, research and document how to create a new sketch, 
 
 <details>
 <summary>Code Answer</summary>
+<pre>
+  <code>
+      
+        // This is a comment
+        void setup() {
+          size(400, 400);
+          background(200);
+        }
+      
+        void draw() {
+          ellipse(200, 200, 50, 50);
+        }
+  </code>
+</pre>
 
 
-  ```java
-
-  // This is a comment
-  void setup() {
-    size(400, 400);
-    background(200);
-  }
-
-  void draw() {
-    ellipse(200, 200, 50, 50);
-  }
-```
 </details>
 <br>
 
@@ -52,7 +54,11 @@ Press the play button (or Ctrl+R) to run your sketch.
 <summary>Detailed Answer</summary>
 
 
-You should see a window with a circle in the center of it. This is because the size(400, 400) function sets the size of the window to be 400x400 pixels, the background(200) function sets the background color to a shade of gray, and the ellipse(200, 200, 50, 50) function draws a circle in the center of the window with a width and height of 50 pixels.
+You should see a window with a circle in the center of it. This is because the <pre>
+  <code>size(400, 400)</code></pre> function sets the size of the window to be 400x400 pixels, the <pre>
+  <code>background(200)</code></pre> function sets the background color to a shade of gray, and the <pre>
+  <code>ellipse(200, 200, 50, 50)  </code>
+</pre>function draws a circle in the center of the window with a width and height of 50 pixels.
 
 Void means the function will not return a value
 the () is where an argument for the function would go
