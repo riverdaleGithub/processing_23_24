@@ -1,6 +1,6 @@
 theme: minima
 title: Hello Processing
-description: First dive into processing!
+description: Link to first Assignment: https://riverdalegithub.github.io/processing_23_24/1/
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
