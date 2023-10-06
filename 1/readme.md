@@ -1,4 +1,4 @@
-# Introduction to Processing with Java - Homework Assignment
+# Introduction to Processing with Java
 
 ---
 
