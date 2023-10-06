@@ -69,7 +69,7 @@ the () is where an argument for the function would go
 
 <br>
 
-### 3. Smile Face
+### Part 3. Smile Face
 
 Create a human face expressing some type of emotion. This may be an emoji, a picture, etc.
 
@@ -97,3 +97,4 @@ Create a human face expressing some type of emotion. This may be an emoji, a pic
    [Processing Documentation](https://processing.org/reference)
 
 </details>
+
