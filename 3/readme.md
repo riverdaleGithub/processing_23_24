@@ -34,6 +34,7 @@ With our class defined, we can create objects, which are instances of this class
 
 
 </details>
+<br>
 Here, we've created two objects: `sun` and `earth` from the `Planet` class. This is what we mean by Instance of an object, or instantiate an object.
 ---
 
@@ -52,11 +53,9 @@ Each object can use the methods defined in the `Planet` class.
 
 
 </details>
-
+<br>
 In this segment, we call the `show` and `update` methods for both the `sun` and `earth` objects.
 
 ---
 
-<br>
-<br>
 
