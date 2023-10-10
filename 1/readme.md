@@ -72,9 +72,11 @@ the () is where an argument for the function would go
 
 <br>
 
-### Part 3. Smile Face
+### Part 3. Creaste an Emoji
 
-Create a human face expressing some type of emotion. This may be an emoji, a picture, etc.
+Create a emoji expressing some type of information: feeling, season, thoughts, etc. This may be an 
+Take a look here for some ideas: <a href="https://emojipedia.org/">Emoji Reference</a>
+
 
 <details>
 <summary>Step One</summary>
