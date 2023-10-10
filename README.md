@@ -25,13 +25,30 @@ Your understanding of the topics covered will be assessed through:
 - Hands-on coding exercises
 - A final project
 
-## Lessons
-| Project             | Link        |
-| -----------         | ----------- |
-| Emojis              | <a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Hello Face </a>                        |
-| Solar System        | <a href="https://riverdalegithub.github.io/processing_23_24/2/"> J2: Solar System </a>                      |
-| Moving Objects      | <a href="https://riverdalegithub.github.io/processing_23_24/3/"> J3: Moving the Solar System </a>           |
-| Milestone Project   | <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J4:  </a>                                  |
 
 
-
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">The table header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Emojis</td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Hello Face </a> </td>
+    </tr>
+        <tr>
+      <td>Solar System</td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/2/">J2: Solar System </a></td>
+    </tr>
+        <tr>
+      <td>Moving Objects y</td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J3: Moving the Solar System </a>  </td>
+    </tr>
+        <tr>
+      <td>Milestone Project</td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J4: TBD  </a> </td>
+    </tr>
+  </tbody>
+</table>
