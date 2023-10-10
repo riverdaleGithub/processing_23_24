@@ -25,9 +25,13 @@ Your understanding of the topics covered will be assessed through:
 - Hands-on coding exercises
 - A final project
 
-## Conclusion
+## Lessons
+| Project             | Link        |
+| -----------         | ----------- |
+| Emojis              | <a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Hello Face </a>                        |
+| Solar System        | <a href="https://riverdalegithub.github.io/processing_23_24/2/"> J2: Solar System </a>                      |
+| Moving Objects      | <a href="https://riverdalegithub.github.io/processing_23_24/3/"> J3: Moving the Solar System </a>           |
+| Milestone Project   | <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J4:  </a>                                  |
 
-Get ready to embark on a creative coding journey with Processing in Java. By the end of this course, you'll be able to create interactive visual projects and animations. Let's get started by checking out the first assignment!
 
-<a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Hello Processing </a>
 
