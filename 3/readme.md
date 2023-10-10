@@ -12,36 +12,9 @@ OOP is a paradigm in programming where we model our program structure around "ob
 
 In OOP, a class is a blueprint for creating objects. For our solar system, we'll think of each planet as an object, and they will be created from the `Planet` class. 
 
-<pre>
-    <code>
-  class Planet {
-    float radius;
-    float distance;
-    float angle;
-    float orbitspeed;
-    PVector position;
+<img src="oop.png" alt="meow" width="500" height="500">
 
-    Planet(float r, float d, float o) {
-      radius = r;
-      distance = d;
-      orbitspeed = o;
-      angle = random(TWO_PI);
-      position = new PVector();
-    }
 
-    void show() {
-      fill(255);
-      ellipse(position.x, position.y, radius*2, radius*2);
-    }
-
-    void update() {
-      position.x = distance * cos(angle);
-      position.y = distance * sin(angle);
-      angle += orbitspeed;
-    }
-  }
-  </code>
-    </pre>
 </details>
 Here, the `Planet` class has attributes (like `radius` and `distance`) and methods (like `show` and `update`).
 
