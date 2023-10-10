@@ -30,7 +30,7 @@ Here, the `Planet` class has attributes (like `radius` and `distance`) and metho
 
 With our class defined, we can create objects, which are instances of this class. 
 
-<img src="oop_call.png" alt="meow" width="700" height="500">
+<img src="oop_call.png" alt="meow" width="700" height="400">
 
 
 </details>
@@ -48,12 +48,13 @@ Here, we've created two objects: `sun` and `earth` from the `Planet` class. This
 
 Each object can use the methods defined in the `Planet` class.
 
-<img src="done.png" alt="meow" width="700" height="500">
+<img src="done.png" alt="meow" width="700" height="400">
 
 
 </details>
 
 In this segment, we call the `show` and `update` methods for both the `sun` and `earth` objects.
+
 ---
 
 <br>
