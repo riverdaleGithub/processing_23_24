@@ -5,18 +5,23 @@ Hello budding astronomers and programmers! Let's embark on an interstellar journ
 ---
 
 
-<img src="solar.gif" alt="meow" width="500" height="500">
-
-
+<a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" aalt="meow" width="500" height="500"></a>
 
 ## 🛠 Setting Up
 
-1. **Install Processing**:
+<details>
+    <summary>Install Processing</summary>
+    <br>
+    1. Get the IDE
     - Visit [Processing's download page](https://processing.org/download/)
     - Install and launch Processing. It's like our spaceship control room!
 
-2. **Ensure You're in Java Mode**:
+   2. **Ensure You're in Java Mode**:
     - Processing uses Java by default. Just ensure you see 'Java' in the top right.
+    
+</details>
+
+
 
 <details>
   <summary>🌟 Hint: Troubles installing?</summary>
