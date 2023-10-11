@@ -48,9 +48,9 @@ Make sure you have the right version for your operating system. If you get stuck
 <details>
 <summary>🌟 Hint</summary>
     
-    "The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
-<br>
-    <img src="ellipse.png" aalt="meow" width="500" height="500">
+"The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
+
+
 </details>
 
 
@@ -70,8 +70,10 @@ Make sure you have the right version for your operating system. If you get stuck
 <details>
   <summary>🌟 Hint</summary>
    
-    The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
-    
+ The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
+    <br>
+    <br>
+        <img src="ellipse.png" aalt="meow" width="500" height="500">
 </details>
 
 ## 🪐 Step 3: Add All Planets
