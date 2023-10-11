@@ -38,14 +38,13 @@ Make sure you have the right version for your operating system. If you get stuck
     <pre>
     <code>
         void setup() {
-        size(800, 600);  // This is our universe's size!
-        background(0);   // A pitch-black universe
+           size(800, 600);  // This is our universe's size!
+           background(0);   // A pitch-black universe
         }
     </code>
     </pre>
 </details>
-<br>
-<br>
+
 <details>
 <summary>🌟 Hint</summary>
 "The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
@@ -60,14 +59,13 @@ Make sure you have the right version for your operating system. If you get stuck
 <pre>
   <code>
     void draw() {
-    fill(255, 204, 0);  // Yellow color for the sun
-    ellipse(400, 300, 100, 100);  // Draws sun at the center of the canvas
+       fill(255, 204, 0);  // Yellow color for the sun
+       ellipse(400, 300, 100, 100);  // Draws sun at the center of the canvas
     }
   </code>
     </pre>
 </details>
-<br>
-<br>
+
 <details>
   <summary>🌟 Hint</summary>
 The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
