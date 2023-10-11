@@ -30,7 +30,7 @@ Your understanding of the topics covered will be assessed through:
 <table>
   <thead>
     <tr>
-      <th colspan="2">The table header</th>
+      <th colspan="2">Lessons</th>
     </tr>
   </thead>
   <tbody>
