@@ -1,6 +1,6 @@
 # 🌌 Solar System in Processing 🪐
 
-Hello budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀
+Hello budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀 First, you should click on the gif below :)
 
 ---
 
