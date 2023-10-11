@@ -13,7 +13,7 @@ Hello budding astronomers and programmers! Let's embark on an interstellar journ
     <summary>Install Processing</summary>
     <br>
     1. Get the IDE
-    - Visit [Processing's download page](https://processing.org/download/)
+    - Visit <a href= "https://processing.org/download/"> Processing's download Page</a>
     - Install and launch Processing. It's like our spaceship control room!
 
    2. **Ensure You're in Java Mode**:
@@ -35,7 +35,7 @@ Make sure you have the right version for your operating system. If you get stuck
 <details>
   <summary>👾 Code Example</summary>
 
-    <pre>
+<pre>
     <code>
         void setup() {
            size(800, 600);  // This is our universe's size!
@@ -47,7 +47,10 @@ Make sure you have the right version for your operating system. If you get stuck
 
 <details>
 <summary>🌟 Hint</summary>
-"The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
+    
+    "The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
+<br>
+    <img src="ellipse.png" aalt="meow" width="500" height="500">
 </details>
 
 
@@ -66,7 +69,9 @@ Make sure you have the right version for your operating system. If you get stuck
 
 <details>
   <summary>🌟 Hint</summary>
-The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
+   
+    The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
+    
 </details>
 
 ## 🪐 Step 3: Add All Planets
