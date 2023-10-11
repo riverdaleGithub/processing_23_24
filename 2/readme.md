@@ -50,8 +50,6 @@ Make sure you have the right version for your operating system. If you get stuck
 "The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
 </details>
 
-<br>
-<br>
 
 ## 🌞 Step 2: Light Up the Sun
 <details>
