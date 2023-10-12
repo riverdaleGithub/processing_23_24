@@ -35,14 +35,7 @@ Make sure you have the right version for your operating system. If you get stuck
 <details>
   <summary>👾 Code Example</summary>
 
-<pre>
-    <code>
-        void setup() {
-           size(800, 600);  // This is our universe's size!
-           background(0);   // A pitch-black universe
-        }
-    </code>
-    </pre>
+<img src="space.png" height="500" width="700">
 </details>
 
 <details>
@@ -57,14 +50,9 @@ Make sure you have the right version for your operating system. If you get stuck
 ## 🌞 Step 2: Light Up the Sun
 <details>
   <summary>👾 Code Example</summary>
-<pre>
-  <code>
-    void draw() {
-       fill(255, 204, 0);  // Yellow color for the sun
-       ellipse(400, 300, 100, 100);  // Draws sun at the center of the canvas
-    }
-  </code>
-    </pre>
+    <img src="sun.png" height="500" width="700">
+
+
 </details>
 
 <details>
@@ -73,7 +61,7 @@ Make sure you have the right version for your operating system. If you get stuck
  The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
     <br>
     <br>
-        <img src="ellipse.png" aalt="meow" width="500" height="500">
+        <img src="ellipse.png" alt="meow" width="500" height="500">
 </details>
 
 ## 🪐 Step 3: Add All Planets
