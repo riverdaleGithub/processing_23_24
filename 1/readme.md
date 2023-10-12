@@ -32,7 +32,7 @@ Before looking at the answer, research and document how to create a new sketch, 
 <details>
 <summary>Code Answer</summary>
 
-<img href='circle.png'>
+<img src='circle.png'>
 
 
 </details>
@@ -56,6 +56,76 @@ the () is where an argument for the function would go
 {} denotes everything that belongs to the function
 
 </details>
+
+<details>
+  <summary> Void Setup </summary>
+
+  Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything's set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
+
+**1. `void setup()`: Preparing Your Sketchbook**
+
+In Processing, the `void setup()` function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program.
+
+Inside `void setup()`, you can:
+- Set the size of your canvas (using the `size()` function).
+- Choose the background color (with the `background()` function).
+- Initialize variables.
+- Load images, fonts, or sounds you want to use later.
+- Basically, any initial preparations you need before your main drawing begins.
+
+Example:
+
+<pre>
+  <code>
+  void setup() {
+      size(400, 400);          // Set canvas size to 400 pixels by 400 pixels
+      background(255, 0, 0);   // Set background color to red
+    }
+  </code> </pre>
+  
+</details>
+<details>
+  <summary> Void Draw </summary>
+   
+  `void draw()`: Continuously Drawing on Your Canvas
+
+  Now, the `void draw()` function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside `void     draw()` happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second).
+
+  This makes it perfect for animations, games, or any interactive programs where things change over time.
+
+  Inside `void draw()`, you can:
+  - Draw shapes (like circles, rectangles, lines, etc.).
+  - Check for user inputs (like mouse clicks or key presses).
+  - Update positions of objects for animations.
+  - Change colors, sizes, or any other properties of your drawings.
+
+Example:
+<pre>
+
+  <code>
+
+  void draw() {
+    background(220);         // Set a gray background every frame
+    ellipse(mouseX, mouseY, 50, 50);  // Draw a circle at the mouse position
+  }
+  </code>
+</pre>
+  Give the code example a try!
+</deatails>
+
+
+Here, the `ellipse()` function draws a circle. The `mouseX` and `mouseY` are special variables that always store the current position of the mouse. Since `draw()` is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
+
+**In summary:**
+- `void setup()`: Run once at the beginning. Set the stage!
+- `void draw()`: Run continuously after setup. It's where the action happens!
+
+When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
+</details>
+
+
+
+
 </details>
 
 <br>
