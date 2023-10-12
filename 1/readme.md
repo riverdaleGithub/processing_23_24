@@ -4,7 +4,7 @@
 
 ## Objective
 
-To familiarize students with the Processing environment and its basic functions, as well as to provide an introduction to Java programming concepts.
+To familiarize one with the Processing environment and its basic functions, as well as to provide an introduction to Java programming concepts.
 
 ---
 
@@ -26,7 +26,7 @@ To familiarize students with the Processing environment and its basic functions,
 <details>
 <summary>2. First Sketch</summary>
 
-Before looking at the answer, research and document how to create a new sketch, and record your answer. Next, verify your code below, and define excatly what each word is doing
+Before looking at the answer, research and document how to create a new sketch, and record your answer. Next, verify your code below, and define  what each word is doing
 <br>
 
 <details>
@@ -60,11 +60,14 @@ the () is where an argument for the function would go
 <details>
   <summary> Void Setup </summary>
 
-  Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything's set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
+Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything's set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
+<br>
 
 **1. `void setup()`: Preparing Your Sketchbook**
+<br>
 
 In Processing, the `void setup()` function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program.
+
 
 Inside `void setup()`, you can:
 - Set the size of your canvas (using the `size()` function).
@@ -72,6 +75,7 @@ Inside `void setup()`, you can:
 - Initialize variables.
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
+<br>
 
 Example:
 
@@ -88,11 +92,11 @@ Example:
   <summary> Void Draw </summary>
    
   `void draw()`: Continuously Drawing on Your Canvas
-
+  <br>
   Now, the `void draw()` function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside `void     draw()` happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second).
-
+  <br>
   This makes it perfect for animations, games, or any interactive programs where things change over time.
-
+  <br>
   Inside `void draw()`, you can:
   - Draw shapes (like circles, rectangles, lines, etc.).
   - Check for user inputs (like mouse clicks or key presses).
@@ -115,7 +119,7 @@ Example:
 
 
 Here, the `ellipse()` function draws a circle. The `mouseX` and `mouseY` are special variables that always store the current position of the mouse. Since `draw()` is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
-
+<br>
 **In summary:**
 - `void setup()`: Run once at the beginning. Set the stage!
 - `void draw()`: Run continuously after setup. It's where the action happens!
@@ -130,9 +134,9 @@ When you're just starting, remember that it's okay if things don't make perfect 
 
 <br>
 
-## Part 3. Creaste an Emoji
+## Part 3. Create an Emoji
 
-Create an emoji expressing some type of information: feeling, season, thoughts, etc. This may be an existing emoji, or your own new emoji! Take a look here for some ideas: <a href="https://emojipedia.org/" width="700" height="600">Emoji Reference</a>
+Create an emoji expressing some type of information: feelings, seasons, thoughts, etc. This may be an existing emoji or your own new emoji! Take a look here for some ideas: <a href="https://emojipedia.org/" width="700" height="600">Emoji Reference</a>
 
 
 <details>
@@ -164,13 +168,13 @@ Create an emoji expressing some type of information: feeling, season, thoughts, 
 
 ## Project Checklist
 12.5 points per checkbox
-
-- [ ] Void Setup used
+  
+- [ ] Void Setup used </input>
 - [ ] Void Draw used
 - [ ] Researched Function Used
 - [ ] Line Used
 - [ ] 3 Unique Shapes Used
-- [ ] Backgrond Color Used
+- [ ] Background Color Used
 - [ ] Fill Used
 - [ ] Unique Emoji
 
