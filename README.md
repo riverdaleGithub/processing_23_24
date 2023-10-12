@@ -12,7 +12,6 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 - Eagerness to learn!
 
-
 ## Resources
 
 - [Official Processing Website](https://processing.org/)
@@ -24,8 +23,6 @@ Processing is a flexible software sketchbook and a language for learning how to 
 Your understanding of the topics covered will be assessed through:
 - Hands-on coding exercises
 - A final project
-
-
 
 <table>
   <thead>
