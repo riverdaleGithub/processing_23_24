@@ -7,7 +7,7 @@ timezone: America/New_York
 lang: en-US
 # Minima Theme Customization
 minima:
-  skin: solarized-dark
+  skin: dark
   sidebar:
     - title: "Home"
       #image: /path/to/image.jpg
