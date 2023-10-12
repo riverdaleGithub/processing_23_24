@@ -1,16 +1,25 @@
 # Theme Configuration
 remote_theme: pages-themes/minimal@v0.2.0
-
 # Site Title & Description
 title: Hello Processing
-description: 👻🕯🎃🕸🦇 October Lessons 👻🕯🎃🕸🦇
-
+description: 👻🕯🎃🕸 October Lessons 👻🕯🎃🕸
+timezone: America/New_York
+lang: en-US
 # Minima Theme Customization
 minima:
   skin: solarized-dark
-
-# Header Configuration
+  sidebar:
+    - title: "Home"
+      #image: /path/to/image.jpg
+      text: "Home"
+    - title: "More Links"
+      links:
+        - url: https://riverdalegithub.github.io/processing_23_24/
+          title: Landing Page
+# Header & Footer Links
 header_pages:
+  - README.md
+footer_pages:
   - README.md
 
 # Author Information
@@ -18,6 +27,10 @@ author:
   name: Lila James
   email: ljames@riverdale.edu
 
-# Plugins
+# SEO & Feed (if using jekyll-seo-tag & jekyll-feed plugins)
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Google Analytics (if your theme supports it)
+#google_analytics: UA-XXXXXXX
