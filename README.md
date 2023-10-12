@@ -47,7 +47,6 @@ Your understanding of the topics covered will be assessed through:
         <tr>
       <td>Interactions </td>
       <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J4: Intro to Physics  </a> </td>
-    </tr>
         </tr>
         <tr>
       <td>Milestone Project</td>
