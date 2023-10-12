@@ -60,7 +60,7 @@ the () is where an argument for the function would go
 
 <br>
 
-### Part 3. Creaste an Emoji
+## Part 3. Creaste an Emoji
 
 Create an emoji expressing some type of information: feeling, season, thoughts, etc. This may be an existing emoji, or your own new emoji! Take a look here for some ideas: <a href="https://emojipedia.org/" width="700" height="600">Emoji Reference</a>
 
