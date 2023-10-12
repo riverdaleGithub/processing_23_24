@@ -62,14 +62,15 @@ the () is where an argument for the function would go
 
 ### Part 3. Creaste an Emoji
 
-Create an emoji expressing some type of information: feeling, season, thoughts, etc. This may be an existing emoji, or your own new emoji! Take a look here for some ideas: <a href="https://emojipedia.org/">Emoji Reference</a>
+Create an emoji expressing some type of information: feeling, season, thoughts, etc. This may be an existing emoji, or your own new emoji! Take a look here for some ideas: <a href="https://emojipedia.org/" width="700" height="600">Emoji Reference</a>
 
 
 <details>
 <summary>Step One</summary>
 
 1. Set the canvas size, background color, and shape color:
-   <img src="https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/coords.png?raw=true" alt="meow" width="700" height="600">
+<br>
+<img src="https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/coords.png?raw=true" alt="meow" width="700" height="600">
 
 
 </details>
