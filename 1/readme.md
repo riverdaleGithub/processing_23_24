@@ -31,20 +31,8 @@ Before looking at the answer, research and document how to create a new sketch, 
 
 <details>
 <summary>Code Answer</summary>
-<pre>
-  <code>
-      
-        // This is a comment
-        void setup() {
-          size(400, 400);
-          background(200);
-        }
-      
-        void draw() {
-          ellipse(200, 200, 50, 50);
-        }
-  </code>
-</pre>
+
+<img href='circle.png'>
 
 
 </details>
