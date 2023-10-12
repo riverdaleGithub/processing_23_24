@@ -18,10 +18,11 @@ Processing is a flexible software sketchbook and a language for learning how to 
 - [Processing Tutorials](https://processing.org/tutorials/)
 - [The Coding Train (YouTube)](https://www.youtube.com/user/shiffman) - Fun and engaging video tutorials on Processing.
 
-## Assessment
+## Assessments
 
 Your understanding of the topics covered will be assessed through:
 - Hands-on coding exercises
+- Reports
 - A final project
 
 <table>
