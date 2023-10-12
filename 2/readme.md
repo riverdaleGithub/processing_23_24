@@ -4,7 +4,7 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
 
 Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a>, use user input via the mouse, a conditional based on said input, and some pretty shapes 💖
 
-<a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" aalt="meow" width="500" height="500"></a>
+<a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" alt="meow" width="500" height="500"></a>
 
 ---
 
@@ -97,7 +97,7 @@ Look up and add user input and a conditional to your program. I suggest using th
 
 Here is the actual Java code!
 
-<img src="java_if_code.png" alt="meow" width="300" height="300">
+<img src="java_if_code.png" alt="meow" width="400" height="200">
 
 
 ## 🪐 Step 5: Add All Planets
