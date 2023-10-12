@@ -1,11 +1,12 @@
 # 🌌 Solar System in Processing 🪐
 
-Hello budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀 First, you should click on the gif below to decide which phase of our solar system you are going to simulate. Before moving on, you must have your idea/plan peer reviewed by three other students!
+Hello budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀 First, you should click on the gif below to decide which phase of our solar system you are going to simulate. Before moving on, you must have your idea/plan peer reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a> 
+
+<a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" aalt="meow" width="500" height="500"></a>
 
 ---
 
 
-<a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" aalt="meow" width="500" height="500"></a>
 
 ## 🛠 Setting Up
 
