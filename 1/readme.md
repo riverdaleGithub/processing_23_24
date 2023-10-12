@@ -89,6 +89,7 @@ Example:
   </code> </pre>
   
 </details>
+
 <details>
   <summary> Void Draw </summary>
    
@@ -131,10 +132,6 @@ Here, the `ellipse()` function draws a circle. The `mouseX` and `mouseY` are spe
 When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
 </details>
 
-
-
-
-</details>
 
 <br>
 
