@@ -1,6 +1,8 @@
 # 🌌 Solar System in Processing 🪐
 
-Hello, budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀 First, you should click on the gif below to decide which phase of our solar system you will simulate. Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a> 
+Hello, budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀 First, you should click on the gif below to decide which phase of our solar system you will simulate. 
+
+Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a>, use user input via the mouse, a conditional based on said input, and some pretty shapes 💖
 
 <a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" aalt="meow" width="500" height="500"></a>
 
@@ -73,7 +75,7 @@ You already have been making flow charts and using conditionals! here is a basic
 </details>
 
 ## Step 3 & 4:  If 🐁 do
-Look up and add user input and a conditional to your program :) 
+Look up and add user input and a conditional to your program. I suggest using the mouse, but you can use whichever method you like. 
 
 <details>
   <summary>🌟 Input Hint</summary>
@@ -88,18 +90,14 @@ Look up and add user input and a conditional to your program :)
    If statements in Java are the same as in every language. The only change is in the structure of the words, i.e., syntax.
     <br>
     <br>
-        <img src="java_if_else.png" alt="meow" width="500" height="500">
-    <br>
-    <br>
-    <br>
-    Here is the actual Java code!
-    
-    
+    <img src="java_if_else.png" alt="meow" width="500" height="500">
+ 
+</details>    
+<br>
+
+Here is the actual Java code!
+
 <img src="java_if_code.png" alt="meow" width="300" height="300">
-
-</details>
-
-
 
 
 ## 🪐 Step 5: Add All Planets
