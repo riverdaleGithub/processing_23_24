@@ -72,7 +72,7 @@ You already have been making flow charts and using conditionals! here is a basic
 
 </details>
 
-## 🪐 Step 🐁: If & Input
+## Step 3 & 4:  If 🐁 do
 Look up and add user input and a conditional to your program :) 
 
 <details>
@@ -91,8 +91,11 @@ Look up and add user input and a conditional to your program :)
         <img src="java_if_else.png" alt="meow" width="500" height="500">
     <br>
     <br>
+    <br>
     Here is the actual Java code!
-            <img src="java_if_code.png" alt="meow" width="500" height="500">
+    
+    
+<img src="java_if_code.png" alt="meow" width="300" height="300">
 
 </details>
 
