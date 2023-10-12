@@ -62,14 +62,14 @@ the () is where an argument for the function would go
 
 Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything's set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
 <br>
-
-**1. `void setup()`: Preparing Your Sketchbook**
+<br>
+`void setup()`: Preparing Your Sketchbook**
 <br>
 
-In Processing, the `void setup()` function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program.
+In Processing, the `void setup()` function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside `void setup()`, you can:
+<br>
+<br>
 
-
-Inside `void setup()`, you can:
 - Set the size of your canvas (using the `size()` function).
 - Choose the background color (with the `background()` function).
 - Initialize variables.
@@ -95,14 +95,17 @@ Example:
   <br>
   Now, the `void draw()` function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside `void     draw()` happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second).
   <br>
+  <br>
   This makes it perfect for animations, games, or any interactive programs where things change over time.
+  <br>
   <br>
   Inside `void draw()`, you can:
   - Draw shapes (like circles, rectangles, lines, etc.).
   - Check for user inputs (like mouse clicks or key presses).
   - Update positions of objects for animations.
   - Change colors, sizes, or any other properties of your drawings.
-
+<br>
+<br>
 Example:
 <pre>
 
@@ -116,7 +119,7 @@ Example:
 </pre>
   Give the code example a try!
 </deatails>
-
+<br>
 
 Here, the `ellipse()` function draws a circle. The `mouseX` and `mouseY` are special variables that always store the current position of the mouse. Since `draw()` is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
 <br>
