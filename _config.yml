@@ -4,4 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Hello Processing
 description: 👻🕯🎃🕸🦇 October Lessons 👻🕯🎃🕸🦇
-
+minima:
+  skin: solarized-dark	
+header_pages:
+  - README.md
