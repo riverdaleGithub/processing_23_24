@@ -158,7 +158,19 @@ Create an emoji expressing some type of information: feeling, season, thoughts, 
 <summary>Step Three</summary>
 
 3. Use Documentation to pick one new function to use in your assignment:
-   <a href="https://processing.org/reference)"> Processing Documentation </a>
+   <a href="https://processing.org/reference"> Processing Documentation </a>
 
 </details>
+
+## Project Checklist
+12.5 points per checkbox
+
+- [ ] Void Setup used
+- [ ] Void Draw used
+- [ ] Researched Function Used
+- [ ] Line Used
+- [ ] 3 Unique Shapes Used
+- [ ] Backgrond Color Used
+- [ ] Fill Used
+- [ ] Unique Emoji
 
