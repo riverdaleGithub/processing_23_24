@@ -28,6 +28,7 @@ To familiarize one with the Processing environment and its basic functions, as w
 
 Before looking at the answer, research and document how to create a new sketch, and record your answer. Next, verify your code below, and define  what each word is doing
 <br>
+</details>
 
 <details>
 <summary>Code Answer</summary>
@@ -144,12 +145,10 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 
 <details>
 <summary>Step One</summary>
-
+  
 1. Set the canvas size, background color, and shape color:
 <br>
 <img src="https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/coords.png?raw=true" alt="meow" width="700" height="600">
-
-
 </details>
 
 <br>
@@ -161,9 +160,9 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 <img src="https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/geometry.png?raw=true" alt="meow" width="700" height="600">
 </details>
 <br>
+
 <details>
 <summary>Step Three</summary>
-
 3. Use Documentation to pick one new function to use in your assignment:
    <a href="https://processing.org/reference"> Processing Documentation </a>
 
