@@ -92,7 +92,7 @@ Look up and add user input and a conditional to your program :)
     <br>
     <br>
     Here is the actual Java code!
-            <img src="java_if_else" alt="meow" width="500" height="500">
+            <img src="java_if_code.png" alt="meow" width="500" height="500">
 
 </details>
 
