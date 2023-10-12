@@ -168,7 +168,7 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 ## Project Checklist
 12.5 points per checkbox
   
-- [ ] Void Setup used </input>
+- [ ] Void Setup used
 - [ ] Void Draw used
 - [ ] Researched Function Used
 - [ ] Line Used
