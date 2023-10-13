@@ -38,13 +38,13 @@ Click to learn about the solar system
 Before moving on, you must have your idea/plan peer-reviewed by three other students
     
 1. When Being reviewed:
-- Create a flow chart of your program logic. T
+- Create a flow chart of your program logic. 
 - Explain how said logic will represent the science aspect of our solar system by doing x,y, and z,
 - Explain how said logic will represent the artistic aspect of our solar system by doing x,y, and z credit.
 
 <details>
     <summary> Flow Chart </summary>
-<img src="java_if_else.png" alt="meow">
+<img src="flowchart.jpeg" alt="meow">
 </details>
 
 2. When Reviewing: Provide a grow, glow, and original comment 
@@ -107,7 +107,7 @@ Look up and add user input and a conditional to your program. I suggest using th
   
 <details>
     <summary> Flow Chart </summary>
-<img src="java_if_else.png" alt="meow">
+<img src="flowchart.jpeg" alt="meow">
 </details>
 
 <details>
