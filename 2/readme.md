@@ -3,52 +3,50 @@
 Hello, budding astronomers and programmers! Let's embark on an interstellar journey to create a model of our solar system at a certain point in time. Don't worry, soon we'll make those celestial bodies revolve! 🚀 First, however, you should click on the gif below to decide which phase of our solar system you will simulate. 
 
 
-Learn about the solar system, and pick the phase you will simulate.
+Click to learn about the solar system
 
 <a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" alt="meow" width="500" height="500"></a>
 
 ---
+## 👻 Plan 👻
 
-## Peer Review
+<details>
+<summary>Answers these for planning</summary>
+    
+    1. What are you going to build?
+    2. What colors will you use? 
+    3. What shapes will you use? 
+    4. What future actions will you want your planets/stars to do?
+    5. How will you know you are done?
+    6. How will you take risks while building?
+    7. What is the final product?
+    8. Who is doing what?
+    9. When will this be done?
+    10. What is your favorite time of the year?
+    
+</details>
+
+
+---
+
+## 🎃 Peer Review 🎃
 
 <details>
 <summary>What/How</summary>
     
     
-Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to know what the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a> does, use user input via the mouse, use a conditional based on said input, create three unique pretty shapes 💖, pick one artistic aspect, light, color, shadows, etc to focus on, pick one scientific aspect to focus on, stars, planets, moons, gas clouds
+Before moving on, you must have your idea/plan peer-reviewed by three other students
     
 1. When Being reviewed: Create a flow chart of your program logic. Then, explain how said logic will represent stage X, the science aspect, of our solar system, by doing x,y, and z, the artistic aspect, to your peers. Record your feedback from peers for credit.
-    
+
+<br>
+
 2. When Reviewing: Provide a grow, glow, and original comment 
 </details>
 
 ---
 
-
-## 🛠 Setting Up
-
-<details>
-    <summary>Install Processing</summary>
-        1.) Get the IDE
-        <br>
-        2.) Visit <a href= "https://processing.org/download/"> Processing's download Page</a>
-        <br>
-        3. Install and launch Processing. It's like our spaceship control room!
-        Ensure You're in Java Mode:
-        - Processing uses Java by default. Just ensure you see 'Java' in the top right.
-        
-</details>
-
-
-
-<details>
-  <summary>🌟 Hint: Troubles installing?</summary>
-Make sure you have the right version for your operating system. If you get stuck, ask a classmate or your teacher for help.
-</details>
-
----
-
-## 🌞 Step 1: Set up the Cosmic Canvas
+## ⭐ Step 1: Set up the Cosmic Canvas
 
 <details>
   <summary>👾 Code Example</summary>
@@ -57,7 +55,7 @@ Make sure you have the right version for your operating system. If you get stuck
 </details>
 
 <details>
-<summary>🌟 Hint</summary>
+<summary> 🦮 Hint</summary>
     
 "The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
 
@@ -65,22 +63,22 @@ Make sure you have the right version for your operating system. If you get stuck
 </details>
 
 
-## 🌞 Step 2: Light Up the Stars
+##  🌟  Step 2: Light Up the Stars
 <details>
   <summary>👾 Code Example</summary>
-    <img src="sun.png" height="500" width="700">
+    <img src="sun.png" >
 
 
 </details>
 
 <details>
-  <summary>🌟 Hint</summary>
+  <summary> 🦮 Hint</summary>
    
  The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
  
-<img src="ellipse.png" alt="meow" width="500" height="500">
+<img src="ellipse.png" alt="meow" >
 
-You already have been making flow charts and using conditionals! here is a basic condition in java!
+You already have been making flow charts and using conditionals! here is a basic condition in Java!
 <br>
 <br>
 
@@ -98,12 +96,12 @@ Look up and add user input and a conditional to your program. I suggest using th
 </details>
 
 <details>
-  <summary>🌟 If/Else Hint</summary>
+  <summary> 🦮 If/Else Hint</summary>
    If statements in Java are the same as in every language. The only change is in the structure of the words, i.e., syntax.
     <br>
     <br>
     
-<img src="java_if_else.png" alt="meow" width="500" height="500">
+<img src="java_if_else.png" alt="meow">
     <br>
     <br>
     
@@ -144,13 +142,14 @@ Pick a topic below to research, demo, and teach your classmates. This will happe
 <details>
     <summary>Present</summary>
     
-    1. Sequence 
+    1. Sequence
     2. Input
     3. Parameters
     4. Conditionals
     5. Data types
 
-You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade!
+You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade! You may not go over 10 mins. The format is however you wish to teach!
+
 </details>
 
 
