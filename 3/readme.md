@@ -4,14 +4,14 @@ Welcome to this guide on creating a basic solar system using Object-Oriented Pro
 
 You will learn the logic of OOP, how to converse, design, and program in this paradigm, and control literally hundreds of your creations at once.
 
-## What is OOP
+## 🦄 What is OOP 🦄
 <br>
 
 OOP is a paradigm in programming where we model our program structure around "objects" rather than procedures. These objects contain data (attributes) and can perform actions (methods).
 
 
 <details>
-<summary> Step 1: What is a Class?</summary>
+<summary> 🌈 Step 1: What is a Class? 🌈</summary>
 
 In OOP, a class is a blueprint for creating objects. For our solar system, we'll think of each planet as an object, and they will be created from the `Planet` class. This is the class provided to you. You will almost never code from a blank slate, save for research and school :)
 
@@ -39,7 +39,7 @@ Let's break this down step-by-step by adding new methods and attributes!
 <br>
 
 
-## 🛰️ Create Objects
+## 🛰️ Create Objects 🛰️
 
 Every time we use the planet class to create a new plant we are creating an object of the planet class. This process has a fancy name called instantiation. When we instantiate an object, we call this an instance of the planet class. We are going to make hundreds of planets. So, we will have hundreds of instances of a single class. Woof!
 
@@ -66,7 +66,7 @@ Here, we've created two objects: `sun` and `earth` from the `Planet` class. This
 Time to call our objects.
 
 <details>
-<summary>Using Methods of the Object</summary>
+<summary> 🧙 Using Methods of the Object 🧙 </summary>
 
 Each object can use the methods defined in the `Planet` class.
 
@@ -78,9 +78,9 @@ Each object can use the methods defined in the `Planet` class.
 In this segment, we call the `show` and `update` methods for both the `sun` and `earth` objects.
 
 ---
-
+## 🍀 Step 4: Double-Check 🍀
 <details>
-    <summary>Am I Done Check List</summary>
+    <summary>🔮 Am I Done Check List🔮 </summary>
     
 1. 3 instances of planet class
 2. 3 unique methods used
@@ -94,5 +94,5 @@ In this segment, we call the `show` and `update` methods for both the `sun` and 
 10. Calculate the force of gravity between one of your planets & sun by using their masses irl
 11. Make step 10 a new method by first completing step 9 for this task :)
 
-<img src='isthis.png'>
+<img src='isthis.jpeg'>
 </details>
