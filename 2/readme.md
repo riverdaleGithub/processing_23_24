@@ -37,9 +37,15 @@ Click to learn about the solar system
     
 Before moving on, you must have your idea/plan peer-reviewed by three other students
     
-1. When Being reviewed: Create a flow chart of your program logic. Then, explain how said logic will represent stage X, the science aspect, of our solar system, by doing x,y, and z, the artistic aspect, to your peers. Record your feedback from peers for credit.
+1. When Being reviewed:
+- Create a flow chart of your program logic. T
+- Explain how said logic will represent the science aspect of our solar system by doing x,y, and z,
+- Explain how said logic will represent the artistic aspect of our solar system by doing x,y, and z credit.
 
-<br>
+<details>
+    <summary> Flow Chart </summary>
+<img src="java_if_else.png" alt="meow">
+</details>
 
 2. When Reviewing: Provide a grow, glow, and original comment 
 </details>
@@ -98,18 +104,16 @@ Look up and add user input and a conditional to your program. I suggest using th
 <details>
   <summary> 🦮 If/Else Hint</summary>
    If statements in Java are the same as in every language. The only change is in the structure of the words, i.e., syntax.
-    <br>
-    <br>
-    
+  
+<details>
+    <summary> Flow Chart </summary>
 <img src="java_if_else.png" alt="meow">
-    <br>
-    <br>
-    
-Here is the actual Java code!
-<br>
-<br>
+</details>
 
-<img src="java_if_code.png" alt="meow" width="400" height="200">
+<details>
+    <summary>Here is the actual Java code! </summary>
+    <img src="java_if_code.png" alt="meow" >
+</details>
  
 </details>    
 <br>
@@ -137,7 +141,7 @@ solar system spin :) Perhaps the stars are just coming to life, or it's the end 
         10. Pick presentation 
 </details>
 
-## Step 6: Presentations
+## 🦊 Step 6: Presentations
 Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class!
 <details>
     <summary>Present</summary>
