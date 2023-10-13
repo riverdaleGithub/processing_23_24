@@ -67,12 +67,16 @@ Imagine you have a sketchbook. Before you start drawing, you might prepare your 
 <pre><code>void setup()</code></pre>: Preparing Your Sketchbook**
 <br>
 
-In Processing, the `void setup()` function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside `void setup()`, you can:
+In Processing, the 
+<pre><code>void setup()</pre></code>
+function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
 <br>
 <br>
 
-- Set the size of your canvas (using the `size()` function).
-- Choose the background color (with the `background()` function).
+- Set the size of your canvas using the
+  <pre><code>size()</code></pre> function
+- Choose the background color with the
+  <pre><code>background()</code></pre> function.
 - Initialize variables.
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
@@ -92,16 +96,17 @@ Example:
 
 <details>
   <summary> Void Draw </summary>
-   
-  `void draw()`: Continuously Drawing on Your Canvas
+  <pre><code> void draw()</code></pre>
+  Continuously Drawing on Your Canvas
   <br>
-  Now, the `void draw()` function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside `void     draw()` happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second).
+  
+  Now, the void draw() function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside void     draw() happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second).
   <br>
   <br>
   This makes it perfect for animations, games, or any interactive programs where things change over time.
   <br>
   <br>
-  Inside `void draw()`, you can:
+  Inside void draw(), you can:
   - Draw shapes (like circles, rectangles, lines, etc.).
   - Check for user inputs (like mouse clicks or key presses).
   - Update positions of objects for animations.
@@ -122,11 +127,15 @@ Example:
 </deatails>
 <br>
 
-Here, the `ellipse()` function draws a circle. The `mouseX` and `mouseY` are special variables that always store the current position of the mouse. Since `draw()` is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
+Here, the ellipse() function draws a circle. The 
+<pre> <code> mouseX and mouseY</code></pre> 
+are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
 <br>
-**In summary:**
-- `void setup()`: Run once at the beginning. Set the stage!
-- `void draw()`: Run continuously after setup. It's where the action happens!
+
+### In summary:
+
+- <pre><code> void setup() </code></pre>: Run once at the beginning. Set the stage!
+- <pre><code> void draw()</code></pre> Run continuously after setup. It's where the action happens!
 
 When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
 </details>
@@ -137,7 +146,7 @@ When you're just starting, remember that it's okay if things don't make perfect 
 ## Part 3. Create an Emoji
 
 Create an emoji expressing some type of information: feelings, seasons, thoughts, etc. This may be an existing emoji or your own new emoji! Take a look here for some ideas: <a href="https://emojipedia.org/" width="700" height="600">Emoji Reference</a>
-
+<br>
 
 <details>
 <summary>Step One</summary>
@@ -154,16 +163,19 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 2. Use geometry to create the face:
 <br>
 <img src="color.png" alt="meow" width="700" height="600">
-</details>
+<br>
 <br>
 
+</details>
+<br>
+<img src="shape.png" alt="meow" width="700" height="600">
 <details>
 <summary>Step Three</summary>
 3. Use Documentation to pick one new function to use in your assignment:
    <a href="https://processing.org/reference"> Processing Documentation </a>
 
 </details>
-
+<br>
 ## Project Checklist
 12.5 points per checkbox
   
