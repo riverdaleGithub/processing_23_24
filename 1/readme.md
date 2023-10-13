@@ -88,7 +88,7 @@ Example:
       size(400, 400);          // Set canvas size to 400 pixels by 400 pixels
       background(255, 0, 0);   // Set background color to red
     }
-  </code> </pre>
+  </code></pre>
 </details>
 
 <details>
@@ -107,7 +107,9 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
   - Change colors, sizes, or any other properties of your drawings.
 <br>
 <br>
-Example:
+</details> 
+
+<details><summary>Example:</summary>
 <br>
 <pre>
   <code>
@@ -124,7 +126,7 @@ Here, the ellipse() function draws a circle. The
 <pre> <code> mouseX and mouseY</code></pre> 
 are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
 <br>
-</deatails>
+</details>
 
 
 ### In summary:
@@ -133,7 +135,6 @@ are special variables that always store the current position of the mouse. Since
 - <pre><code> void draw()</code></pre> Run continuously after setup. It's where the action happens!
 
 When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
-</details>
 
 
 <br>
@@ -153,15 +154,14 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 
 <br>
 <details>
-<summary>Step Two</summary>
-
-2. Use geometry to create the face:
+<summary>Step Two Use geometry to create the face </summary> 
 <br>
 <img src="color.png" alt="meow" width="700" height="600">
 <br>
-<br>
-When trying to add shapes, use the grid system
+</details>
 
+<details>
+  <summary> Add shapes using the grid system</summary>
 <img src="shape.png" alt="meow" width="700" height="600">
 </details>
 <br>
@@ -170,7 +170,6 @@ When trying to add shapes, use the grid system
 <summary>Step Three</summary>
 3. Use Documentation to pick one new function to use in your assignment:
    <a href="https://processing.org/reference"> Processing Documentation </a>
-
 </details>
 <br>
 
