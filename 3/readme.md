@@ -50,7 +50,7 @@ With our class defined & commented on, we can create objects, which are instance
 <img src="oop_call.png" alt="meow" width="700" height="400">
 
 
-Here, we've created two objects: `sun` and `earth` from the `Planet` class. This is what we mean by Instance of an object, or instantiate an object.
+Here, we've created two objects: `sun` and `earth` from the `Planet` class. This is what we mean by Instance of a class, an object, or to instantiate an object.
 
 </details>
 <br>
