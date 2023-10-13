@@ -93,4 +93,6 @@ In this segment, we call the `show` and `update` methods for both the `sun` and 
 9. A TODO programming list for the next class: see steps 9-10
 10. Calculate the force of gravity between one of your planets & sun by using their masses irl
 11. Make step 10 a new method by first completing step 9 for this task :)
+
+<img src='isthis.png'>
 </details>
