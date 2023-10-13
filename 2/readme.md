@@ -24,14 +24,14 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
 
 <details>
     <summary>Install Processing</summary>
-    <br>
-    1. Get the IDE
-    - Visit <a href= "https://processing.org/download/"> Processing's download Page</a>
-    - Install and launch Processing. It's like our spaceship control room!
-
-   2. **Ensure You're in Java Mode**:
-    - Processing uses Java by default. Just ensure you see 'Java' in the top right.
-    
+        1.) Get the IDE
+        <br>
+        2.) Visit <a href= "https://processing.org/download/"> Processing's download Page</a>
+        <br>
+        3. Install and launch Processing. It's like our spaceship control room!
+        Ensure You're in Java Mode:
+        - Processing uses Java by default. Just ensure you see 'Java' in the top right.
+        
 </details>
 
 
@@ -72,15 +72,13 @@ Make sure you have the right version for your operating system. If you get stuck
   <summary>🌟 Hint</summary>
    
  The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
-    <br>
-    <br>
-        <img src="ellipse.png" alt="meow" width="500" height="500">
-        <br>
-        <br>
+ 
+<img src="ellipse.png" alt="meow" width="500" height="500">
+
 You already have been making flow charts and using conditionals! here is a basic condition in java!
 <br>
 <br>
-        <img src="java_if_code" alt="meow" width="500" height="500">
+<img src="java_if_code" alt="meow" width="500" height="500">
 
 </details>
 
