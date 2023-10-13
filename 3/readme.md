@@ -1,5 +1,7 @@
 # Object-Oriented Solar System in Processing
 
+<img src='swarm.gif'>
+
 Welcome to this guide on creating a basic solar system using Object-Oriented Programming (OOP) in Processing. This tutorial offers a gentle introduction to OOP concepts using a visual and engaging topic.
 
 You will learn the logic of OOP, how to converse, design, and program in this paradigm, and control literally hundreds of your creations at once.
@@ -78,6 +80,10 @@ Each object can use the methods defined in the `Planet` class.
 In this segment, we call the `show` and `update` methods for both the `sun` and `earth` objects.
 
 ---
+
+<br>
+<br>
+
 ## 🍀 Why Double-Check 🍀
 <details>
     <summary>🔮 Step 4: Am I Done Check List🔮 </summary>
