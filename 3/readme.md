@@ -5,14 +5,12 @@ Welcome to this guide on creating a basic solar system using Object-Oriented Pro
 
 ## What is OOP
 <br>
+
 OOP is a paradigm in programming where we model our program structure around "objects" rather than procedures. These objects contain data (attributes) and can perform actions (methods).
 
 
 <details>
-  
-<br>
-  
-<summary>What is a Class?</summary>
+<summary> Step 1: What is a Class?</summary>
 
 In OOP, a class is a blueprint for creating objects. For our solar system, we'll think of each planet as an object, and they will be created from the `Planet` class. This is the class provided to you. You will almost never code from a blank slate, save for research and school :)
 
@@ -20,48 +18,47 @@ While looking, write down 3 questions you have.
 
 <img src="oop.png" alt="meow" width="600" height="500">
 
-
-</details>
-
-
 Here, the <em>Planet</em> class has attributes (like <em>radius</em> and <em>distance</em>) and methods (like <em>show</em> and <em>update</em>).
 
-Lets break this down step-by-step by adding new methods and attributes!
+<details>
 
-
-
----
-<br>
-
-## 🛸🔴👽 Side Quest 🌕🔴🛸
-Use NASA's OpenAPI resources to get a real image of Mars from one of their rovers. Report back on how you did this to the class.
-
+  <summary>🛸🔴👽 Side Quest 🌕🔴🛸 </summary>
+  Use NASA's OpenAPI resources to get a real image of Mars from one of their rovers. Report back on how you did this to the class.
 
 <a href="https://api.nasa.gov/"> Application Program Interface (API) </a>
 
 <a href="https://youtu.be/4czjS9h4Fpg?feature=shared"> Mars Landing </a>
+</details>
+
+Let's break this down step-by-step by adding new methods and attributes!
+
+</details>
+
+---
+<br>
 
 
-
-## Create Objects
+## Step 2: 🛰️ Create Objects 🛰️
 
 <details>
-
+<summary> 👽 Planet Class 👽 </summary>
 With our class defined, we can create objects, which are instances of this class. 
 
 <img src="oop_call.png" alt="meow" width="700" height="400">
 
 
+Here, we've created two objects: `sun` and `earth` from the `Planet` class. This is what we mean by Instance of an object, or instantiate an object.
+
 </details>
 <br>
-Here, we've created two objects: `sun` and `earth` from the `Planet` class. This is what we mean by Instance of an object, or instantiate an object.
+
 ---
 
 <br>
 <br>
 
 
-## Use Objects
+## 🚧 Use Objects 🚧
 
 <details>
 <summary>Using Methods of the Object</summary>
