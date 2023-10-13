@@ -39,7 +39,7 @@ Let's break this down step-by-step by adding new methods and attributes!
 <br>
 
 
-## 🛰️ Create Objects 🛰️
+## 🛰️ How Can I Create Objects 🛰️
 
 Every time we use the planet class to create a new plant we are creating an object of the planet class. This process has a fancy name called instantiation. When we instantiate an object, we call this an instance of the planet class. We are going to make hundreds of planets. So, we will have hundreds of instances of a single class. Woof!
 
@@ -61,12 +61,12 @@ Here, we've created two objects: `sun` and `earth` from the `Planet` class. This
 <br>
 
 
-## Step 3: 🚧 Use Objects 🚧
+## 🚧  Where Can I edit Objects 🚧
 
 Time to call our objects.
 
 <details>
-<summary> 🧙 Using Methods of the Object 🧙 </summary>
+<summary> Step 3: 🧙 Using Methods of the Object 🧙 </summary>
 
 Each object can use the methods defined in the `Planet` class.
 
@@ -78,9 +78,9 @@ Each object can use the methods defined in the `Planet` class.
 In this segment, we call the `show` and `update` methods for both the `sun` and `earth` objects.
 
 ---
-## 🍀 Step 4: Double-Check 🍀
+## 🍀 Why Double-Check 🍀
 <details>
-    <summary>🔮 Am I Done Check List🔮 </summary>
+    <summary>🔮 Step 4: Am I Done Check List🔮 </summary>
     
 1. 3 instances of planet class
 2. 3 unique methods used
