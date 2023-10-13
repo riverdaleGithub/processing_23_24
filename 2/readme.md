@@ -10,11 +10,11 @@ Learn about the solar system, and pick the phase you will simulate.
 <details>
 <summary>Peer Review</summary>
     
-Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a>, use user input via the mouse, a conditional based on said input, and some pretty shapes 💖
+Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to know what the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a> does, use user input via the mouse, use a conditional based on said input, create three unique pretty shapes 💖, pick one artistic aspect, light, color, shadows, etc to focus on, pick one scientific aspect to focus on, stars, planets, moons, gas clouds
     
-    - When Being reviewed: Create a flow chart of your program logic. Then, explain how said logic will represent stage X of our solar system to your peers. Record your feedback from peers for credit.
+1. When Being reviewed: Create a flow chart of your program logic. Then, explain how said logic will represent stage X, the science aspect, of our solar system, by doing x,y, and z, the artistic aspect, to your peers. Record your feedback from peers for credit.
     
-    - When Reviewing: Provide a grow, glow, and original comment 
+2. When Reviewing: Provide a grow, glow, and original comment 
 </details>
 
 ---
@@ -113,7 +113,23 @@ Here is the actual Java code!
 ## 🪐 Step 5: Add All Planets
 
 Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make this
-solar system spin :)
+solar system spin :) Perhaps the stars are just coming to life, or it's the end of the solar system.
+
+## Am I Done?
+<details>
+    <summary>Check List</summary>
+    - Peer review document
+    - Flow Chart
+    - User input used
+    - Conditional Statement used
+    - Art aspect clear
+    - Science aspect clear
+    - 3 unique shapes
+    - 3 unqiue colors
+    - Video Reflection
+</details>
+
+
 
 
 
