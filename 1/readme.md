@@ -154,7 +154,7 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 
 2. Use geometry to create the face:
 <br>
-<img src="https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/geometry.png?raw=true" alt="meow" width="700" height="600">
+<img src="color.png" alt="meow" width="700" height="600">
 </details>
 <br>
 
