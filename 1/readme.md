@@ -52,7 +52,7 @@ You should see a window with a circle in the center of it. This is because the <
   <code>ellipse(200, 200, 50, 50)  </code>
 </pre>function draws a circle in the center of the window with a width and height of 50 pixels.
 
-Void means the function will not return a value
+<pre><code>Void</code></pre> means the function will not return a value
 the () is where an argument for the function would go
 {} denotes everything that belongs to the function
 
@@ -64,7 +64,7 @@ the () is where an argument for the function would go
 Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything's set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
 <br>
 <br>
-`void setup()`: Preparing Your Sketchbook**
+<pre><code>void setup()</code></pre>: Preparing Your Sketchbook**
 <br>
 
 In Processing, the `void setup()` function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside `void setup()`, you can:
@@ -109,10 +109,9 @@ Example:
 <br>
 <br>
 Example:
+<br>
 <pre>
-
   <code>
-
   void draw() {
     background(220);         // Set a gray background every frame
     ellipse(mouseX, mouseY, 50, 50);  // Draw a circle at the mouse position
