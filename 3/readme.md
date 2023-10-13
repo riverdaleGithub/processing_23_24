@@ -38,10 +38,10 @@ Let's break this down step-by-step by adding new methods and attributes!
 <br>
 
 
-## Step 2: 🛰️ Create Objects 🛰️
+## 🛰️ Create Objects
 
 <details>
-<summary> 👽 Planet Class 👽 </summary>
+<summary> Step 2: 👽 Planet Class 👽 </summary>
 With our class defined, we can create objects, which are instances of this class. 
 
 <img src="oop_call.png" alt="meow" width="700" height="400">
@@ -58,7 +58,7 @@ Here, we've created two objects: `sun` and `earth` from the `Planet` class. This
 <br>
 
 
-## 🚧 Use Objects 🚧
+## Step 3: 🚧 Use Objects 🚧
 
 <details>
 <summary>Using Methods of the Object</summary>
