@@ -33,11 +33,19 @@ Lets break this down step-by-step by adding new methods and attributes!
 ---
 <br>
 
+## 🛸🔴👽 Side Quest 🌕🔴🛸
+Use NASA's OpenAPI resources to get a real image of Mars from one of their rovers. Report back on how you did this to the class.
+
+
+<a href="https://api.nasa.gov/"> Application Program Interface (API) </a>
+
+<a href="https://youtu.be/4czjS9h4Fpg?feature=shared"> Mars Landing </a>
+
+
 
 ## Create Objects
 
 <details>
-<summary>Instantiating Objects from the Class</summary>
 
 With our class defined, we can create objects, which are instances of this class. 
 
