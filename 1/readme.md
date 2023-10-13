@@ -13,9 +13,7 @@ To familiarize one with the Processing environment and its basic functions, as w
 <details>
 <summary>1. Installation</summary>
 
-
   Download and install the Processing software from <a href="https://processing.org/reference">Processing Reference</a>
-
 
   Open the Processing IDE and familiarize yourself with the interface.
 </details>
@@ -61,29 +59,29 @@ the () is where an argument for the function would go
 <details>
   <summary> Void Setup </summary>
 
-Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything's set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
+Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything is set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
 <br>
 <br>
-<pre><code>void setup()</code></pre>: Preparing Your Sketchbook**
+Preparing Your Sketchbook
+<pre><code>void setup()</code></pre>
 <br>
 
-In Processing, the 
+In Processing, the function 
 <pre><code>void setup()</pre></code>
-function is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
+
+This is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
 <br>
 <br>
 
-- Set the size of your canvas using the
-  <pre><code>size()</code></pre> function
-- Choose the background color with the
-  <pre><code>background()</code></pre> function.
+- Set the size of your canvas using the function
+  <pre><code>size()</code></pre> 
+- Choose the background color with the function
+  <pre><code>background()</code></pre> 
 - Initialize variables.
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
 <br>
-
 Example:
-
 <pre>
   <code>
   void setup() {
@@ -91,19 +89,15 @@ Example:
       background(255, 0, 0);   // Set background color to red
     }
   </code> </pre>
-  
 </details>
 
 <details>
   <summary> Void Draw </summary>
   <pre><code> void draw()</code></pre>
-  Continuously Drawing on Your Canvas
+  
   <br>
   
-  Now, the void draw() function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside void     draw() happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second).
-  <br>
-  <br>
-  This makes it perfect for animations, games, or any interactive programs where things change over time.
+Continuously Drawing on Your Canvas. The void draw() function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside void     draw() happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second). This makes it perfect for animations, games, or any interactive programs where things change over time.
   <br>
   <br>
   Inside void draw(), you can:
@@ -124,13 +118,14 @@ Example:
   </code>
 </pre>
   Give the code example a try!
-</deatails>
 <br>
 
 Here, the ellipse() function draws a circle. The 
 <pre> <code> mouseX and mouseY</code></pre> 
 are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
 <br>
+</deatails>
+
 
 ### In summary:
 
@@ -165,10 +160,12 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 <img src="color.png" alt="meow" width="700" height="600">
 <br>
 <br>
+When trying to add shapes, use the grid system
 
+<img src="shape.png" alt="meow" width="700" height="600">
 </details>
 <br>
-<img src="shape.png" alt="meow" width="700" height="600">
+
 <details>
 <summary>Step Three</summary>
 3. Use Documentation to pick one new function to use in your assignment:
@@ -176,6 +173,7 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 
 </details>
 <br>
+
 ## Project Checklist
 12.5 points per checkbox
   
