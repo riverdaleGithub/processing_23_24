@@ -7,8 +7,13 @@ Learn about the solar system, and pick the phase you will simulate.
 
 <a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" alt="meow" width="500" height="500"></a>
 
+---
+
+## Peer Review
+
 <details>
-<summary>Peer Review</summary>
+<summary>What/How</summary>
+    
     
 Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to know what the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a> does, use user input via the mouse, use a conditional based on said input, create three unique pretty shapes 💖, pick one artistic aspect, light, color, shadows, etc to focus on, pick one scientific aspect to focus on, stars, planets, moons, gas clouds
     
