@@ -100,33 +100,40 @@ Look up and add user input and a conditional to your program. I suggest using th
    If statements in Java are the same as in every language. The only change is in the structure of the words, i.e., syntax.
     <br>
     <br>
-    <img src="java_if_else.png" alt="meow" width="500" height="500">
+    
+<img src="java_if_else.png" alt="meow" width="500" height="500">
+    <br>
+    <br>
+    
+Here is the actual Java code!
+<br>
+<br>
+
+<img src="java_if_code.png" alt="meow" width="400" height="200">
  
 </details>    
 <br>
 
-Here is the actual Java code!
-
-<img src="java_if_code.png" alt="meow" width="400" height="200">
 
 
-## 🪐 Step 5: Add All Planets
+
+## 🪐 Step 5: Add All Components 
 
 Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make this
 solar system spin :) Perhaps the stars are just coming to life, or it's the end of the solar system.
 
-## Am I Done?
 <details>
-    <summary>Check List</summary>
-    - Peer review document
-    - Flow Chart
-    - User input used
-    - Conditional Statement used
-    - Art aspect clear
-    - Science aspect clear
-    - 3 unique shapes
-    - 3 unqiue colors
-    - Video Reflection
+    <summary>Am I Done Check List</summary>
+    
+        1. Peer review document
+        2. Flow Chart
+        3. User input used
+        4. Conditional Statement used
+        5. Art aspect clear
+        6. Science aspect clear
+        7. 3 unique shapes
+        8. 3 unqiue colors
+        9. Video Reflection
 </details>
 
 
