@@ -1,13 +1,23 @@
 # 🌌 Solar System in Processing 🪐
 
-Hello, budding astronomers and programmers! Let's embark on an interstellar journey to create a static solar system today. And don't worry, soon we'll make those planets revolve! 🚀 First, you should click on the gif below to decide which phase of our solar system you will simulate. 
+Hello, budding astronomers and programmers! Let's embark on an interstellar journey to create a model of our solar system at a certain point in time. Don't worry, soon we'll make those celestial bodies revolve! 🚀 First, however, you should click on the gif below to decide which phase of our solar system you will simulate. 
 
-Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a>, use user input via the mouse, a conditional based on said input, and some pretty shapes 💖
+
+Learn about the solar system, and pick the phase you will simulate.
 
 <a href="https://youtu.be/TBikbn5XJhg?feature=shared"><img src="solar.gif" alt="meow" width="500" height="500"></a>
 
----
+<details>
+<summary>Peer Review</summary>
+    
+Before moving on, you must have your idea/plan peer-reviewed by three other students, and you will be asked to explain the <a href="https://processing.org/reference/translate_.html"> `translate(x,y)` function</a>, use user input via the mouse, a conditional based on said input, and some pretty shapes 💖
+    
+    - When Being reviewed: Create a flow chart of your program logic. Then, explain how said logic will represent stage X of our solar system to your peers. Record your feedback from peers for credit.
+    
+    - When Reviewing: Provide a grow, glow, and original comment 
+</details>
 
+---
 
 
 ## 🛠 Setting Up
@@ -50,7 +60,7 @@ Make sure you have the right version for your operating system. If you get stuck
 </details>
 
 
-## 🌞 Step 2: Light Up the Sun
+## 🌞 Step 2: Light Up the Stars
 <details>
   <summary>👾 Code Example</summary>
     <img src="sun.png" height="500" width="700">
@@ -104,5 +114,7 @@ Here is the actual Java code!
 
 Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make this
 solar system spin :)
+
+
 
 
