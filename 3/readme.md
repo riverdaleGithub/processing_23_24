@@ -15,7 +15,7 @@ OOP is a paradigm in programming where we model our program structure around "ob
 
 In OOP, a class is a blueprint for creating objects. For our solar system, we'll think of each planet as an object, and they will be created from the `Planet` class. This is the class provided to you. You will almost never code from a blank slate, save for research and school :)
 
-While looking, write down 3 questions you have. 
+While looking, write down 3 questions you have and try to find a method and an attribute. 
 
 <img src="oop.png" alt="meow" width="600" height="500">
 
