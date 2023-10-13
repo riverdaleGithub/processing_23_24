@@ -90,7 +90,7 @@ You already have been making flow charts and using conditionals! here is a basic
 
 </details>
 
-## Step 3 & 4:  If 🐁 do
+## 🌲 Step 3 & 4:  If 🐁 do
 Look up and add user input and a conditional to your program. I suggest using the mouse, but you can use whichever method you like. 
 
 <details>
