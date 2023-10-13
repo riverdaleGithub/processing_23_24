@@ -2,6 +2,7 @@
 
 Welcome to this guide on creating a basic solar system using Object-Oriented Programming (OOP) in Processing. This tutorial offers a gentle introduction to OOP concepts using a visual and engaging topic.
 
+You will learn the logic of OOP, how to converse, design, and program in this paradigm, and control literally hundreds of your creations at once.
 
 ## What is OOP
 <br>
@@ -40,9 +41,11 @@ Let's break this down step-by-step by adding new methods and attributes!
 
 ## 🛰️ Create Objects
 
+Every time we use the planet class to create a new plant we are creating an object of the planet class. This process has a fancy name called instantiation. When we instantiate an object, we call this an instance of the planet class. We are going to make hundreds of planets. So, we will have hundreds of instances of a single class. Woof!
+
 <details>
 <summary> Step 2: 👽 Planet Class 👽 </summary>
-With our class defined, we can create objects, which are instances of this class. 
+With our class defined & commented on, we can create objects, which are instances of a class. 
 
 <img src="oop_call.png" alt="meow" width="700" height="400">
 
@@ -59,6 +62,8 @@ Here, we've created two objects: `sun` and `earth` from the `Planet` class. This
 
 
 ## Step 3: 🚧 Use Objects 🚧
+
+Time to call our objects.
 
 <details>
 <summary>Using Methods of the Object</summary>
