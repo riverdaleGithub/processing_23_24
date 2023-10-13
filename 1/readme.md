@@ -145,7 +145,7 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
   
 1. Set the canvas size, background color, and shape color:
 <br>
-<img src="https://github.com/riverdaleGithub/processing_23_24/blob/main/imgs/j1/coords.png?raw=true" alt="meow" width="700" height="600">
+<img src="ellipse.png" alt="meow" width="500" height="400">
 </details>
 
 <br>
