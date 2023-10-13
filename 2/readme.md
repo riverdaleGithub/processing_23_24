@@ -134,8 +134,23 @@ solar system spin :) Perhaps the stars are just coming to life, or it's the end 
         5. Art aspect clear
         6. Science aspect clear
         7. 3 unique shapes
-        8. 3 unqiue colors
+        8. 3 unique colors
         9. Video Reflection
+        10. Pick presentation 
+</details>
+
+## Step 6: Presentations
+Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class!
+<details>
+    <summary>Present</summary>
+    
+    1. Sequence 
+    2. Input
+    3. Parameters
+    4. Conditionals
+    5. Data types
+
+You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade!
 </details>
 
 
