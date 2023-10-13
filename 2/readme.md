@@ -78,7 +78,6 @@ Make sure you have the right version for your operating system. If you get stuck
 You already have been making flow charts and using conditionals! here is a basic condition in java!
 <br>
 <br>
-<img src="java_if_code" alt="meow" width="500" height="500">
 
 </details>
 
@@ -90,7 +89,7 @@ Look up and add user input and a conditional to your program. I suggest using th
     Input is the first thing I think about. What data does the program need? Check out this link to see how processing allows a programmer to create interactive works of art!
     <br>
     <br>
-        <a href=https://processing.org/examples/mousefunctions.html > Processing Mouse Example </a>
+    <a href="https://processing.org/examples/mousefunctions.html" > Processing Mouse Example </a>
 </details>
 
 <details>
