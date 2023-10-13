@@ -13,16 +13,16 @@ Click to learn about the solar system
 <details>
 <summary>Answers these for planning</summary>
     
-    1. What are you going to build?
-    2. What colors will you use? 
-    3. What shapes will you use? 
-    4. What future actions will you want your planets/stars to do?
-    5. How will you know you are done?
-    6. How will you take risks while building?
-    7. What is the final product?
-    8. Who is doing what?
-    9. When will this be done?
-    10. What is your favorite time of the year?
+1. What are you going to build?
+2. What colors will you use? 
+3. What shapes will you use? 
+4. What future actions will you want your planets/stars to do?
+5. How will you know you are done?
+6. How will you take risks while building?
+7. What is the final product?
+8. Who is doing what?
+9. When will this be done?
+10. What is your favorite time of the year?
     
 </details>
 
@@ -129,16 +129,16 @@ solar system spin :) Perhaps the stars are just coming to life, or it's the end 
 <details>
     <summary>Am I Done Check List</summary>
     
-        1. Peer review document
-        2. Flow Chart
-        3. User input used
-        4. Conditional Statement used
-        5. Art aspect clear
-        6. Science aspect clear
-        7. 3 unique shapes
-        8. 3 unique colors
-        9. Video Reflection
-        10. Pick presentation 
+1. Peer review document
+2. Flow Chart
+3. User input used
+4. Conditional Statement used
+5. Art aspect clear
+6. Science aspect clear
+7. 3 unique shapes
+8. 3 unique colors
+9. Video Reflection
+10. Pick presentation 
 </details>
 
 ## 🦊 Step 6: Presentations
@@ -146,11 +146,11 @@ Pick a topic below to research, demo, and teach your classmates. This will happe
 <details>
     <summary>Present</summary>
     
-    1. Sequence
-    2. Input
-    3. Parameters
-    4. Conditionals
-    5. Data types
+1. Sequence
+2. Input
+3. Parameters
+4. Conditionals
+5. Data types
 
 You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade! You may not go over 10 mins. The format is however you wish to teach!
 
