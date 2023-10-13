@@ -86,11 +86,11 @@ In this segment, we call the `show` and `update` methods for both the `sun` and 
 2. 3 unique methods used
 3. Art aspect clear
 4. Science aspect clear
-5. Add a new method to planet-class
+5. Add a new method to planet-class that will make the planet move
 6. Add a new attribute to planet-class
 7. User input used
 8. Conditional Statement used
-9. TODO prompt for next class
-10. Calculate the force of gravity between one of your planets & sun
-11. Make this a new method
+9. A TODO programming list for the next class: see steps 9-10
+10. Calculate the force of gravity between one of your planets & sun by using their masses irl
+11. Make step 10 a new method by first completing step 9 for this task :)
 </details>
