@@ -16,9 +16,16 @@ In the world of OOP, a class is the blueprint for objects. For our solar system,
 
 While exploring, jot down 3 questions you have, and spot a method and an attribute.
 
-![Planet Class Diagram](oop.png)
+<details>
+<summary>OOP Class Example</summary>
 
-Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`).
+  ![Planet Class Diagram](oop.png)
+  
+Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`). 
+
+</details>
+
+This is my class, however, you will now design and then build your class after peer review! What data points does an object of your class need?
 
 <details>
 <summary>🛸 Mars Side Quest 🛸</summary>
@@ -28,17 +35,22 @@ Unlock the mysteries of Mars using NASA's API to fetch a real image captured by 
 - [Mars Landing Video](https://youtu.be/4czjS9h4Fpg?feature=shared)
 
 Share your discoveries with the class!
+
 </details>
 
 ---
 
-### 🚀 Step 2: Crafting Planets 🚀
+### 🚀 Step 2: Understand The Class 🚀
 
 With our class in place, let's bring to life some celestial objects.
 
+<details>
+  <summary>Creating Class Objects </summary>
+  
 ![Creating Planets](oop_call.png)
 
 Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are instances (or objects) of our `Planet` class.
+</details>
 
 ---
 
@@ -46,15 +58,91 @@ Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are 
 
 Unleash the power of our celestial objects.
 
-![Planet Methods](done.png)
+<details>
+  <summary> Adding Class Methods </summary>
+    
+  ![Planet Methods](done.png)
+    
+</details>
 
 Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class.
 
 ---
 
+### Step 2: Create the Planet Class 🪐
+
+Our planet will have a few attributes: its position, radius, and rotation speed.
+
+<details>
+  <summary> Create the Planet Class</summary>
+<pre><code>
+class Planet {
+  float x, y;       // position of the planet
+  float radius;     // size of the planet
+  float angle = 0;  // initial angle for rotation
+  float speed;      // rotation speed
+  
+  // Constructor: This is how we create an instance of the planet
+  Planet(float x_, float y_, float r_, float s_) {
+    x = x_;
+    y = y_;
+    radius = r_;
+    speed = s_;
+  }
+</code></pre>
+</details>
+
+<details>
+<summary>🌌 Step 3: Methods 🌌</summary>
+To start off, we'll create a simple method to show our Planet class and its attributes like radius.
+
+<pre><code>
+class Planet {
+  float radius;
+
+  Planet(float r) {
+    radius = r;
+  }
+
+  void show() {
+    ellipse(0, 0, radius*2, radius*2);
+  }
+}
+</code></pre>
+</details>
+
+To make our planet spin, we'll add a new method to our Planet class. This method will rotate the planet each time it's called.
+
+<details><summary> Spin Method </summary>
+<pre><code>
+void rotateAndShow(float angle) {
+  pushMatrix();            // Save the current state of transformations
+  rotate(angle);           // Rotate the coordinate system
+  show();                  // Show the planet
+  popMatrix();             // Restore the state
+}
+</code></pre>
+</details>
+
+With this method, you can now display your planet with rotation! Call this method in your draw() function and provide an angle (which you can increment each frame to see continuous rotation).
+
+For example, in your draw()
+
+<pre><code>
+angle += 0.05;
+planet.rotateAndShow(angle);
+</code></pre>
+Make sure you define the angle variable at the top of your sketch!
+
+</details>
+
+
 ### 🎨 Step 4: Final Checks & Challenges 🎨 
 
 Before you launch, ensure you've:
+
+<details>
+  <summary>Grade Yourself</summary>
 
 1. Created 3 instances of the planet class.
 2. Utilized 3 unique methods.
@@ -67,6 +155,7 @@ Before you launch, ensure you've:
 9. Outlined your TODO list for the next session (hint: steps 9-10).
 10. Computed the gravitational force between a planet and the sun using their real-life masses.
 11. Transformed step 10 into a new method, but only after tackling step 9.
+</details>
 
 ![Final Check](isthis.jpeg)
 
