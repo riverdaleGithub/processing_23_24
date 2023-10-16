@@ -58,10 +58,11 @@ Imagine you have a sketchbook. Before you start drawing, you might prepare your 
 <details>
 <summary>Preparing Your Sketchbook</summary>
 <br>
-<pre><code>void setup()</code></pre>
+<pre><code> void setup() </code></pre>
 <br>
 In Processing, the function 
-<pre><code>void setup()</code></pre>
+  
+<pre><code> void setup() </code></pre>
 This is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
 <br>
 <br>
