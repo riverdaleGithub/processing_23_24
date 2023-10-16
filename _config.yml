@@ -11,11 +11,11 @@ lang: en-US
 color_scheme: dark
 
 # Navigation Structure
-#main_nav:
-  # - title: "Home"
-  #   url: /
-  # - title: "Landing Page"
-    #url: https://riverdalegithub.github.io/processing_23_24/
+main_nav:
+  - title: "Home"
+    url: /
+  - title: "Landing Page"
+    url: https://riverdalegithub.github.io/processing_23_24/
 
 # Author Information
 author:
@@ -24,11 +24,11 @@ author:
 
 # SEO & Feed (if using jekyll-seo-tag & jekyll-feed plugins)
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-responsive-image
   - jekyll-html-minify
-
+  
 # If you have code blocks, enable line numbers for better clarity.
 highlighter: rouge
 line_numbers: true
