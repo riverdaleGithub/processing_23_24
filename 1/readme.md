@@ -59,13 +59,15 @@ Imagine you have a sketchbook. Before you start drawing, you might prepare your 
 
 <details>
 <summary>Preparing Your Sketchbook</summary>
+<br>
 <pre><code>void setup()</code></pre>
 <br>
 In Processing, the function 
-<pre><code>void setup()</pre></code>
+<pre><code>void setup()</code></pre>
 This is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
 <br>
 <br>
+</pre>
 
 - Set the size of your canvas using the function
   <pre><code>size()</code></pre> 
@@ -76,6 +78,7 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 - Basically, any initial preparations you need before your main drawing begins.
 <br>
 </details>
+
 
 
 <details><summary>Example</summary>
