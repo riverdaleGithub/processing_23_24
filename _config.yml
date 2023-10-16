@@ -15,7 +15,7 @@ main_nav:
   - title: "Home"
     url: /
   - title: "Landing Page"
-    url: https://riverdalegithub.github.io/processing_23_24/
+    #url: https://riverdalegithub.github.io/processing_23_24/
 
 # Author Information
 author:
