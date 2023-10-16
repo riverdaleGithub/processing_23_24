@@ -11,10 +11,10 @@ lang: en-US
 color_scheme: dark
 
 # Navigation Structure
-main_nav:
-  - title: "Home"
-    url: /
-  - title: "Landing Page"
+#main_nav:
+  # - title: "Home"
+  #   url: /
+  # - title: "Landing Page"
     #url: https://riverdalegithub.github.io/processing_23_24/
 
 # Author Information
