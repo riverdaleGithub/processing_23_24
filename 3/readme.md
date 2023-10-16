@@ -14,10 +14,10 @@ OOP revolves around the idea of designing programs based on "objects". These obj
 
 In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
 
-While exploring, jot down 3 questions you have, and spot a method and an attribute.
+While exploring, jot down 3 questions you have, and spot a method and an attribute. This is my class, however, you will now design and then build your class after peer review! What data points does an object of your class need?
 
 <details>
-<summary>OOP Class Example</summary>
+<summary>OOP Class </summary>
 
   ![Planet Class Diagram](oop.png)
   
@@ -25,7 +25,6 @@ Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) a
 
 </details>
 
-This is my class, however, you will now design and then build your class after peer review! What data points does an object of your class need?
 
 <details>
 <summary>🛸 Mars Side Quest 🛸</summary>
@@ -37,6 +36,7 @@ Unlock the mysteries of Mars using NASA's API to fetch a real image captured by 
 Share your discoveries with the class!
 
 </details>
+
 
 ---
 
@@ -56,16 +56,16 @@ Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are 
 
 ### 🔭 Step 3: Interacting with the Cosmos 🔭
 
-Unleash the power of our celestial objects.
+Unleash the power of our celestial objects. Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class. Make sure you know how to replicate creating an unique planet.
+
 
 <details>
   <summary> Adding Class Methods </summary>
-    
+  
   ![Planet Methods](done.png)
     
 </details>
 
-Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class.
 
 ---
 
@@ -111,7 +111,11 @@ class Planet {
 </code></pre>
 </details>
 
-To make our planet spin, we'll add a new method to our Planet class. This method will rotate the planet each time it's called.
+---
+
+## 💃 Time to Spin 💃
+
+To make our planet spin, we'll add a new method to our Planet class. This method will rotate the planet each time it's called. With this method, you can now display your planet with rotation! Call this method in your draw() function and provide an angle (which you can increment each frame to see continuous rotation).
 
 <details><summary> Spin Method </summary>
 <pre><code>
@@ -124,7 +128,6 @@ void rotateAndShow(float angle) {
 </code></pre>
 </details>
 
-With this method, you can now display your planet with rotation! Call this method in your draw() function and provide an angle (which you can increment each frame to see continuous rotation).
 
 For example, in your draw()
 
@@ -144,6 +147,8 @@ Before you launch, ensure you've:
 <details>
   <summary>Grade Yourself</summary>
 
+  ![Final Check](isthis.jpeg)
+
 1. Created 3 instances of the planet class.
 2. Utilized 3 unique methods.
 3. Showcased the artistry of your solar system.
@@ -157,7 +162,7 @@ Before you launch, ensure you've:
 11. Transformed step 10 into a new method, but only after tackling step 9.
 </details>
 
-![Final Check](isthis.jpeg)
+
 
 ---
 
