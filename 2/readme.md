@@ -12,36 +12,58 @@ Click to learn about the solar system
 
 <details>
 <summary>Answers these for planning</summary>
-1. What are you going to build?
-2. What colors will you use? 
-3. What shapes will you use? 
-4. What future actions will you want your planets/stars to do?
-5. How will you know you are done?
-6. How will you take risks while building?
-7. What is the final product?
-8. Who is doing what?
-9. When will this be done?
-10. What is your favorite time of the year?   
+<br>
+    
+1 What are you going to build?
+    
+2 What colors will you use? 
+
+3 What shapes will you use? 
+
+4 What future actions will you want your planets/stars to do?
+
+5 How will you know you are done?
+
+6 How will you take risks while building?
+
+7 What is the final product?
+
+8 Who is doing what?
+
+9 When will this be done?
+
+10 What is your favorite time of the year?   
 </details>
 
 ---
 
 ## 🎃 Peer Review 🎃
 
-<details>
-<summary>What/How</summary> 
+
 Before moving on, you must have your idea/plan peer-reviewed by three other students
-1. When Being reviewed:
-- Create a flow chart of your program logic. 
-- Explain how said logic will represent the science aspect of our solar system by doing x,y, and z,
-- Explain how said logic will represent the artistic aspect of our solar system by doing x,y, and z credit.
-<br>
+
+<details>
+<summary> 🐦‍🔥 When Being reviewed 🐦‍🔥 </summary>
+   
+[ ] Create a flow chart of your program logic.
+
+[ ] Explain how said logic will represent the science aspect of our solar system by doing x,y, and z,
+
+[ ] Explain how said logic will represent the artistic aspect of our solar system by doing x,y, and z credit.
 <details>
     <summary> Flow Chart </summary>
 <img src="flowchart.jpeg" alt="meow">
 </details>
-<br>
-2. When Reviewing: Provide a grow, glow, and original comment 
+</details>
+
+<details><summary> 🔎 When Reviewing A Peer 🔎 </summary> 
+Provide a 
+    
+[ ] 🪴 grow 🪴
+    
+[ ] 🏮 glow 🏮
+    
+[ ] 🦜 original comment 🦜
 </details>
 
 ---
