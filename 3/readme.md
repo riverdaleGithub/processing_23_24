@@ -1,104 +1,75 @@
 # Object-Oriented Solar System in Processing
 
-<img src='swarm.gif'>
+![Swarm Solar System](swarm.gif)
 
-Welcome to this guide on creating a basic solar system using Object-Oriented Programming (OOP) in Processing. This tutorial offers a gentle introduction to OOP concepts using a visual and engaging topic.
+Welcome to this guide on creating a basic solar system using Object-Oriented Programming (OOP) in Processing. Dive into the wonders of OOP concepts while exploring the vastness of the universe.
 
-You will learn the logic of OOP, how to converse, design, and program in this paradigm, and control literally hundreds of your creations at once.
+## 🌟 Introduction to OOP 🌟
 
-## 🦄 What is OOP 🦄
-<br>
-
-OOP is a paradigm in programming where we model our program structure around "objects" rather than procedures. These objects contain data (attributes) and can perform actions (methods).
-
-
-<details>
-<summary> 🌈 Step 1: What is a Class? 🌈</summary>
-
-In OOP, a class is a blueprint for creating objects. For our solar system, we'll think of each planet as an object, and they will be created from the `Planet` class. This is the class provided to you. You will almost never code from a blank slate, save for research and school :)
-
-While looking, write down 3 questions you have and try to find a method and an attribute. 
-
-<img src="oop.png" alt="meow" width="600" height="500">
-
-Here, the <em>Planet</em> class has attributes (like <em>radius</em> and <em>distance</em>) and methods (like <em>show</em> and <em>update</em>).
-
-<details>
-
-  <summary>🛸🔴👽 Side Quest 🌕🔴🛸 </summary>
-  Use NASA's OpenAPI resources to get a real image of Mars from one of their rovers. Report back on how you did this to the class.
-
-<a href="https://api.nasa.gov/"> Application Program Interface (API) </a>
-
-<a href="https://youtu.be/4czjS9h4Fpg?feature=shared"> Mars Landing </a>
-</details>
-
-Let's break this down step-by-step by adding new methods and attributes!
-
-</details>
-
----
-<br>
-
-
-## 🛰️ How Can I Create Objects 🛰️
-
-Every time we use the planet class to create a new plant we are creating an object of the planet class. This process has a fancy name called instantiation. When we instantiate an object, we call this an instance of the planet class. We are going to make hundreds of planets. So, we will have hundreds of instances of a single class. Woof!
-
-<details>
-<summary> Step 2: 👽 Planet Class 👽 </summary>
-With our class defined & commented on, we can create objects, which are instances of a class. 
-
-<img src="oop_call.png" alt="meow" width="700" height="400">
-
-
-Here, we've created two objects: `sun` and `earth` from the `Planet` class. This is what we mean by Instance of a class, an object, or to instantiate an object.
-
-</details>
-<br>
+OOP revolves around the idea of designing programs based on "objects". These objects hold data (attributes) and are capable of performing actions (methods).
 
 ---
 
-<br>
-<br>
+### 🌍 Step 1: Understanding Classes 🌍 
 
+In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
 
-## 🚧  Where Can I edit Objects 🚧
+While exploring, jot down 3 questions you have, and spot a method and an attribute.
 
-Time to call our objects.
+![Planet Class Diagram](oop.png)
+
+Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`).
 
 <details>
-<summary> Step 3: 🧙 Using Methods of the Object 🧙 </summary>
+<summary>🛸 Mars Side Quest 🛸</summary>
+Unlock the mysteries of Mars using NASA's API to fetch a real image captured by a rover.
 
-Each object can use the methods defined in the `Planet` class.
+- [NASA's API Portal](https://api.nasa.gov/)
+- [Mars Landing Video](https://youtu.be/4czjS9h4Fpg?feature=shared)
 
-<img src="done.png" alt="meow" width="700" height="400">
-
-
+Share your discoveries with the class!
 </details>
-<br>
-In this segment, we call the `show` and `update` methods for both the `sun` and `earth` objects.
 
 ---
 
-<br>
-<br>
+### 🚀 Step 2: Crafting Planets 🚀
 
-## 🍀 Why Double-Check 🍀
-<details>
-    <summary>🔮 Step 4: Am I Done Check List🔮 </summary>
-    
-1. 3 instances of planet class
-2. 3 unique methods used
-3. Art aspect clear
-4. Science aspect clear
-5. Add a new method to planet-class that will make the planet move
-6. Add a new attribute to planet-class
-7. User input used
-8. Conditional Statement used
-9. A TODO programming list for the next class: see steps 9-10
-10. Calculate the force of gravity between one of your planets & sun by using their masses irl
-11. Make step 10 a new method by first completing step 9 for this task :)
+With our class in place, let's bring to life some celestial objects.
 
-<img src='isthis.jpeg'>
-</details>
+![Creating Planets](oop_call.png)
+
+Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are instances (or objects) of our `Planet` class.
+
+---
+
+### 🔭 Step 3: Interacting with the Cosmos 🔭
+
+Unleash the power of our celestial objects.
+
+![Planet Methods](done.png)
+
+Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class.
+
+---
+
+### 🎨 Step 4: Final Checks & Challenges 🎨 
+
+Before you launch, ensure you've:
+
+1. Created 3 instances of the planet class.
+2. Utilized 3 unique methods.
+3. Showcased the artistry of your solar system.
+4. Embedded the science behind your design.
+5. Crafted a new method in the `Planet` class to make planets move.
+6. Introduced a fresh attribute to the `Planet` class.
+7. Incorporated user input.
+8. Employed conditional statements.
+9. Outlined your TODO list for the next session (hint: steps 9-10).
+10. Computed the gravitational force between a planet and the sun using their real-life masses.
+11. Transformed step 10 into a new method, but only after tackling step 9.
+
+![Final Check](isthis.jpeg)
+
+---
+
+Embrace the universe of programming, and let the cosmos be your guide! 🌌
