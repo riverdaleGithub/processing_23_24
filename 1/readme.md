@@ -37,14 +37,17 @@ Press the play button (or Ctrl+R) to run your sketch.
 
 <details>
 <summary>Detailed Answer</summary>
-You should see a window with a circle in the center of it. This is because the <pre>
-  <code>size(400, 400)</code></pre> function sets the size of the window to be 400x400 pixels, the <pre>
+You should see a window with a circle in the center of it. This is because the 
+  <pre><code>size(400, 400)</code></pre> function sets the size of the window to be 400x400 pixels, the <pre>
   <code>background(200)</code></pre> function sets the background color to a shade of gray, and the <pre>
   <code>ellipse(200, 200, 50, 50)  </code>
 </pre>function draws a circle in the center of the window with a width and height of 50 pixels.
 <br>
 <pre><code>Void</code></pre> means the function will not return a value
-the () is where an argument for the function would go
+the 
+
+() is where an argument for the function would go
+  
 {} denotes everything that belongs to the function
 
 
@@ -66,7 +69,6 @@ In Processing, the function
 This is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
 <br>
 <br>
-</pre>
 
 - Set the size of your canvas using the function
   <pre><code>size()</code></pre> 
