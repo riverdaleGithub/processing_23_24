@@ -42,7 +42,7 @@ Share your discoveries with the class!
 
 ### 🚀 Step 2: Understand The Class 🚀
 
-With our class in place, let's bring to life some celestial objects.
+With our class in place, let's bring to life some celestial objects by calling our Planet class.
 
 <details>
   <summary>Creating Class Objects </summary>
@@ -54,7 +54,7 @@ Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are 
 
 ---
 
-### 🔭 Step 3: Interacting with the Cosmos 🔭
+### 🔭 Step 2.5: Interacting with the Cosmos 🔭
 
 Unleash the power of our celestial objects. Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class. Make sure you know how to replicate creating an unique planet.
 
@@ -69,9 +69,9 @@ Unleash the power of our celestial objects. Watch as the `sun` and `earth` respo
 
 ---
 
-### Step 2: Create the Planet Class 🪐
+### Step 3: Create Your Planet Class 🪐
 
-Our planet will have a few attributes: its position, radius, and rotation speed.
+Our planet will have a few attributes: its position, radius, and rotation speed. What else would you like it to have?
 
 <details>
   <summary> Create the Planet Class</summary>
@@ -93,8 +93,8 @@ class Planet {
 </details>
 
 <details>
-<summary>🌌 Step 3: Methods 🌌</summary>
-To start off, we'll create a simple method to show our Planet class and its attributes like radius.
+<summary>🌌 Step 3.5: Methods 🌌</summary>
+To start off, we'll create a simple method, action, to show our Planet class and its attributes like radius.
 
 <pre><code>
 class Planet {
@@ -113,7 +113,7 @@ class Planet {
 
 ---
 
-## 💃 Time to Spin 💃
+## 💃 Step 4: Time to Spin 💃
 
 To make our planet spin, we'll add a new method to our Planet class. This method will rotate the planet each time it's called. With this method, you can now display your planet with rotation! Call this method in your draw() function and provide an angle (which you can increment each frame to see continuous rotation).
 
@@ -140,7 +140,7 @@ Make sure you define the angle variable at the top of your sketch!
 </details>
 
 
-### 🎨 Step 4: Final Checks & Challenges 🎨 
+### 🎨 Step 5: Final Checks & Challenges 🎨 
 
 Before you launch, ensure you've:
 
