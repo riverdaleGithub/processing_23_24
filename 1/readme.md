@@ -46,7 +46,6 @@ You should see a window with a circle in the center of it. This is because the <
 <pre><code>Void</code></pre> means the function will not return a value
 the () is where an argument for the function would go
 {} denotes everything that belongs to the function
-</details>
 
 
 <details>
@@ -55,7 +54,6 @@ the () is where an argument for the function would go
 Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything is set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
 <br>
 <br>
-</details>
 
 <details>
 <summary>Preparing Your Sketchbook</summary>
@@ -77,6 +75,7 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
 <br>
+</details>
 </details>
 
 
@@ -126,6 +125,8 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
   are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
   <br>
 </details>
+</details>
+
 
 
 ### In summary:
