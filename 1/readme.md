@@ -34,7 +34,6 @@ Research and document how to create a sketch, and record your answer. Next, veri
 <br>
 Press the play button (or Ctrl+R) to run your sketch.
 
-
 <details>
 <summary>Detailed Answer</summary>
 
@@ -55,7 +54,10 @@ the () is where an argument for the function would go
 Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything is set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
 <br>
 <br>
-Preparing Your Sketchbook
+</details>
+
+<details>
+<summary>Preparing Your Sketchbook</summary>
 <pre><code>void setup()</code></pre>
 <br>
 
@@ -74,6 +76,7 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
 <br>
+
 Example:
 <pre>
   <code>
@@ -121,7 +124,9 @@ Example:
   are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
   <br>
 </details>
+
 </details>
+
 
 
 ### In summary:
@@ -164,7 +169,9 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 3. Use Documentation to pick one new function to use in your assignment:
    <a href="https://processing.org/reference"> Processing Documentation </a>
 </details>
+
 <br>
+
 
 ## Project Checklist
 12.5 points per checkbox
