@@ -35,13 +35,15 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
   <summary>🐦‍🔥 When Being reviewed 🐦‍🔥</summary>
   
   - Create a flow chart of your program logic.
+    
   - Explain how said logic will represent the science aspect of our solar system by doing x, y, and z.
+    
   - Explain how said logic will represent the artistic aspect of our solar system by doing x, y, and z credit.
   
   <details>
     <summary>Flow Chart</summary>
     
-    ![Flowchart](flowchart.jpeg)
+  ![Flowchart](flowchart.jpeg)
   </details>
 </details>
 
@@ -49,8 +51,11 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
   <summary>🔎 When Reviewing A Peer 🔎</summary>
   
   - 🪴 grow 🪴
+    
   - 🏮 glow 🏮
+    
   - 🦜 original comment 🦜
+    
 </details>
 
 ---
@@ -111,13 +116,13 @@ Look up and add user input and a conditional to your program. I suggest using th
   <details>
     <summary>Flow Chart</summary>
     
-    ![Flowchart](flowchart.jpeg)
+  ![Flowchart](flowchart.jpeg)
   </details>
   
   <details>
     <summary>Here is the actual Java code!</summary>
     
-    ![Java If-Else code](java_if_code.png)
+  ![Java If-Else code](java_if_code.png)
   </details>
 </details>
 
