@@ -18,8 +18,7 @@ While exploring, jot down 3 questions you have, and spot a method and an attribu
 
 <details>
 <summary>OOP Class </summary>
-
-  ![Planet Class Diagram](oop.png)
+<img src='oop.png'>
   
 Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`). 
 
@@ -47,22 +46,24 @@ With our class in place, let's bring to life some celestial objects by calling o
 <details>
   <summary>Creating Class Objects </summary>
   
-![Creating Planets](oop_call.png)
+  <img src='oop_call.png'>
+
 
 Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are instances (or objects) of our `Planet` class.
 </details>
 
----
-
-### 🔭 Step 2.5: Interacting with the Cosmos 🔭
+<details>
+<summary>
+  🔭 Step 2.5: Interacting with the Cosmos 🔭
+</summary> 
 
 Unleash the power of our celestial objects. Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class. Make sure you know how to replicate creating an unique planet.
-
+</details>
 
 <details>
   <summary> Adding Class Methods </summary>
-  
-  ![Planet Methods](done.png)
+    <img src='done.png'>
+
     
 </details>
 
@@ -147,7 +148,8 @@ Before you launch, ensure you've:
 <details>
   <summary>Grade Yourself</summary>
 
-  ![Final Check](isthis.jpeg)
+  <img src='isthis.jpeg'>
+
 
 1. Created 3 instances of the planet class.
 2. Utilized 3 unique methods.
