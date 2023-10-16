@@ -12,7 +12,6 @@ Click to learn about the solar system
 
 <details>
 <summary>Answers these for planning</summary>
-    
 1. What are you going to build?
 2. What colors will you use? 
 3. What shapes will you use? 
@@ -22,31 +21,26 @@ Click to learn about the solar system
 7. What is the final product?
 8. Who is doing what?
 9. When will this be done?
-10. What is your favorite time of the year?
-    
+10. What is your favorite time of the year?   
 </details>
-
 
 ---
 
 ## 🎃 Peer Review 🎃
 
 <details>
-<summary>What/How</summary>
-    
-    
+<summary>What/How</summary> 
 Before moving on, you must have your idea/plan peer-reviewed by three other students
-    
 1. When Being reviewed:
 - Create a flow chart of your program logic. 
 - Explain how said logic will represent the science aspect of our solar system by doing x,y, and z,
 - Explain how said logic will represent the artistic aspect of our solar system by doing x,y, and z credit.
-
+<br>
 <details>
     <summary> Flow Chart </summary>
 <img src="flowchart.jpeg" alt="meow">
 </details>
-
+<br>
 2. When Reviewing: Provide a grow, glow, and original comment 
 </details>
 
@@ -56,39 +50,34 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
 
 <details>
   <summary>👾 Code Example</summary>
-
 <img src="space.png" height="500" width="700">
 </details>
+<br>
 
 <details>
-<summary> 🦮 Hint</summary>
-    
-"The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!"
-
-
+<summary> 🦮 Hint</summary> 
+The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!
 </details>
 
+---
 
 ##  🌟  Step 2: Light Up the Stars
 <details>
   <summary>👾 Code Example</summary>
     <img src="sun.png" >
-
-
 </details>
 
 <details>
-  <summary> 🦮 Hint</summary>
-   
+  <summary> 🦮 Hint</summary>  
  The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x,y), and the last two values set the width and height of the ellipse.
- 
+ <br>
 <img src="ellipse.png" alt="meow" >
-
 You already have been making flow charts and using conditionals! here is a basic condition in Java!
 <br>
 <br>
-
 </details>
+
+---
 
 ## 🌲 Step 3 & 4:  If 🐁 do
 Look up and add user input and a conditional to your program. I suggest using the mouse, but you can use whichever method you like. 
@@ -115,11 +104,7 @@ Look up and add user input and a conditional to your program. I suggest using th
     <img src="java_if_code.png" alt="meow" >
 </details>
  
-</details>    
-<br>
-
-
-
+---
 
 ## 🪐 Step 5: Add All Components 
 
@@ -128,32 +113,29 @@ solar system spin :) Perhaps the stars are just coming to life, or it's the end 
 
 <details>
     <summary>Am I Done Check List</summary>
-    
-1. Peer review document
-2. Flow Chart
-3. User input used
-4. Conditional Statement used
-5. Art aspect clear
-6. Science aspect clear
-7. 3 unique shapes
-8. 3 unique colors
-9. Video Reflection
-10. Pick presentation 
+        [ ] Peer review document
+        [ ] Flow Chart
+        [ ] User input used
+        [ ] Conditional Statement used
+        [ ] Art aspect clear
+        [ ] Science aspect clear
+        [ ] 3 unique shapes
+        [ ] 3 unique colors
+        [ ] Video Reflection
+        [ ] Pick presentation 
 </details>
 
 ## 🦊 Step 6: Presentations
 Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class!
 <details>
-    <summary>Present</summary>
-    
-1. Sequence
-2. Input
-3. Parameters
-4. Conditionals
-5. Data types
-
-You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade! You may not go over 10 mins. The format is however you wish to teach!
-
+    <summary>Present</summary>   
+        [ ] Sequence
+        [ ] Input
+        [ ] Parameters
+        [ ] Conditionals
+        [ ] Data types
+        <br>
+        You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade! You may not go over 10 mins. The format is however you wish to teach!
 </details>
 
 
