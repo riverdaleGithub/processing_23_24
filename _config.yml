@@ -1,5 +1,5 @@
 # Theme Configuration
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Site Title & Description
 title: Hello Processing
@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-responsive-image
   - jekyll-html-minify
+  - jekyll-remote-theme
   
 # If you have code blocks, enable line numbers for better clarity.
 highlighter: rouge
