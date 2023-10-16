@@ -1,5 +1,6 @@
 # Theme Configuration
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+theme: minimal-mistakes-jekyll
 
 # Site Title & Description
 title: Hello Processing
@@ -8,7 +9,7 @@ timezone: America/New_York
 lang: en-US
 
 # Color Customization (using the 'dark mode' as you previously preferred 'dark' skin)
-color_scheme: dark
+color_scheme: neon
 
 # Navigation Structure
 main_nav:
