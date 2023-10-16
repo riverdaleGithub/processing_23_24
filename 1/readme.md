@@ -31,26 +31,27 @@ Research and document how to create a sketch, and record your answer. Next, veri
 <summary>Code Answer</summary>
 <img src='circle.png'>
 </details>
+
 <br>
 Press the play button (or Ctrl+R) to run your sketch.
 
 <details>
 <summary>Detailed Answer</summary>
-
 You should see a window with a circle in the center of it. This is because the <pre>
   <code>size(400, 400)</code></pre> function sets the size of the window to be 400x400 pixels, the <pre>
   <code>background(200)</code></pre> function sets the background color to a shade of gray, and the <pre>
   <code>ellipse(200, 200, 50, 50)  </code>
 </pre>function draws a circle in the center of the window with a width and height of 50 pixels.
-
+<br>
 <pre><code>Void</code></pre> means the function will not return a value
 the () is where an argument for the function would go
 {} denotes everything that belongs to the function
 </details>
 
+
 <details>
 <summary> Void Setup </summary>
-
+<br>
 Imagine you have a sketchbook. Before you start drawing, you might prepare your page, decide on the background color, or choose your tools. Once everything is set up, you start drawing, and maybe you keep drawing patterns over and over on the same page.
 <br>
 <br>
@@ -60,10 +61,8 @@ Imagine you have a sketchbook. Before you start drawing, you might prepare your 
 <summary>Preparing Your Sketchbook</summary>
 <pre><code>void setup()</code></pre>
 <br>
-
 In Processing, the function 
 <pre><code>void setup()</pre></code>
-
 This is like preparing your sketchbook. It runs once, right at the beginning when you first start your program. Inside void setup(), you can:
 <br>
 <br>
@@ -76,8 +75,10 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
 <br>
+</details>
 
-Example:
+
+<details><sumarry>Example</summary>
 <pre>
   <code>
   void setup() {
@@ -91,9 +92,7 @@ Example:
 <details>
   <summary> Void Draw </summary>
   <pre><code> void draw()</code></pre>
-  
   <br>
-  
   Continuously Drawing on Your Canvas. The void draw() function is like the act of drawing on that prepared sketchbook page. But there's a twist! Whatever you put inside void     draw() happens over and over again, almost like you're drawing, erasing, and redrawing repeatedly super fast (typically 60 times per second). This makes it perfect for animations, games, or any interactive programs where things change over time.
     <br>
     <br>
@@ -118,13 +117,10 @@ Example:
   </pre>
     Give the code example a try!
   <br>
-
   Here, the ellipse() function draws a circle. The 
   <pre> <code> mouseX and mouseY</code></pre> 
   are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
   <br>
-</details>
-
 </details>
 
 
@@ -144,7 +140,6 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 
 <details>
 <summary>Step One</summary>
-  
 1. Set the canvas size, background color, and shape color:
 <br>
 <img src="ellipse.png" alt="meow" width="500" height="400">
