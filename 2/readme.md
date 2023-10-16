@@ -44,17 +44,18 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
     <summary>Flow Chart</summary>
     
   ![Flowchart](flowchart.jpeg)
+  
   </details>
 </details>
 
 <details>
   <summary>🔎 When Reviewing A Peer 🔎</summary>
   
-  - 🪴 grow 🪴
+  [ ]🪴 grow 🪴
     
-  - 🏮 glow 🏮
+  [ ]🏮 glow 🏮
     
-  - 🦜 original comment 🦜
+  [ ]🦜 original comment 🦜
     
 </details>
 
@@ -66,6 +67,7 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
   <summary>👾 Code Example</summary>
   
   ![Code example](space.png)
+  
 </details>
 
 <details>
