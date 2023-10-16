@@ -43,7 +43,9 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
   <details>
     <summary>Flow Chart</summary>
     
-  ![Flowchart](flowchart.jpeg)
+  <img src='flowchart.jpeg'>
+  
+</details>
   
   </details>
 </details>
@@ -66,7 +68,8 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
 <details>
   <summary>👾 Code Example</summary>
   
-  ![Code example](space.png)
+  <img src='space.png'>
+</details>
   
 </details>
 
@@ -82,8 +85,9 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
 
 <details>
   <summary>👾 Code Example</summary>
-  
-  ![Sun](sun.png)
+    <img src='sun.pnh'>
+</details>
+
 </details>
 
 <details>
@@ -91,7 +95,8 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
   
   The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x, y), and the last two values set the width and height of the ellipse.
   
-  ![Ellipse](ellipse.png)
+  <img src='ellipse.png'>
+</details>
   
   You already have been making flow charts and using conditionals! Here is a basic condition in Java!
 </details>
@@ -117,14 +122,15 @@ Look up and add user input and a conditional to your program. I suggest using th
   
   <details>
     <summary>Flow Chart</summary>
-    
-  ![Flowchart](flowchart.jpeg)
+      <img src='flowchart.jpeg'>
+</details>
   </details>
   
   <details>
     <summary>Here is the actual Java code!</summary>
     
-  ![Java If-Else code](java_if_code.png)
+  <img src='java_if_code.png'>
+</details>
   </details>
 </details>
 
