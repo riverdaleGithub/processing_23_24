@@ -1,7 +1,5 @@
 # Introduction to Processing with Java
 
----
-
 ## Objective
 
 To familiarize one with the Processing environment and its basic functions, as well as to provide an introduction to Java programming concepts.
@@ -19,10 +17,12 @@ To familiarize one with the Processing environment and its basic functions, as w
 </details>
 <br>
 
+---
+
 ## Part 2: First Sketch
 
 <details>
-<summary>2. Draw An Ellipse</summary>
+<summary> Draw An Ellipse </summary>
 Research and document how to create a sketch, and record your answer. Next, verify your code below, and define  what each word is doing.
 </details>
 
@@ -78,7 +78,7 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 </details>
 
 
-<details><sumarry>Example</summary>
+<details><summary>Example</summary>
 <pre>
   <code>
   void setup() {
@@ -105,7 +105,8 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
   <br>
 </details> 
 
-<details><summary>Example:</summary>
+<details>
+  <summary>Example:</summary>
   <br>
   <pre>
     <code>
@@ -124,7 +125,6 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 </details>
 
 
-
 ### In summary:
 
 - <pre><code> void setup() // Run once at the beginning. Set the stage! </code></pre>
@@ -132,6 +132,8 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 
 When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
 <br>
+
+---
 
 ## Part 3. Create an Emoji
 
@@ -145,28 +147,31 @@ Create an emoji expressing some type of information: feelings, seasons, thoughts
 <img src="ellipse.png" alt="meow" width="500" height="400">
 </details>
 
+---
+
 <br>
 <details>
-<summary>Step Two Use geometry to create the face </summary> 
+<summary>Step Two</summary> 
 <br>
+Use geometry to create the face 
 <img src="color.png" alt="meow" width="700" height="600">
 <br>
 </details>
+
 
 <details>
   <summary> Add shapes using the grid system</summary>
 <img src="shape.png" alt="meow" width="700" height="600">
 </details>
-<br>
 
+--- 
 <details>
 <summary>Step Three</summary>
 3. Use Documentation to pick one new function to use in your assignment:
    <a href="https://processing.org/reference"> Processing Documentation </a>
 </details>
 
-<br>
-
+--- 
 
 ## Project Checklist
 12.5 points per checkbox
