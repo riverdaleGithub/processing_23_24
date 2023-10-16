@@ -1,6 +1,6 @@
 # Theme Configuration
-remote_theme: pmarsceill/just-the-docs
-
+remote_theme: pages-themes/hacker@v0.2.0
+- 
 # Site Title & Description
 title: Hello Processing
 description: 👻🕯🎃🕸 October Lessons 👻🕯🎃🕸
@@ -24,9 +24,9 @@ author:
 
 # SEO & Feed (if using jekyll-seo-tag & jekyll-feed plugins)
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-responsive-image
   - jekyll-html-minify
 
 # If you have code blocks, enable line numbers for better clarity.
