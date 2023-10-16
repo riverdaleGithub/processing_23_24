@@ -1,6 +1,6 @@
 # Theme Configuration
-#remote_theme: pages-themes/minimal@v0.2.0
-theme: minimal-mistakes-jekyll
+remote_theme: pages-themes/minimal@v0.2.0
+#theme: minimal-mistakes-jekyll
 
 # Site Title & Description
 title: Hello Processing
