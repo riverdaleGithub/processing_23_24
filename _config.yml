@@ -1,26 +1,21 @@
 # Theme Configuration
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pmarsceill/just-the-docs
+
 # Site Title & Description
 title: Hello Processing
 description: 👻🕯🎃🕸 October Lessons 👻🕯🎃🕸
 timezone: America/New_York
 lang: en-US
-# Minima Theme Customization
-minima:
-  skin: dark
-  sidebar:
-    - title: "Home"
-      #image: /path/to/image.jpg
-      text: "Home"
-    - title: "More Links"
-      links:
-        - url: https://riverdalegithub.github.io/processing_23_24/
-          title: Landing Page
-# Header & Footer Links
-header_pages:
-  - README.md
-footer_pages:
-  - README.md
+
+# Color Customization (using the 'dark mode' as you previously preferred 'dark' skin)
+color_scheme: dark
+
+# Navigation Structure
+main_nav:
+  - title: "Home"
+    url: /
+  - title: "Landing Page"
+    url: https://riverdalegithub.github.io/processing_23_24/
 
 # Author Information
 author:
@@ -31,6 +26,12 @@ author:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-responsive-image
+  - jekyll-html-minify
+
+# If you have code blocks, enable line numbers for better clarity.
+highlighter: rouge
+line_numbers: true
 
 # Google Analytics (if your theme supports it)
 #google_analytics: UA-XXXXXXX
