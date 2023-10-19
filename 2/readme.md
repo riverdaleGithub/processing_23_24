@@ -14,15 +14,14 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
   <summary>Answers these for planning</summary>
   
   1. What are you going to build?
+     <br>
   2. What colors will you use?
+     <br>
   3. What shapes will you use?
+     <br>
   4. What future actions will you want your planets/stars to do?
+     <br>
   5. How will you know you are done?
-  6. How will you take risks while building?
-  7. What is the final product?
-  8. Who is doing what?
-  9. When will this be done?
-  10. What is your favorite time of the year?
 </details>
 
 ---
