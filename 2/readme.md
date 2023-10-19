@@ -166,6 +166,7 @@ Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make
 
 <a href='https://processing.org/reference/'> Processing Documentation </a>
 
+<br>
 
 <details><summary> Methods & Arguments </summary>
 
@@ -207,7 +208,7 @@ I hope that helps! 🌟
 </details>
 
 
-
+## 🆗 Finished?🆗
 <details>
   <summary>Am I Done Check List</summary>
   <br>
@@ -238,9 +239,7 @@ I hope that helps! 🌟
 
 </details>
 
----
-
-## 🦊 Step 6: Presentations
+## 🦊 Step 7: Presentations
 
 Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class! First come first choice. I will update this list as it progresses.
 
