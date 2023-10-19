@@ -209,28 +209,30 @@ I hope that helps! 🌟
 
 <details>
   <summary>Am I Done Check List</summary>
+
+  <img href='impressed.gif'>
   
   - Peer review document (3 reviews given, 3 reviews received) 
      <br>
   - Flow Chart (Image)
      <br>
-  - User input used
+  - User input used (commented in code)
     <br>
-  - Conditional Statement used with AND & OR
+  - Conditional Statement used with AND & OR (commented in code)
     <br>
-  - Art aspect clear
+  - Art aspect clear (commented in code)
     <br>
-  The science aspect clear
+  The science aspect is clear (commented in code)
     <br>
-  - 3 unique shapes
+  - 3 unique shapes (commented in code)
     <br>
-  - 3 unique colors
+  - 3 unique colors (commented in code)
     <br>
-  - Create Class Lesson (edit your current script for this task)
+  - Create Class Lesson (Your choice of medium)
     <br>
-  - Use three new methods
+  - Use three new methods (commented in code)
     <br>
-  - use three arguments
+  - use three arguments (commented in code)
 
 </details>
 
