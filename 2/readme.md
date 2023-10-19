@@ -6,8 +6,6 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
 
 ![Animated solar system](solar.gif)
 
----
-
 ## 👻 Plan 👻
 
 <details>
@@ -30,7 +28,6 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
   11. What is your output?
 </details>
 
----
 
 ## 🎃 Peer Review 🎃
 
@@ -87,7 +84,6 @@ Did you know that the formula you used is derived from the integral of r with re
 </details>
 
 
----
 
 ## ⭐ Step 1: Set up the Cosmic Canvas
 
@@ -109,7 +105,7 @@ Did you know that the formula you used is derived from the integral of r with re
 
 <details>
   <summary>👾 Code Example</summary>
-    <img src='sun.pnh'>
+    <img src='sun.png'>
 </details>
 
 
@@ -212,8 +208,8 @@ I hope that helps! 🌟
 <details>
   <summary>Am I Done Check List</summary>
   <br>
-  
-  ![Animated solar system](impressed.gif)
+
+  <img src='impressed.gif'>
   
   - Peer review document (3 reviews given, 3 reviews received) 
      <br>
