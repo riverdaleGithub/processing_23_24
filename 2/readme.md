@@ -238,7 +238,7 @@ I hope that helps! 🌟
 
 ## 🦊 Step 6: Presentations
 
-Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class!
+Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class! First come first choice. I will update this list as it progresses.
 
 <details>
   <summary>Present</summary>
