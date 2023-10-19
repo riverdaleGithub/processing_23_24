@@ -22,6 +22,12 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
   4. What future actions will you want your planets/stars to do?
      <br>
   5. How will you know you are done?
+          <br>
+  7. What are your variables
+          <br>
+  9. What is your input
+           <br>
+  11. What is your output?
 </details>
 
 ---
