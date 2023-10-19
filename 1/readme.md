@@ -20,15 +20,23 @@ To familiarize one with the Processing environment and its basic functions, as w
 ---
 
 ## Part 2: First Sketch
-
+Let's draw an ellipse! 
+<br>
 <details>
-<summary> Draw An Ellipse </summary>
-Research and document how to create a sketch, and record your answer. Next, verify your code below, and define  what each word is doing.
+<summary>👾Hint👾</summary>
+<a href='https://processing.org/reference/ellipse_.html' > Using documentation is the 🔑 </a>
+  
+<br>
+  
+<img src="documentation.png">
+
+
+
 </details>
 
-
+<br>
 <details>
-<summary>Code Answer</summary>
+<summary>💖 Code Answer 💖</summary>
 <img src='circle.png'>
 </details>
 
