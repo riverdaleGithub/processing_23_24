@@ -28,7 +28,10 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
 
 ## 🎃 Peer Review 🎃
 
-Before moving on, you must have your idea/plan peer-reviewed by three other students.
+Before moving on, you must have your idea/plan peer-reviewed by three other students. Peer review is the crux of all science
+<br>
+First, gain and give 3 Peer reviews. In this class, peer review is simple. Give a 🌟 glow 🌟, 🌿 grow 🌿, and an 🔬 insight 🔬 as a comment. Less than a paragraph is not helpful, more than a few paragraphs is scary.
+
 
 <details>
   <summary>🐦‍🔥 When Being reviewed 🐦‍🔥</summary>
@@ -50,15 +53,36 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
 </details>
 
 <details>
-  <summary>🔎 When Reviewing A Peer 🔎</summary>
-  
-  [ ]🪴 grow 🪴
-    
-  [ ]🏮 glow 🏮
-    
-  [ ]🦜 original comment 🦜
-    
+   <summary>
+   Code Review Example
+   </summary>
+
+<pre><code>
+   def circle_area(radius):
+    pi = 3.14
+    return pi * radius * radius
+</code></pre>
+
+Peer Review:
+
+<br>
+
+🌟 Glow 🌟:
+Great job on keeping the function concise and to the point! The function name circle_area is descriptive, and it's clear what the function is intended to do. Using a clear variable name like radius also makes the code easy to understand.
+
+<br>
+
+🌿 Grow 🌿:
+Consider using the built-in math.pi instead of hardcoding the value of pi to 3.14. This would make the calculation more accurate and also show that you're utilizing Python's built-in libraries effectively.
+
+<br>
+
+🔬 Insight 🔬:
+Did you know that the formula you used is derived from the integral of r with respect to θ from 0 to 2π in polar coordinates? It's fascinating how math and programming often intersect in such ways!
+
+
 </details>
+
 
 ---
 
@@ -66,7 +90,6 @@ Before moving on, you must have your idea/plan peer-reviewed by three other stud
 
 <details>
   <summary>👾 Code Example</summary>
-  
   <img src='space.png'>
 </details>
   
@@ -135,9 +158,52 @@ Look up and add user input and a conditional to your program. I suggest using th
 
 ---
 
-## 🪐 Step 5: Add All Components
-
+## 🪐 Step 5: Add New Components
+Use three new methods that take in arguments
+<br>
 Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make this solar system spin :) Perhaps the stars are just coming to life, or it's the end of the solar system.
+
+
+<details><summary> Methods & Arguments </summary>
+
+<details>
+   <summary> 🛠️ Method 🛠️ </summary>
+
+Imagine you have a toy robot 🤖. This robot can do different things like walk 🚶, dance 💃, and sing 🎤. Each of these actions is like a "method" for the robot. In Python, objects (like our robot) can have methods that allow them to do specific tasks. In Python, you can chain methods together
+
+
+<pre><code>
+   # Calling a Method
+   robot.dance()
+   # Chaining methods
+   robot.dance().backfilp()
+   answer = input("what is the answer?")
+   anwser.find(string.upper())
+</code></pre>
+
+Here, `dance` is a method that makes the robot dance.
+
+</details>
+<br>
+<details> 
+   <summary> 🎁 Argument 🎁 </summary>
+Now, let's say your robot can also paint 🎨, but it needs to know which color to use. You tell the robot the color by giving it a small box 🎁 with the paint inside. This box is like an "argument" you give to the method.
+
+<pre><code>robot.paint("blue")</code></pre>
+
+Here, `"blue"` is the argument you're giving to the `paint` method to tell the robot which color to use.
+</details>
+<br>
+So, in simple terms:
+
+- A  🛠️ method 🛠️ is an action or task that something can do.
+  <br>
+- An 🎁 argument 🎁 is extra information you give to help the method do its job.
+
+I hope that helps! 🌟
+</details>
+
+
 
 <details>
   <summary>Am I Done Check List</summary>
