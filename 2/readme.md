@@ -80,7 +80,6 @@ Consider using the built-in math.pi instead of hardcoding the value of pi to 3.1
 🔬 Insight 🔬:
 Did you know that the formula you used is derived from the integral of r with respect to θ from 0 to 2π in polar coordinates? It's fascinating how math and programming often intersect in such ways!
 
-
 </details>
 
 
@@ -159,9 +158,12 @@ Look up and add user input and a conditional to your program. I suggest using th
 ---
 
 ## 🪐 Step 5: Add New Components
-Use three new methods that take in arguments
+Use three new methods and use three arguments by using the processing documentation.
 <br>
 Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make this solar system spin :) Perhaps the stars are just coming to life, or it's the end of the solar system.
+<br>
+
+<a href='https://processing.org/reference/'> Processing Documentation </a>
 
 
 <details><summary> Methods & Arguments </summary>
@@ -226,7 +228,10 @@ I hope that helps! 🌟
     <br>
   - Create Class Lesson (edit your current script for this task)
     <br>
-  - 
+  - Use three new methods
+    <br>
+  - use three arguments
+
 </details>
 
 ---
