@@ -208,16 +208,25 @@ I hope that helps! 🌟
 <details>
   <summary>Am I Done Check List</summary>
   
-  - Peer review document
-  - Flow Chart
+  - Peer review document (3 reviews given, 3 reviews received) 
+     <br>
+  - Flow Chart (Image)
+     <br>
   - User input used
-  - Conditional Statement used
+    <br>
+  - Conditional Statement used with AND & OR
+    <br>
   - Art aspect clear
-  - Science aspect clear
+    <br>
+  The science aspect clear
+    <br>
   - 3 unique shapes
+    <br>
   - 3 unique colors
-  - Video Reflection
-  - Pick presentation
+    <br>
+  - Create Class Lesson (edit your current script for this task)
+    <br>
+  - 
 </details>
 
 ---
@@ -230,10 +239,15 @@ Pick a topic below to research, demo, and teach your classmates. This will happe
   <summary>Present</summary>
   
   - Sequence
+    <br>
   - Input
+     <br>
   - Parameters
+     <br>
   - Conditionals
+     <br>
   - Data types
+     <br>
   
   You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade! You may not go over 10 mins. The format is however you wish to teach!
 </details>
