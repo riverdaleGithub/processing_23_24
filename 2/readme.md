@@ -48,9 +48,7 @@ First, gain and give 3 Peer reviews. In this class, peer review is simple. Give 
   <img src='flowchart.jpeg'>
   
 </details>
-  
   </details>
-</details>
 
 <details>
    <summary>
@@ -92,7 +90,6 @@ Did you know that the formula you used is derived from the integral of r with re
   <img src='space.png'>
 </details>
   
-</details>
 
 <details>
   <summary>🦮 Hint</summary>
@@ -109,7 +106,6 @@ Did you know that the formula you used is derived from the integral of r with re
     <img src='sun.pnh'>
 </details>
 
-</details>
 
 <details>
   <summary>🦮 Hint</summary>
@@ -152,7 +148,6 @@ Look up and add user input and a conditional to your program. I suggest using th
     
   <img src='java_if_code.png'>
 </details>
-  </details>
 </details>
 
 ---
@@ -209,8 +204,9 @@ I hope that helps! 🌟
 
 <details>
   <summary>Am I Done Check List</summary>
-
-  <img href='impressed.gif'>
+  <br>
+  
+  ![Animated solar system](impressed.gif)
   
   - Peer review document (3 reviews given, 3 reviews received) 
      <br>
