@@ -99,7 +99,6 @@ Did you know that the formula you used is derived from the integral of r with re
   The `size(800, 600);` sets our universe's width and height. Feel free to make it bigger or smaller!
 </details>
 
----
 
 ## 🌟 Step 2: Light Up the Stars
 
@@ -115,14 +114,12 @@ Did you know that the formula you used is derived from the integral of r with re
   The `ellipse(400, 300, 100, 100);` function draws the sun. The first two values set the position (x, y), and the last two values set the width and height of the ellipse.
   
   <img src='ellipse.png'>
-</details>
   
   You already have been making flow charts and using conditionals! Here is a basic condition in Java!
 </details>
 
----
 
-## 🌲 Step 3 & 4: If 🐁 do
+## 🌲 Step 3: If 🐁 do
 
 Look up and add user input and a conditional to your program. I suggest using the mouse, but you can use whichever method you like.
 
@@ -150,11 +147,9 @@ Look up and add user input and a conditional to your program. I suggest using th
     
   <img src='java_if_code.png'>
 </details>
-</details>
 
----
 
-## 🪐 Step 5: Add New Components
+## 🪐 Step 4: Add New Components
 Use three new methods and use three arguments by using the processing documentation.
 <br>
 Can you add the moons, asteroid belts, or scale planet sizes? Soon, we will make this solar system spin :) Perhaps the stars are just coming to life, or it's the end of the solar system.
@@ -184,6 +179,8 @@ Imagine you have a toy robot 🤖. This robot can do different things like walk 
 Here, `dance` is a method that makes the robot dance.
 
 </details>
+</details>
+
 
 <br>
 
@@ -206,38 +203,8 @@ I hope that helps! 🌟
 </details>
 
 
-## 🆗 Finished?🆗
-<details>
-  <summary>Am I Done Check List</summary>
-  <br>
 
-  <img src='impressed.gif'>
-  
-  - Peer review document (3 reviews given, 3 reviews received) 
-     <br>
-  - Flow Chart (Image)
-     <br>
-  - User input used (commented in code)
-    <br>
-  - Conditional Statement used with AND & OR (commented in code)
-    <br>
-  - Art aspect clear (commented in code)
-    <br>
-  The science aspect is clear (commented in code)
-    <br>
-  - 3 unique shapes (commented in code)
-    <br>
-  - 3 unique colors (commented in code)
-    <br>
-  - Create Class Lesson (Your choice of medium)
-    <br>
-  - Use three new methods (commented in code)
-    <br>
-  - use three arguments (commented in code)
-
-</details>
-
-## 🦊 Step 7: Presentations
+## 🦊 Step 5: Presentations
 
 Pick a topic below to research, demo, and teach your classmates. This will happen, in the next class! First come first choice. I will update this list as it progresses.
 
@@ -256,4 +223,61 @@ Pick a topic below to research, demo, and teach your classmates. This will happe
      <br>
   
   You will be required to give a short assessment at the end of the presentation. The class average of your assessment will be your presentation grade! You may not go over 10 mins. The format is however you wish to teach!
+</details>
+
+## 🌊Step 6: User Interaction🌊
+
+To step up for the triva game, we need to learn how to handle user inputs to control our canvas. To start, we will use the functions:
+
+<br>
+- `map()`
+<br>
+- `mouseX()`
+<br>
+- `mouseY()`
+<br>
+
+We will make the background changed based on where the mouse is at!
+
+
+## 🆗 Step 7: Am I Done 🆗?
+
+<details>
+  <summary>Check List</summary>
+  <br>
+
+  <img src='impressed.gif'>
+  
+  - Peer review document (3 reviews given, 3 reviews received)
+    
+     <br>
+  - Flow Chart (Image)
+    
+     <br>
+  - User input used (commented in code)
+    
+    <br>
+  - Conditional Statement used with AND & OR (commented in code)
+    
+    <br>
+  - Art aspect clear (commented in code)
+    
+    <br>
+  The science aspect is clear (commented in code)
+
+    <br>
+  - 3 unique shapes (commented in code)
+    
+    <br>
+  - 3 unique colors (commented in code)
+    
+    <br>
+  - Create Class Lesson (Your choice of medium)
+    
+    <br>
+  - Use three new methods (commented in code)
+    
+    <br>
+  - use three arguments (commented in code)
+
 </details>
