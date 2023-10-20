@@ -20,19 +20,22 @@ Hello, budding astronomers and programmers! Let's embark on an interstellar jour
   4. What future actions will you want your planets/stars to do?
      <br>
   5. How will you know you are done?
-          <br>
+     <br>
   7. What are your variables
-          <br>
+     <br>
   9. What is your input
-           <br>
+     <br>
   11. What is your output?
+
 </details>
 
 
 ## 🎃 Peer Review 🎃
 
 Before moving on, you must have your idea/plan peer-reviewed by three other students. Peer review is the crux of all science
+
 <br>
+
 First, gain and give 3 Peer reviews. In this class, peer review is simple. Give a 🌟 glow 🌟, 🌿 grow 🌿, and an 🔬 insight 🔬 as a comment. Less than a paragraph is not helpful, more than a few paragraphs is scary.
 
 
