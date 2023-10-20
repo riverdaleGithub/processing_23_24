@@ -184,7 +184,9 @@ Imagine you have a toy robot 🤖. This robot can do different things like walk 
 Here, `dance` is a method that makes the robot dance.
 
 </details>
+
 <br>
+
 <details> 
    <summary> 🎁 Argument 🎁 </summary>
 Now, let's say your robot can also paint 🎨, but it needs to know which color to use. You tell the robot the color by giving it a small box 🎁 with the paint inside. This box is like an "argument" you give to the method.
@@ -192,8 +194,8 @@ Now, let's say your robot can also paint 🎨, but it needs to know which color 
 <pre><code>robot.paint("blue")</code></pre>
 
 Here, `"blue"` is the argument you're giving to the `paint` method to tell the robot which color to use.
-</details>
 <br>
+
 So, in simple terms:
 
 - A  🛠️ method 🛠️ is an action or task that something can do.
