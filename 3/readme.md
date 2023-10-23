@@ -17,8 +17,6 @@
 
 <br>
 
-The left is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe. The right is a gif of the James Webb Space Telescope, which took this picture!
-
 The left is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope</a>. Each radiant point you see isn't just a star – it's an entire <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars">galaxy</a>, each cradling billions of stars within its embrace. When you gaze upon these points of light, you're not merely observing space but traveling through ⏳ time ⏳, witnessing remnants from the very dawn of our universe. On the right, marvel at the animated brilliance of the James Webb Space Telescope itself, the groundbreaking telescope that is 72 feet by 39.4 feet! How'd they get that into space!?
 
 ## ⭐ Fermi Paradox ⭐
