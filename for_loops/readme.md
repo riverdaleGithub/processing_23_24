@@ -81,7 +81,7 @@ Loops are important for automation, modeling, and simulations. They help us cont
 <details><summary>🐶🐶🐶</summary> 
 Estelle is proud of you!
         
-<img src="bark.jpg">
+<img src="bark.jpg" height="500" width="400">
 </details>
 
 Think about if we wanted the robot to move 100 times, or 1,000 times. Without loops, we'd be giving our robot the same command over and over, which is tiring and not efficient. But with a loop, we can give the command once and just tell the computer how many times to repeat it.
