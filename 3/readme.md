@@ -13,7 +13,7 @@ The Fermi Paradox addresses the question: why do we seem alone in the universe? 
 
 <details><summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
 
-<img src="heilosphere">
+<img src="heilosphere.png">
 
 </details>
 
