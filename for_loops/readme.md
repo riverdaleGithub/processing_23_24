@@ -78,6 +78,12 @@ for(int step = 1; step <= 5; step++) {
 
 Loops are important for automation, modeling, and simulations. They help us control time, conduct expirments, and to easily create complex objects :)
 
+<details><summary>🐶🐶🐶</summary> 
+Estelle is proud of you!
+        
+<img src="bark.jpg">
+</details>
+
 Think about if we wanted the robot to move 100 times, or 1,000 times. Without loops, we'd be giving our robot the same command over and over, which is tiring and not efficient. But with a loop, we can give the command once and just tell the computer how many times to repeat it.
 
 
