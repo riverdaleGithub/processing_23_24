@@ -4,9 +4,9 @@
 
 🌱 Objectives 🌱  
 
-1.) create a model for the Fermi Paradox to simulate varying scenarios
+1.) Create a model for the Fermi Paradox to simulate varying scenarios
 <br>
-2.) display the potential number of alien worlds with 🌱 life 🌱 in a sketch
+2.) Display the potential number of alien worlds with 🌱 life 🌱 in a sketch
 <br>
 3.) Answer the Fermi Paradox
 
@@ -15,8 +15,9 @@
     <img src='webb.gif' alt="Second Image" style="width: 50%; height=">
 </div>
 
+<br>
 
-This is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe. Below, is a gif of the James Webb Space Telescope, which took this picture!
+The left is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe. The right is a gif of the James Webb Space Telescope, which took this picture!
 
 
 ## ⭐ Fermi Paradox ⭐
