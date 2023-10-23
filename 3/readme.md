@@ -1,5 +1,14 @@
 # 👾 Are We Alone? 👾
 
+<br>
+
+🌱 Objectives 🌱  
+
+1.) create a model for the Fermi Paradox to simulate varying scenarios
+<br>
+2.) display the potential number of alien worlds with 🌱 life 🌱 in a sketch
+<br>
+3.) Answer the Fermi Paradox
 
 <img src='space.jpeg' width="400" height="400">
 
@@ -11,20 +20,22 @@ This is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Tele
 
 The Fermi Paradox addresses the question: why do we seem alone in the universe? Scientists believe there are billions of stars in our galaxy, many of which could harbor Earth-like planets. With the vast number of possibilities, it seems probable that other intelligent life would exist. Yet, the mystery remains: if there are numerous potential alien civilizations, why haven't we detected any signs of them? Why is the universe so silent?
 
+
+The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations. 
+
+
+<details>
+<summary>Code 1: Turn the Drake Equation Into A function</summary>
+<img src="equation.png">
+</details>
+
+<br>
 <details><summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
 
 <img src="heilosphere.png">
 
 </details>
-
-The Fermi Paradox describes the contradiction between the high likelihood of extraterrestrial civilizations existing and our absence of evidence or contact with these civilizations.
-
-Consider a model for the Fermi Paradox to simulate varying scenarios:
-
-<details>
-<summary>Code 1: Turn this Equation Into A function</summary>
-<img src="equation.png">
-</details>
+<br>
 
 ## Lesson 1: 👩‍🍳 Functions & Arguments 🍎🥦
 
@@ -34,16 +45,17 @@ Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩
 <summary>👩‍🍳 Functions Explained 👩‍🍳</summary>
 A function operates like a mini-program within your main program. It allows you to bundle code, assign it a name, and utilize it multiple times. Visualize a magic box 🎁 that performs a task every time you invoke it.
 
+<br>
 
 **Imagine Functions as Magic Boxes 🎁**
 
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
 
-## 1. The Name of the Magic Box 📛
+### The Name of the Function 📛
 
 Every magic box (function) has a name. This way, you can tell it apart from other magic boxes. So, if you have a magic box that turns apples into gold, you might call it `turnApplesToGold`.
 
-## 2. What Goes In: Ingredients 🍎
+### Function: Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
 
@@ -60,11 +72,11 @@ Here, `fruit` is what you give the magic box. So, if you want apple juice, you'd
 makeJuice("apple");
 </code></pre>
 
-## 3. The Magic Inside the Box 🎩✨
+### Inside the Function 🎩✨
 
 Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
 
-## 4. What Comes Out: Magic Output ✨
+### Function Output ✨
 
 Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
 
@@ -77,7 +89,7 @@ String makeJuice(String fruit) {
 }
 </code></pre>
 
-## 5. Using the Magic Box 🪄
+### Using a Function 🪄
 
 To use a magic box (or function), you simply say its name and give it what it needs (if it needs anything). This is called "calling the function."
 
