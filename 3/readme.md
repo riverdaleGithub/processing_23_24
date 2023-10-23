@@ -143,6 +143,7 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 
 Remember, understanding scope is crucial because it helps you manage data and control what parts of your program can and cannot see or modify that data. Proper scoping ensures cleaner, more readable, and more maintainable code.
 </details>
+</details>
 
 
 ## Lesson 3: 🌟 Introduction to OOP 🌟
