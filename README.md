@@ -41,12 +41,16 @@ Your understanding of the topics covered will be assessed through:
       <td><a href="https://riverdalegithub.github.io/processing_23_24/2/">J2: Solar System </a></td>
     </tr>
         <tr>
+    <tr>
+      <td>For Loop</td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J3: For Loops </a> </td>
+    </tr>
       <td>Moving Objects</td>
-      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J3: Moving the Solar System </a>  </td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J4: Moving Objects </a>  </td>
     </tr>
         <tr>
       <td>Interactions </td>
-      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J4: Intro to Physics  </a> </td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J5: Intro to Physics  </a> </td>
         </tr>
         <tr>
       <td>Milestone Project</td>
