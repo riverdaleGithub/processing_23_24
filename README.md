@@ -33,28 +33,28 @@ Your understanding of the topics covered will be assessed through:
   </thead>
   <tbody>
     <tr>
-      <td>Emojis</td>
-      <td><a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Hello Face </a> </td>
+      <td>Variables</td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Create an Emoji </a> </td>
     </tr>
         <tr>
-      <td>Solar System</td>
+      <td>Sequence</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/2/">J2: Solar System </a></td>
     </tr>
         <tr>
     <tr>
-      <td>For Loop</td>
+      <td>Control Flow</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J3: For Loops </a> </td>
     </tr>
-      <td>Moving Objects</td>
+      <td>OOP pt 1</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J4: Moving Objects </a>  </td>
     </tr>
         <tr>
-      <td>Interactions </td>
+      <td>OOP pt 2</td>
       <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J5: Intro to Physics  </a> </td>
         </tr>
         <tr>
       <td>Milestone Project</td>
-      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> M1: Project  </a> </td>
+      <td> <a href="#"> TBD M1: Project TBD  </a> </td>
     </tr>
   </tbody>
 </table>
