@@ -294,17 +294,16 @@ Before you launch, ensure you've:
   <img src='isthis.jpeg'>
 
 
-1. Created 3 instances of the planet class.
-2. Utilized 3 unique methods.
-3. Showcased the artistry of your solar system.
-4. Embedded the science behind your design.
-5. Crafted a new method in the `Planet` class to make planets move.
-6. Introduced a fresh attribute to the `Planet` class.
-7. Incorporated user input.
-8. Employed conditional statements.
-9. Outlined your TODO list for the next session (hint: steps 9-10).
-10. Computed the gravitational force between a planet and the sun using their real-life masses.
-11. Transformed step 10 into a new method, but only after tackling step 9.
+1. Create 3 instances of the planet class.
+2. Create 3 unique methods.
+3. Showcase the artistry of your solar system.
+4. Embedd the science behind your design.
+5. Method in the `Planet` class to make planets move.
+6. Introduce 3 new attribute to the `Planet` class.
+7. 1 conditional statement.
+8. Create a TODO list for the next session to start solving these two questions:
+    9. Compute the gravitational force between a planet and the sun using their real-life masses.  
+    10. Transform step 10 into a new method, but only after tackling step 9.
 </details>
 
 
