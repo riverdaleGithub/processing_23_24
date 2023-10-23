@@ -26,7 +26,7 @@ Consider a model for the Fermi Paradox to simulate varying scenarios:
 <img src="equation.png">
 </details>
 
-## 👩‍🍳 Functions & Arguments 🍎🥦
+## Lesson 1: 👩‍🍳 Functions & Arguments 🍎🥦
 
 Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩‍🍳 and arguments as the ingredients. You provide the ingredients to the chef, and she whips up a delightful dish! 🍲
 
@@ -90,7 +90,7 @@ String myJuice = makeJuice("apple");
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
 </details>
 
-##  🌍 What is Scope? 🌍
+## Lesson 2: 🌍 What is Scope? 🌍
 <details>
 <summary>Scope</summary>
 
@@ -145,7 +145,7 @@ Remember, understanding scope is crucial because it helps you manage data and co
 </details>
 
 
-## 🌟 Introduction to OOP 🌟
+## Lesson 3: 🌟 Introduction to OOP 🌟
 
 <details>
 <summary>OOP</summary>
