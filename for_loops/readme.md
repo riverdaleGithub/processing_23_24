@@ -86,4 +86,8 @@ Estelle is proud of you!
 
 Think about if we wanted the robot to move 100 times, or 1,000 times. Without loops, we'd be giving our robot the same command over and over, which is tiring and not efficient. But with a loop, we can give the command once and just tell the computer how many times to repeat it.
 
+Here is a forcast of covid I created during the pandemic. Notice how with a few variables I can simulate time to predict what will happen!
+
+<img src="model.png">
+
 
