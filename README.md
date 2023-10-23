@@ -43,7 +43,7 @@ Your understanding of the topics covered will be assessed through:
         <tr>
     <tr>
       <td>Control Flow</td>
-      <td><a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J3: For Loops </a> </td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J3: A Swarm of Color </a> </td>
     </tr>
       <td>OOP pt 1</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J4: Moving Objects </a>  </td>
