@@ -88,8 +88,11 @@ String myJuice = makeJuice("apple");
 </code></pre>
 
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
+</details>
 
 ##  🌍 What is Scope? 🌍
+<details>
+<summary>Scope</summary>
 
 Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
 
@@ -139,9 +142,13 @@ Imagine you have a secret diary that you only read in your room. Within your roo
    When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible.
 
 Remember, understanding scope is crucial because it helps you manage data and control what parts of your program can and cannot see or modify that data. Proper scoping ensures cleaner, more readable, and more maintainable code.
+</details>
 
 
 ## 🌟 Introduction to OOP 🌟
+
+<details>
+<summary>OOP</summary>
 
 OOP revolves around the idea of designing programs based on "objects". These objects hold data (attributes) and are capable of performing actions (methods).
 
@@ -201,11 +208,9 @@ Unleash the power of our celestial objects. Watch as the `sun` and `earth` respo
   <summary> Adding Class Methods </summary>
     <img src='done.png'>
 
-    
 </details>
 
-
----
+<details>
 
 ### Step 3: Create Your Planet Class 🪐
 
