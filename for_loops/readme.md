@@ -19,9 +19,9 @@ for(int i = 0; i < 10; i = i ++){
 </details>
 <br>
 
-Today, you will automate creating shapes, colors, and positions to easily create 100's of objects in a few lines of code.
+Today, you will automate creating shapes, colors, and positions to easily create 100's of <a href="https://en.wikipedia.org/wiki/Object_(computer_science)">objects</a> in a few lines of code.
 
-Moving on, we will then learn how to control this crew of objects you have made!
+Moving on, we will then learn how to control this crew of <a href="https://en.wikipedia.org/wiki/Object_(computer_science)">objects</a> you have made!
 
 
 <img src="objective.png" height="250" width="250">
