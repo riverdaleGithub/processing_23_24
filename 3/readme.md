@@ -3,7 +3,7 @@
 
 <img src='space.jpeg' width="400" height="400">
 
-This is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe.
+This is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope.</a> Every bright spot is <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars"> a galaxy, not a star!</a> Each galaxy has billions of stars. You are also looking into the past when you star at stars. This image shows galaxies from the start of our universe. Below, is a gif of the James Webb Space Telescope, which took this picture!
 
 <img src="webb.gif">
 
@@ -22,7 +22,7 @@ The Fermi Paradox describes the contradiction between the high likelihood of ext
 Consider a model for the Fermi Paradox to simulate varying scenarios:
 
 <details>
-<summary>Turn this Equation Into A function</summary>
+<summary>Code 1: Turn this Equation Into A function</summary>
 <img src="equation.png">
 </details>
 
