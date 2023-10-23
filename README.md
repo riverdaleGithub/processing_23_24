@@ -1,6 +1,6 @@
 # Introduction to Processing in Java
 
-Hello 9th & 10th graders! Welcome to the exciting world of Processing in Java. This course will introduce you to the basics of graphics and interactivity using the Processing environment.
+Welcome to the exciting world of Processing in Java. This course will introduce you to the basics of graphics and interactivity using the Processing environment.
 
 ## What is Processing?
 
