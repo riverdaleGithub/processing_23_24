@@ -28,6 +28,49 @@ The Fermi Paradox describes the contradiction between the high likelihood of ext
 <img src="equation.png">
 </details>
 
+You will want to pass the following arguments:
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>R</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Fp</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Ne</td>
+      <td>0.2</td>
+    </tr>
+    <tr>
+      <td>Fl</td>
+      <td>0.13</td>
+    </tr>
+    <tr>
+      <td>I</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>0.2</td>
+    </tr>
+    <tr>
+      <td>L</td>
+      <td>10^9</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <br>
 <details>
 <summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
