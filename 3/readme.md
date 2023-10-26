@@ -241,6 +241,8 @@ Remember, understanding scope is crucial because it helps you manage data and co
 OOP revolves around the idea of designing programs based on "objects". These objects hold data (attributes) and are capable of performing actions (methods).
 <br>
 
+
+
 <details>
 <summary>OOP</summary>
     
@@ -252,9 +254,20 @@ In the world of OOP, a class is the blueprint for objects. For our solar system,
 
 While exploring, jot down 3 questions you have, and spot a method and an attribute. This is my class, however, you will now design and then build your class after peer review! What data points does an object of your class need?
 
+<br>
+
+<h3>🎒 This Dot 🎒</h3>
+Imagine you're in a classroom where everyone has the same type of backpack 🎒. Inside each backpack, there's a special pocket for a notebook 📓. Now, let's say you want to talk about your own notebook. To make it clear that you're not talking about anyone else's notebook but yours, you might say, "this notebook in my backpack." 
+
+In Java, when we use `this.var`, it's a bit like saying "the `var` that belongs to this specific object (or backpack)." The word `this` helps the computer understand that you're talking about the variable (like the notebook) inside the current object (the current backpack) and not some other variable from somewhere else.
+
+For example, if you see `this.notebook` in a Java class representing a backpack, it's referring to the notebook that belongs to the current backpack object we're dealing with.
+
+</details>
+
 <details>
 <summary>OOP Class </summary>
-<img src='oop.png'>
+<img src='class.png'>
 <br>
 Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`).
 
@@ -282,22 +295,16 @@ With our class in place, let's bring to life some celestial objects by calling o
 <details>
   <summary>Creating Class Objects </summary>
   
-  <img src='oop_call.png'>
+  <img src='abstraction.png'>
 
 Behold! We've just manifested two cosmic entities: `sun` and `earth`. These are instances (or objects) of our `Planet` class.
-</details>
-
-<details>
-<summary>
-  🔭 Step 2.5: Interacting with the Cosmos 🔭
-</summary>
 
 Unleash the power of our celestial objects. Watch as the `sun` and `earth` respond to our command, utilizing methods from the `Planet` class. Make sure you know how to replicate creating an unique planet.
 </details>
 
 <details>
   <summary> Adding Class Methods </summary>
-    <img src='done.png'>
+    <img src='methods.png'>
 
 </details>
 
@@ -315,11 +322,11 @@ class Planet {
   float speed;      // rotation speed
   
   // Constructor: This is how we create an instance of the planet
-  Planet(float x_, float y_, float r_, float s_) {
-    x = x_;
-    y = y_;
-    radius = r_;
-    speed = s_;
+  Planet(float x, float y, float r, float s) {
+    this.x = x;
+    this.y = y;
+    this.radius = r;
+    this.speed = s;
   }
 </code></pre>
 </details>
@@ -333,11 +340,11 @@ class Planet {
   float radius;
 
   Planet(float r) {
-    radius = r;
+    this.radius = r;
   }
 
   void show() {
-    ellipse(0, 0, radius*2, radius*2);
+    ellipse(0, 0, this.radius*2, this.radius*2);
   }
 }
 </code></pre>
