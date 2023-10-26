@@ -131,12 +131,17 @@ And there you go! That's how functions in Java work. They're just like magic box
 
 <details>
 <summary>Scope</summary>
+    
 <br>
+
 Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
 
 <h3>Types of Scopes in Java 🧐</h3>
+
 <br>
+
 Imagine you have a secret diary that you only read in your room. Within your room, you can read it anytime (this is its "scope"). However, when you're in the living room, you can't access it because it's out of its "scope" or reach. In a similar way, in programming, variables and functions have places where they can and cannot be accessed.
+
 <br>
 <br>
 
@@ -149,8 +154,8 @@ Variables defined inside a method, constructor, or block are said to be in the l
 <pre><code>
    public void showName() {
        String name = "Alice"; // This is a local variable
-       System.out.println(name);
         // Outside the method {}, 'name' is not accessible.
+       System.out.println(name); 
    }
 </code></pre>
 
@@ -160,7 +165,7 @@ Variables defined inside a method, constructor, or block are said to be in the l
 When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
 <br>
 
-<code><pre>
+<pre><code>
    public class MyClass {
        String globalVar = "I am global!"; // This variable has class scope
             public void showGlobalVar() {
