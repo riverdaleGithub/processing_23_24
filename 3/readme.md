@@ -48,11 +48,11 @@ A function operates like a mini-program within your main program. It allows you 
 Imagine Functions as Magic Boxes 🎁
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
 
-### The Name of the Function 📛
+## The Name of the Function 📛
 
 Every magic box (function) has a name. This way, you can tell it apart from other magic boxes. So, if you have a magic box that turns apples into gold, you might call it `turnApplesToGold`.
 
-### Function: Arguments = Ingredients 🍎
+## Function: Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
 
@@ -68,11 +68,11 @@ Here, `fruit` is what you give the magic box. So, if you want apple juice, you'd
 makeJuice("apple");
 </code></pre>
 
-### Inside the Function 🎩✨
+## Inside the Function 🎩✨
 
 Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
 
-### Function Output ✨
+## Function Output ✨
 
 Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
 
@@ -111,7 +111,7 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 
 ## Types of Scopes in Java 🧐
 
-### Local Scope (or Block Scope)  
+## Local Scope (or Block Scope)  
 
    Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
 
@@ -123,7 +123,7 @@ Imagine you have a secret diary that you only read in your room. Within your roo
    }
 </code></pre>
 
-### Global (or Class) Scope
+## Global (or Class) Scope
 
    When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
 
@@ -141,15 +141,15 @@ Imagine you have a secret diary that you only read in your room. Within your roo
    }
    </code></pre>
 
-### Package Scope (Default Scope in Java)  
+## Package Scope (Default Scope in Java)  
 
    If a class, method, or variable doesn't have a specific access modifier (like `public`, `private`, or `protected`), it's accessible only within its own package. This is the default scope in Java.
 
-### Protected Scope  
+## Protected Scope  
 
    When a member is declared as `protected`, it can be accessed within its own package and by subclasses.
 
-### Public Scope  
+## Public Scope  
 
    When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible.
    
