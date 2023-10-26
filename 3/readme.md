@@ -371,7 +371,6 @@ planet.rotateAndShow(angle);
 Make sure you define the angle variable at the top of your sketch!
 
 </details>
-</details>
 
 
 # 🎨 Final Checks & Challenges 🎨
@@ -384,15 +383,24 @@ Before you launch, ensure you've:
   <img src='isthis.jpeg'>
 
 1. Create 3 instances of the planet class.
+  <br>
 2. Create 3 unique methods.
+   <br>
 3. Showcase the artistry of your solar system.
+   <br>
 4. Embedd the science behind your design.
+   <br>
 5. Method in the `Planet` class to make planets move.
+   <br>
 6. Introduce 3 new attribute to the `Planet` class.
+   <br>
 7. 1 conditional statement.
+   <br>
 8. Create a TODO list for the next session to start solving these two questions:
-    9. Compute the gravitational force between a planet and the sun using their real-life masses.  
-    10. Transform step 10 into a new method, but only after tackling step 9.
+   <br>
+9. Compute the gravitational force between a planet and the sun using their real-life masses.
+   <br>  
+10. Transform step 10 into a new method, but only after tackling step 9.
 
 </details>
 
