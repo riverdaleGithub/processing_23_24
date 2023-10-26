@@ -263,8 +263,6 @@ In Java, when we use `this.var`, it's a bit like saying "the `var` that belongs 
 
 For example, if you see `this.notebook` in a Java class representing a backpack, it's referring to the notebook that belongs to the current backpack object we're dealing with.
 
-</details>
-
 <details>
 <summary>OOP Class </summary>
 <img src='class.png'>
@@ -373,6 +371,8 @@ planet.rotateAndShow(angle);
 Make sure you define the angle variable at the top of your sketch!
 
 </details>
+</details>
+
 
 # 🎨 Final Checks & Challenges 🎨
 
