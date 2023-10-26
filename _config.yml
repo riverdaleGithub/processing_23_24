@@ -1,7 +1,12 @@
 # Theme Configuration
-#remote_theme: pages-themes/minimal@v0.2.0
-#theme: minimal-mistakes-jekyll
-theme: jekyll-theme-basically-basic
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-responsive-image
+  - jekyll-html-minify
+
 
 
 # Site Title & Description
@@ -25,13 +30,7 @@ author:
   name: Lila James
   email: ljames@riverdale.edu
 
-# SEO & Feed (if using jekyll-seo-tag & jekyll-feed plugins)
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-responsive-image
-  - jekyll-html-minify
-  - jekyll-remote-theme
+
   
 # If you have code blocks, enable line numbers for better clarity.
 highlighter: rouge
