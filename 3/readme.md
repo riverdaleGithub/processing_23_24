@@ -55,8 +55,6 @@ You know those magic boxes in fairy tales where you put something in, whisper a 
 <br>
  
 <h3>The Name of the Function 📛</h3>
-<br>
-<br>
 
 Every magic box (function) has a name. This way, you can tell it apart from other magic boxes. So, if you have a magic box that turns apples into gold, you might call it `turnApplesToGold`.
 <br>
@@ -146,7 +144,7 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 <br>
 
 <h3> Local Scope (or Block Scope) </h3>
-<br>
+
 Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
 
 <br>
@@ -160,7 +158,6 @@ Variables defined inside a method, constructor, or block are said to be in the l
 </code></pre>
 
 <h3> Global (or Class) Scope </h3>
-<br>
 
 When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
 <br>
@@ -209,7 +206,9 @@ OOP revolves around the idea of designing programs based on "objects". These obj
 <h3>🌍 Step 1: Understanding Classes 🌍 </h3> 
 
 In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
+
 <br>
+
 While exploring, jot down 3 questions you have, and spot a method and an attribute. This is my class, however, you will now design and then build your class after peer review! What data points does an object of your class need?
 
 <details>
@@ -219,6 +218,8 @@ While exploring, jot down 3 questions you have, and spot a method and an attribu
 Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`).
 
 </details>
+
+<br>
 
 <details>
 <summary>🛸 Mars Side Quest 🛸</summary>
@@ -231,7 +232,7 @@ Share your discoveries with the class!
 
 </details>
 
----
+<br>
 
 <h3>🚀 Step 2: Understand The Class 🚀</h3>
 
@@ -259,7 +260,7 @@ Unleash the power of our celestial objects. Watch as the `sun` and `earth` respo
 
 </details>
 
-## Step 3: Create Your Planet Class 🪐
+<h3>Step 3: Create Your Planet Class 🪐</h3>
 
 Our planet will have a few attributes: its position, radius, and rotation speed. What else would you like it to have?
 
@@ -301,9 +302,9 @@ class Planet {
 </code></pre>
 </details>
 
----
+<br>
 
-## 💃 Step 4: Time to Spin 💃
+<h3>💃 Step 4: Time to Spin 💃</h3> 
 
 To make our planet spin, we'll add a new method to our Planet class. This method will rotate the planet each time it's called. With this method, you can now display your planet with rotation! Call this method in your draw() function and provide an angle (which you can increment each frame to see continuous rotation).
 
@@ -323,7 +324,6 @@ planet.rotateAndShow(angle);
 </code></pre>
 Make sure you define the angle variable at the top of your sketch!
 
-</details>
 </details>
 
 # 🎨 Final Checks & Challenges 🎨
