@@ -54,7 +54,7 @@ You know those magic boxes in fairy tales where you put something in, whisper a 
 <br>
 <br>
  
-## The Name of the Function 📛
+<h3>The Name of the Function 📛</h3>
 <br>
 <br>
 
@@ -62,7 +62,7 @@ Every magic box (function) has a name. This way, you can tell it apart from othe
 <br>
 <br>
 
-## Function: Arguments = Ingredients 🍎
+<h3>Function: Arguments = Ingredients 🍎 </h3> 
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
 <br>
@@ -85,13 +85,13 @@ makeJuice("apple");
 <br>
 <br>
 
-## Inside the Function 🎩✨
+<h3> Inside the Function 🎩✨</h3>
 
 Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
 <br>
 <br>
 
-## Function Output ✨
+<h3>Function Output ✨</h3>
 
 Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
 <br>
@@ -110,7 +110,7 @@ String makeJuice(String fruit) {
 <br>
 <br>
 
-## Using a Function 🪄
+<h3>Using a Function 🪄</h3>
 
 To use a magic box (or function), you simply say its name and give it what it needs (if it needs anything). This is called "calling the function."
 <br>
@@ -134,14 +134,14 @@ And there you go! That's how functions in Java work. They're just like magic box
 <br>
 Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
 
-## Types of Scopes in Java 🧐
+<h3>Types of Scopes in Java 🧐</h3>
 <br>
 <br>
 Imagine you have a secret diary that you only read in your room. Within your room, you can read it anytime (this is its "scope"). However, when you're in the living room, you can't access it because it's out of its "scope" or reach. In a similar way, in programming, variables and functions have places where they can and cannot be accessed.
 <br>
 <br>
 
-## Local Scope (or Block Scope)  
+<h3> Local Scope (or Block Scope) </h3>
 
 <br>
 <br>
@@ -159,7 +159,7 @@ Variables defined inside a method, constructor, or block are said to be in the l
    }
 </code></pre>
 
-## Global (or Class) Scope
+<h3> Global (or Class) Scope </h3>
 <br>
 <br>
 
@@ -181,21 +181,21 @@ When a variable is declared at the class level (but outside any method), it's ac
 <br>
 <br>
 
-## Package Scope (Default Scope in Java)  
+<h3>Package Scope (Default Scope in Java)</h3>
 
 If a class, method, or variable doesn't have a specific access modifier (like `public`, `private`, or `protected`), it's accessible only within its own package. This is the default scope in Java.
 <br>
 <br>
 
 
-## Protected Scope  
+<h3>Protected Scope</h3>
 
 When a member is declared as `protected`, it can be accessed within its own package and by subclasses.
 <br>
 <br>
 
 
-## Public Scope  
+<h3>Public Scope</h3>
 
 When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible. 
 <br>
@@ -215,7 +215,7 @@ OOP revolves around the idea of designing programs based on "objects". These obj
 <details>
 <summary>OOP</summary>
     
-## 🌍 Step 1: Understanding Classes 🌍
+<h3>🌍 Step 1: Understanding Classes 🌍 </h3> 
 
 In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
 <br>
@@ -242,7 +242,7 @@ Share your discoveries with the class!
 
 ---
 
-## 🚀 Step 2: Understand The Class 🚀
+<h3>🚀 Step 2: Understand The Class 🚀</h3>
 
 With our class in place, let's bring to life some celestial objects by calling our Planet class.
 
