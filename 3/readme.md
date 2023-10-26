@@ -127,13 +127,11 @@ And there you go! That's how functions in Java work. They're just like magic box
 
 # Lesson 2: 🌍 What is Scope? 🌍
 
+Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
+
 <details>
 <summary>Scope</summary>
     
-<br>
-
-Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
-
 <h3>Types of Scopes in Java 🧐</h3>
 
 <br>
