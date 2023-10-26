@@ -115,16 +115,13 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 
    Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
 
-  <pre><code>
+<pre><code>
    public void showName() {
        String name = "Alice"; // This is a local variable
        System.out.println(name);
+        // Outside the method {}, 'name' is not accessible.
    }
-
-   // Outside the method, 'name' is not accessible.
-
 </code></pre>
-<br>
 
 ### Global (or Class) Scope
 
@@ -155,19 +152,22 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 ### Public Scope  
 
    When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible.
+   
 <br>
+
 Remember, understanding scope is crucial because it helps you manage data and control what parts of your program can and cannot see or modify that data. Proper scoping ensures cleaner, more readable, and more maintainable code.
+
 </details>
 
 # Lesson 3: 🌟 Introduction to OOP 🌟
 
-<details>
-<summary>OOP</summary>
 
 OOP revolves around the idea of designing programs based on "objects". These objects hold data (attributes) and are capable of performing actions (methods).
 
 ---
-
+<details>
+<summary>OOP</summary>
+    
 ## 🌍 Step 1: Understanding Classes 🌍
 
 In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
@@ -192,7 +192,7 @@ Unlock the mysteries of Mars using NASA's API to fetch a real image captured by 
 Share your discoveries with the class!
 
 </details>
-
+</details>
 ---
 
 ## 🚀 Step 2: Understand The Class 🚀
