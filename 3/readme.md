@@ -136,19 +136,14 @@ Scope acts as an invisible barrier ⛩️ around segments of your code. Variable
 
 <h3>Types of Scopes in Java 🧐</h3>
 <br>
-<br>
 Imagine you have a secret diary that you only read in your room. Within your room, you can read it anytime (this is its "scope"). However, when you're in the living room, you can't access it because it's out of its "scope" or reach. In a similar way, in programming, variables and functions have places where they can and cannot be accessed.
 <br>
 <br>
 
 <h3> Local Scope (or Block Scope) </h3>
-
 <br>
-<br>
-
 Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
 
-<br>
 <br>
 
 <pre><code>
@@ -161,10 +156,8 @@ Variables defined inside a method, constructor, or block are said to be in the l
 
 <h3> Global (or Class) Scope </h3>
 <br>
-<br>
 
 When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
-<br>
 <br>
 
 <code><pre>
@@ -179,26 +172,20 @@ When a variable is declared at the class level (but outside any method), it's ac
    }
    </code></pre>
 <br>
-<br>
 
 <h3>Package Scope (Default Scope in Java)</h3>
 
 If a class, method, or variable doesn't have a specific access modifier (like `public`, `private`, or `protected`), it's accessible only within its own package. This is the default scope in Java.
 <br>
-<br>
-
 
 <h3>Protected Scope</h3>
 
 When a member is declared as `protected`, it can be accessed within its own package and by subclasses.
 <br>
-<br>
-
 
 <h3>Public Scope</h3>
 
 When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible. 
-<br>
 <br>
 
 Remember, understanding scope is crucial because it helps you manage data and control what parts of your program can and cannot see or modify that data. Proper scoping ensures cleaner, more readable, and more maintainable code.
@@ -209,7 +196,6 @@ Remember, understanding scope is crucial because it helps you manage data and co
 # Lesson 3: 🌟 Introduction to OOP 🌟
 
 OOP revolves around the idea of designing programs based on "objects". These objects hold data (attributes) and are capable of performing actions (methods).
-<br>
 <br>
 
 <details>
