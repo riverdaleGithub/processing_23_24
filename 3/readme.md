@@ -43,59 +43,58 @@ Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩
 
 <details>
 <summary>👩‍🍳 Functions Explained 👩‍🍳</summary>
-
-    
+<br>
 A function operates like a mini-program within your main program. It allows you to bundle code, assign it a name, and utilize it multiple times. Visualize a magic box 🎁 that performs a task every time you invoke it.
-
-
+<br>
 Imagine Functions as Magic Boxes 🎁
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
-
-
+<br>
+    
 ## The Name of the Function 📛
-
-
+<br>
 Every magic box (function) has a name. This way, you can tell it apart from other magic boxes. So, if you have a magic box that turns apples into gold, you might call it `turnApplesToGold`.
 
 ## Function: Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
-
+<br>
 <pre><code>
     void makeJuice(String fruit) {
         // Magic happens here!
     }
 </code></pre>
-
+<br>
 Here, `fruit` is what you give the magic box. So, if you want apple juice, you'd use the box (call the function) like this:
-
+<br>
 <pre><code>
 makeJuice("apple");
 </code></pre>
-
+<br>
 ## Inside the Function 🎩✨
 
 Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
+<br>
 
 ## Function Output ✨
 
 Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
-
+<br>
 For instance, if our juice-making magic box gives back juice, it might look like:
-
+<br>
 <pre><code>
 String makeJuice(String fruit) {
     // Magic happens here!
     return "juice"; // This is what you get back!
 }
 </code></pre>
+<br>
 
 ## Using a Function 🪄
 
 To use a magic box (or function), you simply say its name and give it what it needs (if it needs anything). This is called "calling the function."
-
+<br>
 Example:
-
+<br>
 <pre><code>
 String myJuice = makeJuice("apple");
 </code></pre>
@@ -107,19 +106,19 @@ And there you go! That's how functions in Java work. They're just like magic box
 
 <details>
 <summary>Scope</summary>
-
+<br>
 Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
 
 ## Why is Scope Important? 🤔
-
+<br>
 Imagine you have a secret diary that you only read in your room. Within your room, you can read it anytime (this is its "scope"). However, when you're in the living room, you can't access it because it's out of its "scope" or reach. In a similar way, in programming, variables and functions have places where they can and cannot be accessed.
-
+<br>
 ## Types of Scopes in Java 🧐
 
 ## Local Scope (or Block Scope)  
-
-   Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
-
+<br>
+Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
+<br>
 <pre><code>
    public void showName() {
        String name = "Alice"; // This is a local variable
@@ -129,14 +128,14 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 </code></pre>
 
 ## Global (or Class) Scope
-
-   When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
-
-   <code><pre>
+<br>
+When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
+<br>
+<code><pre>
    public class MyClass {
        String globalVar = "I am global!"; // This variable has class scope
 
-       public void showGlobalVar() {
+        public void showGlobalVar() {
            System.out.println(globalVar); // Accessible here
        }
 
@@ -145,44 +144,42 @@ Imagine you have a secret diary that you only read in your room. Within your roo
        }
    }
    </code></pre>
+<br>
 
 ## Package Scope (Default Scope in Java)  
 
-   If a class, method, or variable doesn't have a specific access modifier (like `public`, `private`, or `protected`), it's accessible only within its own package. This is the default scope in Java.
+If a class, method, or variable doesn't have a specific access modifier (like `public`, `private`, or `protected`), it's accessible only within its own package. This is the default scope in Java.
+<br>
 
 ## Protected Scope  
 
-   When a member is declared as `protected`, it can be accessed within its own package and by subclasses.
+When a member is declared as `protected`, it can be accessed within its own package and by subclasses.
 
 ## Public Scope  
 
-   When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible.
-   
+When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible. 
 <br>
-
 Remember, understanding scope is crucial because it helps you manage data and control what parts of your program can and cannot see or modify that data. Proper scoping ensures cleaner, more readable, and more maintainable code.
 
 </details>
 
 # Lesson 3: 🌟 Introduction to OOP 🌟
 
-
 OOP revolves around the idea of designing programs based on "objects". These objects hold data (attributes) and are capable of performing actions (methods).
-
----
+<br>
 <details>
 <summary>OOP</summary>
     
 ## 🌍 Step 1: Understanding Classes 🌍
 
 In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
-
+<br>
 While exploring, jot down 3 questions you have, and spot a method and an attribute. This is my class, however, you will now design and then build your class after peer review! What data points does an object of your class need?
 
 <details>
 <summary>OOP Class </summary>
 <img src='oop.png'>
-  
+<br>
 Notice how the `Planet` class contains attributes (e.g., `radius`, `distance`) and methods (e.g., `show`, `update`).
 
 </details>
