@@ -37,18 +37,23 @@ The Fermi Paradox describes the contradiction between the high likelihood of ext
 </details>
 <br>
 
-## Lesson 1: 👩‍🍳 Functions & Arguments 🍎🥦
+# Lesson 1: 👩‍🍳 Functions & Arguments 🍎🥦
 
 Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩‍🍳 and arguments as the ingredients. You provide the ingredients to the chef, and she whips up a delightful dish! 🍲
 
 <details>
 <summary>👩‍🍳 Functions Explained 👩‍🍳</summary>
+
+    
 A function operates like a mini-program within your main program. It allows you to bundle code, assign it a name, and utilize it multiple times. Visualize a magic box 🎁 that performs a task every time you invoke it.
-<br>
+
+
 Imagine Functions as Magic Boxes 🎁
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
 
+
 ## The Name of the Function 📛
+
 
 Every magic box (function) has a name. This way, you can tell it apart from other magic boxes. So, if you have a magic box that turns apples into gold, you might call it `turnApplesToGold`.
 
@@ -192,7 +197,7 @@ Unlock the mysteries of Mars using NASA's API to fetch a real image captured by 
 Share your discoveries with the class!
 
 </details>
-</details>
+
 ---
 
 ## 🚀 Step 2: Understand The Class 🚀
@@ -220,8 +225,6 @@ Unleash the power of our celestial objects. Watch as the `sun` and `earth` respo
     <img src='done.png'>
 
 </details>
-
-<details>
 
 ## Step 3: Create Your Planet Class 🪐
 
@@ -288,8 +291,9 @@ planet.rotateAndShow(angle);
 Make sure you define the angle variable at the top of your sketch!
 
 </details>
+</details>
 
-## 🎨 Step 5: Final Checks & Challenges 🎨
+# 🎨 Final Checks & Challenges 🎨
 
 Before you launch, ensure you've:
 
