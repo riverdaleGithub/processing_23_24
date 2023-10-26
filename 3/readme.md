@@ -50,7 +50,9 @@ A function operates like a mini-program within your main program. It allows you 
 
 <br>
 
-**Imagine Functions as Magic Boxes 🎁**
+Imagine Functions as Magic Boxes 🎁
+
+<br>
 
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
 
@@ -117,7 +119,7 @@ Imagine you have a secret diary that you only read in your room. Within your roo
 
 ### Types of Scopes in Java 🧐
 
-1. **Local Scope (or Block Scope):**  
+1. Local Scope (or Block Scope):  
    Variables defined inside a method, constructor, or block are said to be in the local scope. They are accessible only within the method or block where they are declared.
 
   <pre><code>
@@ -130,7 +132,9 @@ Imagine you have a secret diary that you only read in your room. Within your roo
    
 </code></pre>
 
-2. **Global (or Class) Scope:**  
+<br>
+2. Global (or Class) Scope:
+
    When a variable is declared at the class level (but outside any method), it's accessible from any method in the class (unless it's private and you're trying to access it from outside the class). These are often referred to as class or member variables.
 
    <code><pre>
@@ -147,18 +151,16 @@ Imagine you have a secret diary that you only read in your room. Within your roo
    }
    </code></pre>
 
-3. **Package Scope (Default Scope in Java):**  
+3. Package Scope (Default Scope in Java):  
    If a class, method, or variable doesn't have a specific access modifier (like `public`, `private`, or `protected`), it's accessible only within its own package. This is the default scope in Java.
 
-4. **Protected Scope:**  
+4. Protected Scope:  
    When a member is declared as `protected`, it can be accessed within its own package and by subclasses.
 
-5. **Public Scope:**  
+5. Public Scope:  
    When a member is declared as `public`, it can be accessed from any other class in any package, assuming the class it resides in is also accessible.
 
 Remember, understanding scope is crucial because it helps you manage data and control what parts of your program can and cannot see or modify that data. Proper scoping ensures cleaner, more readable, and more maintainable code.
-</details>
-</details>
 </details>
 
 
