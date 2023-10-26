@@ -19,7 +19,7 @@
 
 The left is a photo from the <a href="https://webb.nasa.gov/"> James Webb Space Telescope</a>. Each radiant point you see isn't just a star – it's an entire <a href="https://physics.stackexchange.com/questions/160283/are-we-seeing-the-past-when-we-look-at-the-stars">galaxy</a>, each cradling billions of stars within its embrace. When you gaze upon these points of light, you're not merely observing space but traveling through ⏳ time ⏳, witnessing remnants from the very dawn of our universe. On the right, marvel at the animated brilliance of the James Webb Space Telescope itself, the groundbreaking telescope that is 72 feet by 39.4 feet! How'd they get that into space!?
 
-## ⭐ Fermi Paradox ⭐
+# ⭐ Fermi Paradox ⭐
 
 The Fermi Paradox addresses the question: why do we seem alone in the universe? Scientists believe there are billions of stars in our galaxy, many of which could harbor Earth-like planets. With the vast number of possibilities, it seems probable that other intelligent life would exist. Yet, the mystery remains: if there are numerous potential alien civilizations, why haven't we detected any signs of them? Why is the universe so silent?
 
@@ -33,7 +33,8 @@ The Fermi Paradox describes the contradiction between the high likelihood of ext
 </details>
 
 <br>
-<details><summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
+<details>
+<summary>🚀How Far Have Humans Gone Beyound our Solar System🚀</summary>
 
 <img src="heilosphere.png">
 
@@ -56,11 +57,11 @@ Imagine Functions as Magic Boxes 🎁
 
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
 
-### The Name of the Function 📛
+## The Name of the Function 📛
 
 Every magic box (function) has a name. This way, you can tell it apart from other magic boxes. So, if you have a magic box that turns apples into gold, you might call it `turnApplesToGold`.
 
-### Function: Arguments = Ingredients 🍎
+## Function: Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
 
@@ -77,11 +78,11 @@ Here, `fruit` is what you give the magic box. So, if you want apple juice, you'd
 makeJuice("apple");
 </code></pre>
 
-### Inside the Function 🎩✨
+## Inside the Function 🎩✨
 
 Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
 
-### Function Output ✨
+## Function Output ✨
 
 Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
 
@@ -94,7 +95,7 @@ String makeJuice(String fruit) {
 }
 </code></pre>
 
-### Using a Function 🪄
+## Using a Function 🪄
 
 To use a magic box (or function), you simply say its name and give it what it needs (if it needs anything). This is called "calling the function."
 
@@ -107,7 +108,8 @@ String myJuice = makeJuice("apple");
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
 </details>
 
-## Lesson 2: 🌍 What is Scope? 🌍
+# Lesson 2: 🌍 What is Scope? 🌍
+
 <details>
 <summary>Scope</summary>
 
@@ -164,7 +166,7 @@ Remember, understanding scope is crucial because it helps you manage data and co
 </details>
 
 
-## Lesson 3: 🌟 Introduction to OOP 🌟
+# Lesson 3: 🌟 Introduction to OOP 🌟
 
 <details>
 <summary>OOP</summary>
@@ -173,7 +175,7 @@ OOP revolves around the idea of designing programs based on "objects". These obj
 
 ---
 
-### 🌍 Step 1: Understanding Classes 🌍 
+## 🌍 Step 1: Understanding Classes 🌍 
 
 In the world of OOP, a class is the blueprint for objects. For our solar system, we'll treat each planet as an object, crafted from the `Planet` class. Remember, most of the time you're working with existing templates.
 
@@ -202,7 +204,7 @@ Share your discoveries with the class!
 
 ---
 
-### 🚀 Step 2: Understand The Class 🚀
+## 🚀 Step 2: Understand The Class 🚀
 
 With our class in place, let's bring to life some celestial objects by calling our Planet class.
 
@@ -231,7 +233,7 @@ Unleash the power of our celestial objects. Watch as the `sun` and `earth` respo
 
 <details>
 
-### Step 3: Create Your Planet Class 🪐
+## Step 3: Create Your Planet Class 🪐
 
 Our planet will have a few attributes: its position, radius, and rotation speed. What else would you like it to have?
 
@@ -299,7 +301,7 @@ Make sure you define the angle variable at the top of your sketch!
 </details>
 
 
-### 🎨 Step 5: Final Checks & Challenges 🎨 
+## 🎨 Step 5: Final Checks & Challenges 🎨 
 
 Before you launch, ensure you've:
 
