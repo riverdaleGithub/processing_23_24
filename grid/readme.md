@@ -42,11 +42,24 @@ void setup() {
 }
 
 void draw() {
+// Top-left quadrant: Circle
 
-  // Top-right quadrant: Rectangle
-  fill(random(255), random(255), random(255), random(155));
-  stroke(random(255));
-  rect(random(width/2, width), random(0, height/2), random(width/10), random(height/10));
+// Set a random fill color for the circle. The color is determined by random values for the red, 
+// green, and blue channels (each ranging from 0 to 255). An additional random value (ranging 
+// from 0 to 155) is used to determine the alpha transparency of the fill color.
+fill(random(255), random(255), random(255), random(155));
+
+// Set a random stroke color for the circle. This is determined by a single random value 
+// which affects the brightness of the color (ranging from 0 to 255).
+stroke(random(255));
+
+// Draw a circle on the canvas:
+// The x-coordinate is randomly placed within half the width of the canvas (0 to width/2).
+// The y-coordinate is randomly placed within half the height of the canvas (0 to height/2).
+// The diameter of the circle is a random value between 5 and 20 pixels.
+circle(random(width/2), random(height/2), random(5, 20));
+
+
 }
 </code></pre>
 </details>
