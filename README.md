@@ -24,6 +24,8 @@ Your understanding of the topics covered will be assessed through:
 - Hands-on coding exercises
 - Reports
 - A final project
+  
+<br>
 
 <table>
   <thead>
@@ -36,19 +38,27 @@ Your understanding of the topics covered will be assessed through:
       <td>Variables</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/1/"> J1: Create an Emoji </a> </td>
     </tr>
-        <tr>
+      <tr>
       <td>Sequence</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/2/">J2: Solar System </a></td>
     </tr>
-        <tr>
     <tr>
       <td>Control Flow</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J3: A Swarm of Color </a> </td>
     </tr>
+    <tr>
+      <td>For Loops</td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J5: Intro to Physics  </a> </td>
+        </tr>
+      <tr>
+      <td>Grid </td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/grid/"> J5: Intro to Physics  </a> </td>
+        </tr>
+    <tr>
       <td>OOP pt 1</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J4: Are We Alone?</a>  </td>
     </tr>
-        <tr>
+      <tr>
       <td>OOP pt 2</td>
       <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J5: Intro to Physics  </a> </td>
         </tr>
