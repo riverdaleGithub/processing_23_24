@@ -46,23 +46,19 @@ Your understanding of the topics covered will be assessed through:
       <td>Control Flow</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J3: A Swarm of Color </a> </td>
     </tr>
-    <tr>
-      <td>For Loops</td>
-      <td> <a href="https://riverdalegithub.github.io/processing_23_24/for_loops/"> J5: Intro to Physics  </a> </td>
-        </tr>
       <tr>
       <td>Grid </td>
-      <td> <a href="https://riverdalegithub.github.io/processing_23_24/grid/"> J5: Intro to Physics  </a> </td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/grid/"> J4: Running the Grid </a> </td>
         </tr>
     <tr>
       <td>OOP pt 1</td>
-      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J4: Are We Alone?</a>  </td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J5: Are We Alone?</a>  </td>
     </tr>
       <tr>
       <td>OOP pt 2</td>
-      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J5: Intro to Physics  </a> </td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J6: Intro to Physics  </a> </td>
         </tr>
-        <tr>
+      <tr>
       <td>Milestone Project</td>
       <td> <a href="#"> TBD M1: Project TBD  </a> </td>
     </tr>
