@@ -140,7 +140,7 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 
 
 
-<h3>Function: Arguments = Ingredients 🍎 </h3> 
+# Function: Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
 <br>
