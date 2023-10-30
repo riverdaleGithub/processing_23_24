@@ -20,18 +20,9 @@ A function operates like a mini-program within your main program. It allows you 
 
 
 <h2> Objective </h2>
-To create interactive sketch that uses the following:
 
-<br>
-- void setup() // Run once at the beginning. Set the stage! 
-<br>
-- void draw() // Run continuously after setup. It's where the action happens!
-<br>
--  <a href='https://processing.org/reference/mousePressed_.html'>mousePressed()</a>
-<br>
--  <a href ="https://processing.org/reference/mouseReleased_.html">mouseReleased()</a>
-<br>
-- Create your own custom methods
+- To create and use your own custom methods
+  
 <br>
 
 When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
