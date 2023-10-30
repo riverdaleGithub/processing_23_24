@@ -140,6 +140,26 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 
 
 
+# Lab
+Before moving on, ensure you have created a custom function called **randColor()** that creates a random color for a shape. Create two other custom functions for your sketch that utilize user input. Make sure to follow the objectives:
+
+<br>
+- void setup() 
+<br>
+- void draw() 
+<br>
+-  <a href='https://processing.org/reference/mousePressed_.html'>mousePressed()</a>
+<br>
+-  <a href ="https://processing.org/reference/mouseReleased_.html">mouseReleased()</a>
+<br>
+- Create 3 custom methods including **randColor()**
+<br>
+
+<br>
+
+<details>
+ <summary>Part Two</summary>
+ 
 # Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
@@ -196,7 +216,7 @@ String myJuice = makeJuice("apple");
 </code></pre>
 
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
-</details>
+
 
 # 🌍 What is Scope? 🌍
 
@@ -265,5 +285,5 @@ Remember, understanding scope is crucial because it helps you manage data and co
 
 </details>
 
-
+</details>
 
