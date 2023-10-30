@@ -148,13 +148,14 @@ Before moving on, ensure you have created a custom function called **randColor()
 <br>
 - void draw() 
 <br>
+- create **randColor()** method
+<br>
 -  <a href='https://processing.org/reference/mousePressed_.html'>mousePressed()</a>
 <br>
 -  <a href ="https://processing.org/reference/mouseReleased_.html">mouseReleased()</a>
 <br>
-- Create 3 custom methods including **randColor()**
+- <a href="https://processing.org/reference/keyPressed_.html">keyPressed()</a>
 <br>
-
 <br>
 
 <details>
