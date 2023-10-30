@@ -46,7 +46,7 @@ Example:
 <br>
 
 <pre><code>
-makeJuice();
+turnApplesToGold();
 </code></pre>
 
 thats all there is to calling a function! Processing is super cool, and provides us with predefined functions. You've actually been using/calling these functions since day 1 of processing!!!
@@ -134,21 +134,22 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 # Lab: Custom Functions and User Input in Processing
 
 **Lab Instructions:**
-
+   
 **Objective:** In this lab, you will be creating custom functions to enhance the interactivity of your sketch in Processing. One of these functions will generate a random color, while the others will utilize user input.
 
 **Tasks:**
+<br>
 
-1. **randColor() Function:** Before proceeding, ensure that you have developed a custom function named `randColor()`. This function should generate and return a random color that can be applied to a shape.
-
-2. **User Input Functions:** Create three additional custom functions in your sketch that make use of user input. You can decide the purpose and functionality of these functions, but they should be interactive and meaningful.
-
-3. **Mandatory Functions:** Your sketch should also include and customize the following functions:
+0. Structure your sketch by using 
 
    - `void setup()`: This function is called once when the program starts. Use it to define initial environment properties.
    
    - `void draw()`: This function is continuously executed and is used to run the code inside it repeatedly.
-   
+
+1. **randColor() Function:** Before proceeding, ensure that you have developed a custom function named `randColor()`. This function should generate and return a random color that can be applied to a shape.
+
+2. **User Input Functions:** Create three additional custom functions in your sketch that make use of user input. You can decide the purpose and functionality of these functions, but they should be interactive and meaningful. Your sketch should include and customize the following:
+
    - `mousePressed()`: This function is called once after every time a mouse button is pressed. 
    
    - `mouseReleased()`: This function is called once every time a mouse button is released. 
