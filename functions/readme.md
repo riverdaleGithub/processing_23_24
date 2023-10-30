@@ -140,7 +140,7 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 
 
 
-# Function: Arguments = Ingredients 🍎
+# Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
 <br>
@@ -161,22 +161,18 @@ makeJuice("apple");
 </code></pre>
 
 <br>
-<br>
 
 <h3> Inside the Function 🎩✨</h3>
 
 Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
-<br>
 <br>
 
 <h3>Function Output ✨</h3>
 
 Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
 <br>
-<br>
 
 For instance, if our juice-making magic box gives back juice, it might look like:
-<br>
 <br>
 
 <pre><code>
@@ -186,16 +182,13 @@ String makeJuice(String fruit) {
 }
 </code></pre>
 <br>
-<br>
 
 <h3>Using a Function 🪄</h3>
 
 To use a magic box (or function), you simply say its name and give it what it needs (if it needs anything). This is called "calling the function."
 <br>
-<br>
 
 Example:
-<br>
 <br>
 
 <pre><code>
@@ -205,7 +198,7 @@ String myJuice = makeJuice("apple");
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
 </details>
 
-# Lesson 2: 🌍 What is Scope? 🌍
+# 🌍 What is Scope? 🌍
 
 Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
 
