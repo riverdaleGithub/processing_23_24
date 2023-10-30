@@ -132,7 +132,7 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 
 
 # Lab
-Before moving on, ensure you have created a custom function called **randColor()** that creates a random color for a shape. Create two other custom functions for your sketch that utilize user input. Make sure to follow the objectives:
+Before moving on, ensure you have created a custom function called **randColor()** that creates a random color for a shape. Create three other custom functions for your sketch that utilize user input. Make sure to include & customize the functions listed below.
 
 <br>
 - void setup() 
