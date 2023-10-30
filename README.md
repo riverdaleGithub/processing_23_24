@@ -51,11 +51,15 @@ Your understanding of the topics covered will be assessed through:
       <td> <a href="https://riverdalegithub.github.io/processing_23_24/grid/"> J4: Running the Grid </a> </td>
         </tr>
     <tr>
-      <td>OOP pt 1</td>
+      <td>Functions pt 1</td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J5: Are We Alone?</a>  </td>
+    </tr>
+    <tr>
+      <td>Functions pt 2</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J5: Are We Alone?</a>  </td>
     </tr>
       <tr>
-      <td>OOP pt 2</td>
+      <td>OOP Soft Intro </td>
       <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J6: Intro to Physics  </a> </td>
         </tr>
       <tr>
