@@ -56,7 +56,7 @@ Your understanding of the topics covered will be assessed through:
     </tr>
     <tr>
       <td>Functions pt 2</td>
-      <td><a href="https://riverdalegithub.github.io/processing_23_24/3/"> J5: Are We Alone?</a>  </td>
+      <td><a href="https://riverdalegithub.github.io/processing_23_24/functions/"> J5.5: Create Custom Functions</a>  </td>
     </tr>
       <tr>
       <td>OOP Soft Intro </td>
