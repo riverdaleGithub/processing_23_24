@@ -82,6 +82,9 @@ You will want to pass the following arguments:
 
 # Lesson 1: 👩‍🍳 Functions & Arguments 🍎🥦
 
+[![ufo](ufo.jpeg)](https://www.youtube.com/watch?v=B4607ie710I)
+
+
 Functions and arguments go hand in hand! 🤝 Think of a function as a chef 👩‍🍳 and arguments as the ingredients. You provide the ingredients to the chef, and she whips up a delightful dish! 🍲
 
 <details>
