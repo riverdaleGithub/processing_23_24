@@ -139,7 +139,7 @@ In this lab, you will be creating custom functions to enhance the interactivity 
 
   
 <summary>👾 Lab Guide 👾</summary>
-<br>
+
 
 0. Structure your sketch by using 
 
@@ -159,6 +159,7 @@ In this lab, you will be creating custom functions to enhance the interactivity 
 
 **Note:** While customizing the above functions, ensure that they are interactive and align with the theme or purpose of your sketch.
  </details>
+<br>
 <br>
 
 # Arguments = Ingredients 🍎
@@ -219,6 +220,8 @@ String myJuice = makeJuice("apple");
 
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
 </details>
+<br>
+<br>
 
 # 🌍 What is Scope? 🌍
 
