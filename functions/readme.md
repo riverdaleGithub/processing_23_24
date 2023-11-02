@@ -135,7 +135,7 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 <details>
 
   
-<summary>Tasks</summary>
+<summary>👾Tasks👾</summary>
 <br>
 
 0. Structure your sketch by using 
@@ -159,7 +159,7 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
 
 # Arguments = Ingredients 🍎
 
-Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
+Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a function  that makes juice. You have to give it fruits, right?
 <br>
 <pre><code>
     void makeJuice(String fruit) {
@@ -170,8 +170,8 @@ Sometimes, the magic box needs something from you to work. These are called "inp
 <br>
 
 <details>
-<summary> Explanation </summary>
-Here, `fruit` is what you give the magic box. So, if you want apple juice, you'd use the box (call the function) like this:
+<summary>👾 Custom Functions Guide 👾</summary>
+Here, `fruit` is what you give the function. So, if you want apple juice, you'd use call the function like this:
 <br>
 <br>
 
@@ -183,12 +183,12 @@ makeJuice("apple");
 
 <h3> Inside the Function 🎩✨</h3>
 
-Inside the magic box, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function.
+Inside the Function, there are instructions about what to do with what you gave it. These instructions are the lines of code inside the function, and we refer to this as defining the funciton.
 <br>
 
 <h3>Function Output ✨</h3>
 
-Sometimes, the magic box gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a magic box doesn't give anything back, we use the word `void`.
+Sometimes, the function gives you something back. Like, you put in an apple and get out juice. In Java, we decide what kind of thing we're going to get back using words like `int`, `String`, etc. If a function doesn't give anything back, we use the word `void`.
 <br>
 
 For instance, if our juice-making magic box gives back juice, it might look like:
@@ -222,7 +222,7 @@ And there you go! That's how functions in Java work. They're just like magic box
 Scope acts as an invisible barrier ⛩️ around segments of your code. Variables (like `x = 5`) exist within these boundaries. In programming, the term "scope" refers to the part of the code where a variable or function is accessible. Think of it as the "reach" or "visibility" of a variable or function.
 
 <details>
-<summary>Scope</summary>
+<summary>👾 Scope Guide 👾</summary>
     
 <h3>Types of Scopes in Java 🧐</h3>
 
