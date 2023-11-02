@@ -46,34 +46,44 @@ Welcome to the planning stage of your Milestone Project! This guide will help yo
 ## Step 1: Understanding the Project Requirements
 
 [] Read the project description **carefully**.
+<br>
 [] Highlight **key points** and **expectations**.
 
 ## Step 2: Brainstorming Ideas
 
 [] Write down all the ideas that come to your mind.
+<br>
 [] Think about your **interests** and **problems** you want to solve.
 
 ## Step 3: Defining the Scope
 
 [] Decide on what is **achievable** within the time frame.
+<br>
 [] Be **ambitious** but **realistic**.
 
 ## Step 4: Planning Functions (🛠️)
 
 [] List the tasks your program will perform.
+<br>
 [] Group tasks into **logical functions**.
+<br>
 [] Name your functions clearly.
+
 
 ## Step 5: Pseudocode and Flowcharts
 
 [] Write **pseudocode** or draw **flowcharts** to outline your program's logic.
+<br>
 [] Plan how each function will **interact** and **flow**.
 
 ## Additional Tips:
 
 [] **Start Early**: Give yourself plenty of time to plan and develop your project.
+<br>
 [] **Regular Check-ins**: Have milestones to check your progress.
+<br>
 [] **Peer Review**: Engage in peer reviews for additional feedback.
+<br>
 [] **Seek Help**: Don't hesitate to ask for help when you need it.
 
 </details>
@@ -92,28 +102,30 @@ Remember, this project is not just about coding; it's about problem-solving and 
 ## Step 6: Coding (📲)
 
 [] Start defining and coding your functions.
-  
+  <br>
 [] **Test** each function individually.
 
 ## Step 7: Integrating and Structuring (🏗️)
 [] Integrate your functions into the main program.
-
+<br>
 []Ensure the program flow is **logical** and **efficient**.
 
 ## Step 8: Testing and Debugging
 
 [] **Test** the program thoroughly.
-
+<br>
 [] Debug any issues that arise.
 
 ## Step 9: Refinement and Documentation
 
 [] Refine your code by removing unnecessary parts.
+<br>
 [] Add **comments** and ensure your code is well-**documented**.
 
 ## Step 10: Reflection and Focus (🎯)
 
 [] Reflect on your project's objectives and your learning.
+<br>
 [] Make sure your final submission is something you're **proud** of.
 
 </details>
