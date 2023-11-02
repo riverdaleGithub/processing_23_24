@@ -45,36 +45,36 @@ Welcome to the planning stage of your Milestone Project! This guide will help yo
 
 ## Step 1: Understanding the Project Requirements
 
-- Read the project description **carefully**.
-- Highlight **key points** and **expectations**.
+[] Read the project description **carefully**.
+[] Highlight **key points** and **expectations**.
 
 ## Step 2: Brainstorming Ideas
 
-- Write down all the ideas that come to your mind.
-- Think about your **interests** and **problems** you want to solve.
+[] Write down all the ideas that come to your mind.
+[] Think about your **interests** and **problems** you want to solve.
 
 ## Step 3: Defining the Scope
 
-- Decide on what is **achievable** within the time frame.
-- Be **ambitious** but **realistic**.
+[] Decide on what is **achievable** within the time frame.
+[] Be **ambitious** but **realistic**.
 
 ## Step 4: Planning Functions (🛠️)
 
-- List the tasks your program will perform.
-- Group tasks into **logical functions**.
-- Name your functions clearly.
+[] List the tasks your program will perform.
+[] Group tasks into **logical functions**.
+[] Name your functions clearly.
 
 ## Step 5: Pseudocode and Flowcharts
 
-- Write **pseudocode** or draw **flowcharts** to outline your program's logic.
-- Plan how each function will **interact** and **flow**.
+[] Write **pseudocode** or draw **flowcharts** to outline your program's logic.
+[] Plan how each function will **interact** and **flow**.
 
 ## Additional Tips:
 
-- **Start Early**: Give yourself plenty of time to plan and develop your project.
-- **Regular Check-ins**: Have milestones to check your progress.
-- **Peer Review**: Engage in peer reviews for additional feedback.
-- **Seek Help**: Don't hesitate to ask for help when you need it.
+[] **Start Early**: Give yourself plenty of time to plan and develop your project.
+[] **Regular Check-ins**: Have milestones to check your progress.
+[] **Peer Review**: Engage in peer reviews for additional feedback.
+[] **Seek Help**: Don't hesitate to ask for help when you need it.
 
 </details>
 
@@ -104,17 +104,17 @@ Remember, this project is not just about coding; it's about problem-solving and 
 
 [] **Test** the program thoroughly.
 
-[]Debug any issues that arise.
+[] Debug any issues that arise.
 
 ## Step 9: Refinement and Documentation
 
-- Refine your code by removing unnecessary parts.
-- Add **comments** and ensure your code is well-**documented**.
+[] Refine your code by removing unnecessary parts.
+[] Add **comments** and ensure your code is well-**documented**.
 
 ## Step 10: Reflection and Focus (🎯)
 
-- Reflect on your project's objectives and your learning.
-- Make sure your final submission is something you're **proud** of.
+[] Reflect on your project's objectives and your learning.
+[] Make sure your final submission is something you're **proud** of.
 
 </details>
 <br>
