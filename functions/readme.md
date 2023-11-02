@@ -129,8 +129,6 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
   <br>
 </details>
 
-
-
 # Lab: Custom Functions and User Input in Processing
 
 **Lab Instructions:**
@@ -157,11 +155,6 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
    - `keyPressed()`: This function is triggered once every time a key is pressed. 
 
 **Note:** While customizing the above functions, ensure that they are interactive and align with the theme or purpose of your sketch.
-
----
-
-<details>
- <summary>Part Two</summary>
  
 # Arguments = Ingredients 🍎
 
