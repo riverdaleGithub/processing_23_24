@@ -27,7 +27,7 @@ A function operates like a mini-program within your main program. It allows you 
 
 When you're just starting, remember that it's okay if things don't make perfect sense right away. With time and practice, it'll become second nature! And the most important thing is to have fun experimenting and creating with Processing.
 
-<h2> Functions</h2>  
+<h2> Functions </h2>  
 
 Imagine Functions as Magic Boxes 🎁
 You know those magic boxes in fairy tales where you put something in, whisper a magic word, and get something totally different or amazing out? That's exactly how functions in Java (and most programming languages) work!
@@ -80,9 +80,7 @@ This is like preparing your sketchbook. It runs once, right at the beginning whe
 - Load images, fonts, or sounds you want to use later.
 - Basically, any initial preparations you need before your main drawing begins.
 
-
 <br>
-
 Example
 <pre>
   <code>
@@ -109,7 +107,6 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
     - Update positions of objects for animations.
     - Change colors, sizes, or any other properties of your drawings.
   <br>
-  <br>
 
   Example
   <br>
@@ -135,7 +132,10 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
    
 **Objective:** In this lab, you will be creating custom functions to enhance the interactivity of your sketch in Processing. One of these functions will generate a random color, while the others will utilize user input.
 
-**Tasks:**
+<details>
+
+  
+<summary>Tasks</summary>
 <br>
 
 0. Structure your sketch by using 
@@ -155,7 +155,8 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
    - `keyPressed()`: This function is triggered once every time a key is pressed. 
 
 **Note:** While customizing the above functions, ensure that they are interactive and align with the theme or purpose of your sketch.
- 
+ </details>
+
 # Arguments = Ingredients 🍎
 
 Sometimes, the magic box needs something from you to work. These are called "inputs" or "arguments". Imagine you have a magic box that makes juice. You have to give it fruits, right?
@@ -168,6 +169,8 @@ Sometimes, the magic box needs something from you to work. These are called "inp
 <br>
 <br>
 
+<details>
+<summary> Explanation </summary>
 Here, `fruit` is what you give the magic box. So, if you want apple juice, you'd use the box (call the function) like this:
 <br>
 <br>
@@ -212,7 +215,7 @@ String myJuice = makeJuice("apple");
 </code></pre>
 
 And there you go! That's how functions in Java work. They're just like magic boxes where you put something in, some magic happens, and you might get something awesome out. 🪄✨
-
+</details>
 
 # 🌍 What is Scope? 🌍
 
