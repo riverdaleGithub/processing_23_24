@@ -290,5 +290,4 @@ Remember, understanding scope is crucial because it helps you manage data and co
 
 </details>
 
-</details>
 
