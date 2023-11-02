@@ -91,18 +91,20 @@ Remember, this project is not just about coding; it's about problem-solving and 
 
 ## Step 6: Coding (📲)
 
-- Start defining and coding your functions.
-- **Test** each function individually.
+[] Start defining and coding your functions.
+  
+[] **Test** each function individually.
 
 ## Step 7: Integrating and Structuring (🏗️)
+[] Integrate your functions into the main program.
 
-- Integrate your functions into the main program.
-- Ensure the program flow is **logical** and **efficient**.
+[]Ensure the program flow is **logical** and **efficient**.
 
 ## Step 8: Testing and Debugging
 
-- **Test** the program thoroughly.
-- Debug any issues that arise.
+[] **Test** the program thoroughly.
+
+[]Debug any issues that arise.
 
 ## Step 9: Refinement and Documentation
 
