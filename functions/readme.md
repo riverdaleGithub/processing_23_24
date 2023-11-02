@@ -18,7 +18,8 @@ function code goes here
 
 A function operates like a mini-program within your main program. It allows you to bundle code, assign it a name, and utilize it multiple times. Visualize a magic box 🎁 that performs a task every time you invoke it.
 
-
+<details>
+<summary> 👾 Functions Guide 👾 </summary>
 <h2> Objective </h2>
 
 - To create and use your own custom methods
@@ -50,6 +51,7 @@ turnApplesToGold();
 </code></pre>
 
 thats all there is to calling a function! Processing is super cool, and provides us with predefined functions. You've actually been using/calling these functions since day 1 of processing!!!
+</details>
 
 <br>
 <h2> Void Setup </h2>
@@ -125,17 +127,18 @@ Continuously Drawing on Your Canvas. The void draw() function is like the act of
   are special variables that always store the current position of the mouse. Since draw() is running over and over, the circle will appear to follow your mouse as you move it around the canvas!
   <br>
 </details>
+<br>
 
 # Lab: Custom Functions and User Input in Processing
 
 **Lab Instructions:**
-   
-**Objective:** In this lab, you will be creating custom functions to enhance the interactivity of your sketch in Processing. One of these functions will generate a random color, while the others will utilize user input.
+
+In this lab, you will be creating custom functions to enhance the interactivity of your sketch in Processing. One of these functions will generate a random color, while the others will utilize user input.
 
 <details>
 
   
-<summary>👾Tasks👾</summary>
+<summary>👾 Lab Guide 👾</summary>
 <br>
 
 0. Structure your sketch by using 
