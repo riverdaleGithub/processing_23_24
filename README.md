@@ -58,13 +58,8 @@ Your understanding of the topics covered will be assessed through:
       <td>Functions pt 2</td>
       <td><a href="https://riverdalegithub.github.io/processing_23_24/functions/"> J5.5: Create Custom Functions</a>  </td>
     </tr>
-      <tr>
-      <td>OOP Soft Intro </td>
-      <td> <a href="https://riverdalegithub.github.io/processing_23_24/4/"> J6: Intro to Physics  </a> </td>
-        </tr>
-      <tr>
       <td>Milestone Project</td>
-      <td> <a href="#"> TBD M1: Project TBD  </a> </td>
+      <td> <a href="https://riverdalegithub.github.io/processing_23_24/m1/"> M1: Project TBD  </a> </td>
     </tr>
   </tbody>
 </table>
