@@ -159,6 +159,7 @@ In this lab, you will be creating custom functions to enhance the interactivity 
 
 **Note:** While customizing the above functions, ensure that they are interactive and align with the theme or purpose of your sketch.
  </details>
+<br>
 
 # Arguments = Ingredients 🍎
 
@@ -169,8 +170,7 @@ Sometimes, the magic box needs something from you to work. These are called "inp
         // Magic happens here!
     }
 </code></pre>
-<br>
-<br>
+
 
 <details>
 <summary>👾 Custom Functions Guide 👾</summary>
