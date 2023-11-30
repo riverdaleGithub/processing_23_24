@@ -9,7 +9,7 @@ If you create a game you'd like to share, Ms. James would love to showcase said 
 
 ## Step 1: Understanding the Project Requirements
 
-Create an original game that uses mouseX and mouseY, or the Keyboard, to allow the user interaction with said sketch. Here are a few examples you may choose from. Please feel free to create your own game!
+Create an original game that uses mouseX and mouseY, or the Keyboard, to allow the user interaction with said sketch. Here are a few examples you may choose from. Please feel free to create your own game! The game must be structured with functions. Code hygine will be a large factor in reviews.
 
 # Interactive Game Ideas 🎮
 
@@ -36,7 +36,7 @@ When you're ready to submit the project, you should prepare a compressed folder 
   <br>
 - Planning document: This includes the project plan, with details on the functions and structure of your program.
     <br>
-- Code: The actual Java code files for your project.
+- Code: The commented Java code files for your project.
     <br>
 - Video walkthrough: A video recording where you demonstrate and explain how your program works.
 This checklist is designed to guide you through the project from conception to submission, ensuring that you cover all necessary steps to create a well-thought-out, functional, and polished piece of software.
