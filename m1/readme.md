@@ -4,139 +4,35 @@
 
 Think of a milestone on the road: it marks how far you've come and signals towards the journey ahead. Similarly, your Milestone Project is a significant marker in your coding adventure. It's a comprehensive assignment designed to showcase all the skills you've acquired so far, especially your newfound ability to create and use functions.
 
-Functions are like magic spells in Java. You've learned to conjure these spells to perform tasks, from the simplest to the more complex. They help you organize your code, avoid repetition, and make your programs more efficient and easier to read.
-
-In this project, you will be tasked with creating a program that is a reflection of both your creativity and your technical skills. Here's what it's all about:
-
-# Grading 
-
-<details>
-<summary> 👾 How to get a good Grade 👾 </summary>
-
-<h2>Creating Functions(🛠️) </h2>
-You will design your own functions from scratch. Think about what tasks you want to perform repeatedly in your program and encapsulate them within functions.
-<br>
- 
-
-<h2>Using Functions(📲) </h2>
- Once you've created your functions, you'll call them at the right moments. This will test how well you can integrate them into your program to perform useful actions.
-<br>
-
-
-<h2>Structuring Programs Functionally(🏗️)</h2>
- Your program should not just be a jumble of code. It should have a clear, logical structure where functions are used to break down problems into manageable pieces.
-<br>
-
-
-<h2>Focus(🎯)</h2>
-This Milestone Project is not just about getting a good grade. It's about putting your skills to the test and building something you can be proud of. It's about thinking like a programmer and solving problems systematicall
-<br>
-</details>
-
-# Planning Guide
-
-<img src="plan.gif">
-
-<br>
-
-<details>
-<summary> 👾 Part One 👾 </summary>
-Welcome to the planning stage of your Milestone Project! This guide will help you step through the process of planning and executing your project effectively. 
+## Sharing Work
+If you create a game you'd like to share, Ms. James would love to showcase said projects on this website for future visual coding classes! Simply email and let me know :)
 
 ## Step 1: Understanding the Project Requirements
 
-[] Read the project description **carefully**.
-<br>
-[] Highlight **key points** and **expectations**.
+Create an original game that uses mouseX and mouseY, or the Keyboard, to allow the user interaction with said sketch. Here are a few examples you may choose from. Please feel free to create your own game!
 
-## Step 2: Brainstorming Ideas
+# Interactive Game Ideas 🎮
 
-[] Write down all the ideas that come to your mind.
-<br>
-[] Think about your **interests** and **problems** you want to solve.
+## 1. Color Match Challenge 🌈
+**Description:** Players control a paddle at the bottom of the screen using the mouse. Different colored balls fall from the top, and the player must change the paddle's color (by clicking different keyboard keys) to match the color of the falling ball. Points are gained when the ball and paddle colors match upon collision. The game's pace increases over time.
 
-## Step 3: Defining the Scope
+## 2. Star Collector 🌟
+**Description:** Players navigate a small spaceship (using the mouse) across the screen to collect stars that appear in random positions and sizes. The spaceship changes color based on its position on the screen, and only stars matching the spaceship's color can be collected. The game speeds up and adds more stars as the player's score goes up.
 
-[] Decide on what is **achievable** within the time frame.
-<br>
-[] Be **ambitious** but **realistic**.
+## 3. Dynamic Maze 🔮
+**Description:** Players navigate a constantly shifting maze using their mouse. The walls of the maze change and move, requiring players to continuously find new paths. The cursor (a small square or circle) changes size based on movement speed. The goal is to reach the end of the maze as quickly as possible.
 
-## Step 4: Planning Functions (🛠️)
+## 4. Artistic Pong 🎨
+**Description:** A creative variation of Pong where the player uses the mouse to control a paddle on one side of the screen. Each hit of the ball changes its color and leaves a colored trail. The paddle's size decreases as the player scores more points. The objective is to keep the ball in play while creating a visually appealing color pattern.
 
-[] List the tasks your program will perform.
-<br>
-[] Group tasks into **logical functions**.
-<br>
-[] Name your functions clearly.
+## 5. Reflection Puzzle 💡
+**Description:** This puzzle game involves controlling a light source with the mouse to illuminate a target. Players adjust mirrors in the level to reflect the light at the correct angle. The light's color changes based on its screen position, and only light of a specific color can activate the target.
 
 
-## Step 5: Pseudocode and Flowcharts
 
-[] Write **pseudocode** or draw **flowcharts** to outline your program's logic.
-<br>
-[] Plan how each function will **interact** and **flow**.
-
-## Additional Tips:
-
-[] **Start Early**: Give yourself plenty of time to plan and develop your project.
-<br>
-[] **Regular Check-ins**: Have milestones to check your progress.
-<br>
-[] **Peer Review**: Engage in peer reviews for additional feedback.
-<br>
-[] **Seek Help**: Don't hesitate to ask for help when you need it.
-
-</details>
-
-Remember, this project is not just about coding; it's about problem-solving and applying your knowledge creatively. Good luck!
-
-<br>
-<br>
-
-# Writing the Code
-<img src="code.gif">
-
-<details>
-<summary> 👾 Part 2 👾</summary>
-
-## Step 6: Coding (📲)
-
-[] Start defining and coding your functions.
-  <br>
-[] **Test** each function individually.
-
-## Step 7: Integrating and Structuring (🏗️)
-[] Integrate your functions into the main program.
-<br>
-[]Ensure the program flow is **logical** and **efficient**.
-
-## Step 8: Testing and Debugging
-
-[] **Test** the program thoroughly.
-<br>
-[] Debug any issues that arise.
-
-## Step 9: Refinement and Documentation
-
-[] Refine your code by removing unnecessary parts.
-<br>
-[] Add **comments** and ensure your code is well-**documented**.
-
-## Step 10: Reflection and Focus (🎯)
-
-[] Reflect on your project's objectives and your learning.
-<br>
-[] Make sure your final submission is something you're **proud** of.
-
-</details>
-<br>
-<br>
-
-# Turn In
+## Turn In
 
 When you're ready to submit the project, you should prepare a compressed folder containing:
-  <br>
-- Ideation document: This document captures the brainstorming process and initial ideas for the project.
   <br>
 - Planning document: This includes the project plan, with details on the functions and structure of your program.
     <br>
