@@ -11,6 +11,8 @@ If you create a game you'd like to share, Ms. James would love to showcase said 
 
 Create an original game that uses mouseX and mouseY, or the Keyboard, to allow the user interaction with said sketch. Here are a few examples you may choose from. Please feel free to create your own game! The game must be structured with functions. Code hygine will be a large factor in reviews.
 
+The game should take about a week to plan, code, and debug. The complexity should be on par with the examples below. If making your own game, make sure to checkin with your instructor.
+
 # Interactive Game Ideas 🎮
 
 ## 1. Color Match Challenge 🌈
